@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curiosity Project</title>
+    <link>http://larrywright.me/</link>
+    <description>Recent content on Curiosity Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jun 2012 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://larrywright.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyclemeter for iOS: A Great App for Cyclists (and Runners Too)</title>
+      <link>http://larrywright.me/articles/cyclemeter-for-ios-a-great-app-for-cyclists-and-runners-too/</link>
+      <pubDate>Wed, 13 Jun 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/cyclemeter-for-ios-a-great-app-for-cyclists-and-runners-too/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;&lt;img src=&#34;http://larrywright.me/assets/cyclemeter.png&#34; style=&#34;float:right; margin: 10px;&#34;/&gt;&lt;/a&gt;\
+I try to ride &lt;a href=&#34;http://www.specialized.com/us/en/bikes/multiuse/sirrus/sirrus&#34;&gt;my
+bike&lt;/a&gt;
+most mornings, assuming it&amp;rsquo;s not pouring down rain. It&amp;rsquo;s the &lt;a href=&#34;http://instagr.am/p/Lc1tqsLKzs/&#34;&gt;same
+route&lt;/a&gt; most days, but it occured to me
+a few weeks ago that I really had no idea how far, or fast, I was
+riding. Being the nerd that I am, I decided to find a technology
+solution to this problem.&lt;/p&gt;
+
+&lt;h3 id=&#34;enter-cyclemeter:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;Enter Cyclemeter&lt;/h3&gt;
+
+&lt;p&gt;Dedicated bike computers and GPS devices have existed for some years
+now, but like most everyone else these days, I&amp;rsquo;ve got an iPhone with a
+GPS built right in. A little searching led me to a number of apps that
+did what I wanted, and after reading some reviews, I settled on
+&lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;Cyclemeter&lt;/a&gt;. The name is actually a bit of a
+misnomer, since the app will also work for walking, runnig, skiing, or
+pretty much any other activity that involves moving forward on a
+mostly-horizontal plane.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-it-works:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;How it Works&lt;/h3&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve installed the app, it&amp;rsquo;s easy to get started. Open the app,
+and click the giant green &amp;ldquo;Start&amp;rdquo; button. Then get moving. Cyclemeter
+will plot your route as you go, and calculate your time, speed,
+distance, elevation and calories burned (if you provide your weight).
+When you&amp;rsquo;re done, click &amp;ldquo;Stop&amp;rdquo;, and CycleMeter saves the information.
+You can look back at previous days on the calendar.&lt;/p&gt;
+
+&lt;p&gt;Cyclemeter has a slew of other features, like sharing via Facebook,
+Twitter or Daily Mile, competing against yourself or someone else, and a
+bunch of nice ways to visualize your results. You can also export all of
+the data, so you&amp;rsquo;re not locked in if you want to move to something else,
+or just want to play with the numbers yourself. All of your data can be
+backed up to iCloud as well, so you won&amp;rsquo;t lose it if you run into a tree
+and shatter your iPhone.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-need-this:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;You Need This&lt;/h3&gt;
+
+&lt;p&gt;At \$4.99 Cyclemeter is quite a value when you consider what it
+replaces. If you bike or run, I&amp;rsquo;d highly recommend it. You can buy it on
+the &lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;App Store&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyclemeter for iOS: A Great App for Cyclists (and Runners Too)</title>
+      <link>http://larrywright.me/post/cyclemeter-for-ios-a-great-app-for-cyclists-and-runners-too/</link>
+      <pubDate>Wed, 13 Jun 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/cyclemeter-for-ios-a-great-app-for-cyclists-and-runners-too/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;&lt;img src=&#34;http://larrywright.me/assets/cyclemeter.png&#34; style=&#34;float:right; margin: 10px;&#34;/&gt;&lt;/a&gt;\
+I try to ride &lt;a href=&#34;http://www.specialized.com/us/en/bikes/multiuse/sirrus/sirrus&#34;&gt;my
+bike&lt;/a&gt;
+most mornings, assuming it&amp;rsquo;s not pouring down rain. It&amp;rsquo;s the &lt;a href=&#34;http://instagr.am/p/Lc1tqsLKzs/&#34;&gt;same
+route&lt;/a&gt; most days, but it occured to me
+a few weeks ago that I really had no idea how far, or fast, I was
+riding. Being the nerd that I am, I decided to find a technology
+solution to this problem.&lt;/p&gt;
+
+&lt;h3 id=&#34;enter-cyclemeter:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;Enter Cyclemeter&lt;/h3&gt;
+
+&lt;p&gt;Dedicated bike computers and GPS devices have existed for some years
+now, but like most everyone else these days, I&amp;rsquo;ve got an iPhone with a
+GPS built right in. A little searching led me to a number of apps that
+did what I wanted, and after reading some reviews, I settled on
+&lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;Cyclemeter&lt;/a&gt;. The name is actually a bit of a
+misnomer, since the app will also work for walking, runnig, skiing, or
+pretty much any other activity that involves moving forward on a
+mostly-horizontal plane.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-it-works:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;How it Works&lt;/h3&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve installed the app, it&amp;rsquo;s easy to get started. Open the app,
+and click the giant green &amp;ldquo;Start&amp;rdquo; button. Then get moving. Cyclemeter
+will plot your route as you go, and calculate your time, speed,
+distance, elevation and calories burned (if you provide your weight).
+When you&amp;rsquo;re done, click &amp;ldquo;Stop&amp;rdquo;, and CycleMeter saves the information.
+You can look back at previous days on the calendar.&lt;/p&gt;
+
+&lt;p&gt;Cyclemeter has a slew of other features, like sharing via Facebook,
+Twitter or Daily Mile, competing against yourself or someone else, and a
+bunch of nice ways to visualize your results. You can also export all of
+the data, so you&amp;rsquo;re not locked in if you want to move to something else,
+or just want to play with the numbers yourself. All of your data can be
+backed up to iCloud as well, so you won&amp;rsquo;t lose it if you run into a tree
+and shatter your iPhone.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-need-this:cf90c96b9bc2099b5522feee9e779e88&#34;&gt;You Need This&lt;/h3&gt;
+
+&lt;p&gt;At \$4.99 Cyclemeter is quite a value when you consider what it
+replaces. If you bike or run, I&amp;rsquo;d highly recommend it. You can buy it on
+the &lt;a href=&#34;http://refer.ly/aaE7&#34;&gt;App Store&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Use Prismatic to Discover the News You Care About</title>
+      <link>http://larrywright.me/articles/drink-from-the-firehose-how-to-use-prismatic-to-find-the-news-you-care-about-without-drowning-in-stuff-you-dont/</link>
+      <pubDate>Fri, 08 Jun 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/drink-from-the-firehose-how-to-use-prismatic-to-find-the-news-you-care-about-without-drowning-in-stuff-you-dont/</guid>
+      <description>&lt;p&gt;As the title of my blog implies, I&amp;rsquo;m a curious person. I like learning,
+and I&amp;rsquo;m addicted to keeping up on the latest news about things I&amp;rsquo;m
+interested in: programming, design, and the like. Sometimes I find it
+hard to keep up with it all. About a month ago, I discovered
+&lt;a href=&#34;http://getprismatic.com&#34;&gt;Prismatic&lt;/a&gt;, and it&amp;rsquo;s changed how I read the
+web by making it easier to find the news that I care about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;gt;https://www.evernote.com/shard/s3/sh/a4b5c094-e299-4204-a9d7-f8c3105298fe/ea3d779323cb679dafe6c60757c50b5c/res/46d292c2-4b7e-4ecb-b2cf-06a1578e1334/Prismatic-20120607-232412.jpg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prismatic scans all of the links that come across Twitter (that&amp;rsquo;s a lot
+of links), and categorizes them using some fairly sophisticated software
+(&lt;a href=&#34;http://blog.getprismatic.com/blog/2012/4/5/software-engineering-at-prismatic.html&#34;&gt;written in
+Clojure&lt;/a&gt;),
+and then matches those links to you based on who you follow and what you
+tweet about. It sifts through all of Twitter to find the stuff that YOU
+care about. That&amp;rsquo;s powerful.&lt;/p&gt;
+
+&lt;p&gt;Getting started with Prismatic is easy. Sign in and link it to your
+Twitter accounts and it will present you with a list of articles that
+you will like, based on your Twitter activity. You can also tell
+Prismatic what you&amp;rsquo;re interested in, by adding, well, interests. They
+seem to have just about everything, so whatever you&amp;rsquo;re looking for is
+likely to be there.&lt;/p&gt;
+
+&lt;p&gt;Prismatic gives you the stuff you care about presented in a single
+&amp;ldquo;river of news&amp;rdquo; format - as you get to the end of the page, it loads
+more articles for you. They pull out a little it of the article to give
+you an idea of what it&amp;rsquo;s about, and show you a sampling of what people
+on Twitter are saying about it. Each article that you see has a couple
+of controls on it that let you tell Prismatic what you like and dislike,
+which will adjust what it shows you based on that feedback. In theory,
+at least, it will learn over time what you want to see and show you more
+of what you like, and less of what you don&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been using Prismatic for a month now, and I&amp;rsquo;m completely addicted.
+It&amp;rsquo;s a great way to find news about the things you&amp;rsquo;re interested in, has
+some great features, and there&amp;rsquo;s certainly more to come (an iOS app is
+in the works according to their blog). Try it out and let me know what
+you think.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Use Prismatic to Discover the News You Care About</title>
+      <link>http://larrywright.me/post/drink-from-the-firehose-how-to-use-prismatic-to-find-the-news-you-care-about-without-drowning-in-stuff-you-dont/</link>
+      <pubDate>Fri, 08 Jun 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/drink-from-the-firehose-how-to-use-prismatic-to-find-the-news-you-care-about-without-drowning-in-stuff-you-dont/</guid>
+      <description>&lt;p&gt;As the title of my blog implies, I&amp;rsquo;m a curious person. I like learning,
+and I&amp;rsquo;m addicted to keeping up on the latest news about things I&amp;rsquo;m
+interested in: programming, design, and the like. Sometimes I find it
+hard to keep up with it all. About a month ago, I discovered
+&lt;a href=&#34;http://getprismatic.com&#34;&gt;Prismatic&lt;/a&gt;, and it&amp;rsquo;s changed how I read the
+web by making it easier to find the news that I care about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;gt;https://www.evernote.com/shard/s3/sh/a4b5c094-e299-4204-a9d7-f8c3105298fe/ea3d779323cb679dafe6c60757c50b5c/res/46d292c2-4b7e-4ecb-b2cf-06a1578e1334/Prismatic-20120607-232412.jpg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prismatic scans all of the links that come across Twitter (that&amp;rsquo;s a lot
+of links), and categorizes them using some fairly sophisticated software
+(&lt;a href=&#34;http://blog.getprismatic.com/blog/2012/4/5/software-engineering-at-prismatic.html&#34;&gt;written in
+Clojure&lt;/a&gt;),
+and then matches those links to you based on who you follow and what you
+tweet about. It sifts through all of Twitter to find the stuff that YOU
+care about. That&amp;rsquo;s powerful.&lt;/p&gt;
+
+&lt;p&gt;Getting started with Prismatic is easy. Sign in and link it to your
+Twitter accounts and it will present you with a list of articles that
+you will like, based on your Twitter activity. You can also tell
+Prismatic what you&amp;rsquo;re interested in, by adding, well, interests. They
+seem to have just about everything, so whatever you&amp;rsquo;re looking for is
+likely to be there.&lt;/p&gt;
+
+&lt;p&gt;Prismatic gives you the stuff you care about presented in a single
+&amp;ldquo;river of news&amp;rdquo; format - as you get to the end of the page, it loads
+more articles for you. They pull out a little it of the article to give
+you an idea of what it&amp;rsquo;s about, and show you a sampling of what people
+on Twitter are saying about it. Each article that you see has a couple
+of controls on it that let you tell Prismatic what you like and dislike,
+which will adjust what it shows you based on that feedback. In theory,
+at least, it will learn over time what you want to see and show you more
+of what you like, and less of what you don&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been using Prismatic for a month now, and I&amp;rsquo;m completely addicted.
+It&amp;rsquo;s a great way to find news about the things you&amp;rsquo;re interested in, has
+some great features, and there&amp;rsquo;s certainly more to come (an iOS app is
+in the works according to their blog). Try it out and let me know what
+you think.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make the Best Cup of Coffee at Home</title>
+      <link>http://larrywright.me/articles/how-to-make-the-best-cup-of-coffee-at-home/</link>
+      <pubDate>Fri, 25 May 2012 09:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/how-to-make-the-best-cup-of-coffee-at-home/</guid>
+      <description>&lt;p&gt;I am a huge fan of coffee and over the years I have tried a lot of
+different means of preparing it. I currently own a french press, a drip
+maker, and a stovetop espresso pot. All of these make good coffee, with
+each having its own set of pros and cons. Last year, however, I
+discovered the best method for brewing coffee:
+&lt;a href=&#34;http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK/&#34;&gt;Aeropress&lt;/a&gt;.
+It makes delicious coffee, takes up almost no space in your kitchen, and
+cleanup is easy.&lt;/p&gt;
+
+&lt;p&gt;The Aeropress works kind of like an espresso maker, though at a much
+lower pressure. The coffee it produces is espresso strength. This means
+you can drink it like an espresso or use it to create espresso-based
+drinks like Cafe Au Lait or Capuccino. I add hot water to mine to make
+an &lt;a href=&#34;http://en.wikipedia.org/wiki/CaffÃ¨_Americano&#34;&gt;Americano&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since getting the Aeropress, it&amp;rsquo;s been the only method I&amp;rsquo;ve used to brew
+coffee. It&amp;rsquo;s replaced the drip machine in our kitchen. It takes up
+almost no space, travels well, and produces consistently great coffee.
+Perhaps the greatest feature is the one I haven&amp;rsquo;t mentioned yet: price.
+It will set you back a little more than \$20, much lower than a decent
+home espresso machine or even a drip coffee maker. It&amp;rsquo;s great for
+traveling or camping. Any place you can make hot water, you can make
+coffee with the Aeropress.&lt;/p&gt;
+
+&lt;p&gt;One caveat: you will need a coffee grinder, or a place to buy beans that
+will grind them for you. Coffee ground for a drip coffee maker won&amp;rsquo;t
+work (which rules out pretty much all pre-ground coffee you would get at
+the store). You need grounds that are somewhere between espresso and
+drip. You&amp;rsquo;re really going to want a conical burr grinder, similar to
+this one: I suspect if you&amp;rsquo;ve read this far than you either have one or
+are willing to buy one.&lt;/p&gt;
+
+&lt;p&gt;In summary: If you enjoy great coffee, you need an
+&lt;a href=&#34;http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK/&#34;&gt;Aeropress&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To get an even better idea of how it works, check out this short video:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://player.vimeo.com/video/40980282&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;  webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make the Best Cup of Coffee at Home</title>
+      <link>http://larrywright.me/post/how-to-make-the-best-cup-of-coffee-at-home/</link>
+      <pubDate>Fri, 25 May 2012 09:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/how-to-make-the-best-cup-of-coffee-at-home/</guid>
+      <description>&lt;p&gt;I am a huge fan of coffee and over the years I have tried a lot of
+different means of preparing it. I currently own a french press, a drip
+maker, and a stovetop espresso pot. All of these make good coffee, with
+each having its own set of pros and cons. Last year, however, I
+discovered the best method for brewing coffee:
+&lt;a href=&#34;http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK/&#34;&gt;Aeropress&lt;/a&gt;.
+It makes delicious coffee, takes up almost no space in your kitchen, and
+cleanup is easy.&lt;/p&gt;
+
+&lt;p&gt;The Aeropress works kind of like an espresso maker, though at a much
+lower pressure. The coffee it produces is espresso strength. This means
+you can drink it like an espresso or use it to create espresso-based
+drinks like Cafe Au Lait or Capuccino. I add hot water to mine to make
+an &lt;a href=&#34;http://en.wikipedia.org/wiki/CaffÃ¨_Americano&#34;&gt;Americano&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since getting the Aeropress, it&amp;rsquo;s been the only method I&amp;rsquo;ve used to brew
+coffee. It&amp;rsquo;s replaced the drip machine in our kitchen. It takes up
+almost no space, travels well, and produces consistently great coffee.
+Perhaps the greatest feature is the one I haven&amp;rsquo;t mentioned yet: price.
+It will set you back a little more than \$20, much lower than a decent
+home espresso machine or even a drip coffee maker. It&amp;rsquo;s great for
+traveling or camping. Any place you can make hot water, you can make
+coffee with the Aeropress.&lt;/p&gt;
+
+&lt;p&gt;One caveat: you will need a coffee grinder, or a place to buy beans that
+will grind them for you. Coffee ground for a drip coffee maker won&amp;rsquo;t
+work (which rules out pretty much all pre-ground coffee you would get at
+the store). You need grounds that are somewhere between espresso and
+drip. You&amp;rsquo;re really going to want a conical burr grinder, similar to
+this one: I suspect if you&amp;rsquo;ve read this far than you either have one or
+are willing to buy one.&lt;/p&gt;
+
+&lt;p&gt;In summary: If you enjoy great coffee, you need an
+&lt;a href=&#34;http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK/&#34;&gt;Aeropress&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To get an even better idea of how it works, check out this short video:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://player.vimeo.com/video/40980282&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34;  webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cool Tool: If This Then That</title>
+      <link>http://larrywright.me/articles/cool-tool-if-this-then-that/</link>
+      <pubDate>Mon, 09 Apr 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/cool-tool-if-this-then-that/</guid>
+      <description>&lt;p&gt;I tend to be a little skeptical of the new and shiny. There is often a
+lot of hype about how life changing some new website or gizmo is going
+to be. Sometimes, however, something comes along that does live up to
+the hype. The latest one I&amp;rsquo;ve found is a rather nondescript site called
+&lt;a href=&#34;http://ifttt.com/&#34;&gt;ifttt&lt;/a&gt;. The URL is strange, until you understand
+that it stands for &amp;ldquo;If This Then That&amp;rdquo;. What the site does is allow you
+to automate bits of your digital life by watching for events (the &amp;ldquo;if
+this&amp;rdquo; portion), and then taking an action (the &amp;ldquo;then that&amp;rdquo; portion). It
+lets you tie together the various sites and services that you use,
+allowing you to do even more with them.&lt;/p&gt;
+
+&lt;p&gt;This warrants an example, perhaps.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s say you take lots of pictures of your kids with Instagram. And
+let&amp;rsquo;s say your mom (or grandmother) isn&amp;rsquo;t the most tech-savvy user. She
+uses email, but doesn&amp;rsquo;t have a smartphone and doesn&amp;rsquo;t want one. She
+doesn&amp;rsquo;t use Facebook or Twitter. Wouldn&amp;rsquo;t it be nice if you could
+automatically email any pictures you post to Instagram to your mother so
+that she doesn&amp;rsquo;t give you a guilt trip for never sending her pictures of
+her grandkids (hypothetically speaking, of course. Any resemblance to my
+own mother is purely coincidental). Ifttt can do that for you. What
+about those receipts you get emailed to you every month that you need at
+the end of the year for taxes? Wouldn&amp;rsquo;t it be nice if you could get
+those sent to a specific folder in Evernote so that they&amp;rsquo;re all in one
+place? Ifttt can do that for you. You know all those links that come
+across your Twitter stream that you don&amp;rsquo;t take the time to read?
+Wouldn&amp;rsquo;t it be cool if you could just favorite the tweet and have the
+link in the tweet automagically added to your Instapaper account? Ifttt
+can do that for you.&lt;/p&gt;
+
+&lt;p&gt;So, how does it work?&lt;/p&gt;
+
+&lt;p&gt;Ifttt is built on the idea of triggers, channels, tasks, and recipes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ifttt.com/channels&#34;&gt;Channels&lt;/a&gt; represent the hooks into the
+websites you use. Gmail, Google Reader,Twitter, Facebook, Evernote,
+Dropbox, Instagram, etc. If it&amp;rsquo;s a popular service, ifttt probably has a
+channel for it. There are also general channels for things like RSS
+feeds that aren&amp;rsquo;t tied to a specific service.&lt;/p&gt;
+
+&lt;p&gt;Triggers then are events that occur on these services. A picture is
+taken on Instagram, a new email appears in your Gmail account, someone
+new follows you on Twitter. Triggers allow you to specify when you want
+to take action. They also frequently allow you to specify criteria. In
+the case of Gmail, for example, you can specify that you only want to
+take action if the email is from a specific person, or contains a
+certain word in the subject line. If you&amp;rsquo;ve ever created filters in
+Gmail or Outlook, it&amp;rsquo;s the same concept, but applied on a much larger
+scale.&lt;/p&gt;
+
+&lt;p&gt;Tasks, like Triggers, are built on Channels. They allow you to perform
+tasks in reaction to a trigger. Examples of tasks would be things like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sending an email&lt;/li&gt;
+&lt;li&gt;Creating a new note in Evernote&lt;/li&gt;
+&lt;li&gt;Sending a tweet&lt;/li&gt;
+&lt;li&gt;Send an SMS message&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tasks let you use data from the triggers (ie the subject line in an
+email) in your task. So you could, for example, use the subject of an
+email to populate the subject of your note in Evernote.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ifttt.com/recipes&#34;&gt;Recipes&lt;/a&gt; are pre-made combinations of the
+other items, created either by the team at ifttt, by other users, or
+yourself. There are a lot of them, and chances are you will find a lot
+of them that you can put to use immediately. Here are a few that I&amp;rsquo;m
+either using myself or found interesting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/9172&#34;&gt;When you favorite a tweet, add it to
+Evernote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/5098&#34;&gt;When you star an item in Google Reader, post it to your Twitter
+account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/20260&#34;&gt;When you like an item in Instaper, add it to Buffer to be tweeted
+later&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/19770&#34;&gt;When a new post appears in the rss feed for your blog,
+tweet it.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/1110&#34;&gt;When an email arrives from a specific person, send me an SMS
+message&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You get the idea.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve only been using this service for a couple of months, but I&amp;rsquo;ve
+already discovered a lot of useful things I can automate with it.
+Posting things to Twitter for me, taking receipts that I get in email
+and adding them to my Tax Folder in Evernote, etc. This saves me time
+and makes my life easier. What&amp;rsquo;s most exciting though is that there is
+that this service is very young, and has a lot of potential. There are a
+lot more channels, tasks, and triggers yet to be created. Perhaps one
+day they will add the ability to do conditionals, or even more complex
+logic, using JavaScript or some other language.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s early, but I see a lot of potential here. Go create an account and
+try it out yourself. What can you automate?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cool Tool: If This Then That</title>
+      <link>http://larrywright.me/post/cool-tool-if-this-then-that/</link>
+      <pubDate>Mon, 09 Apr 2012 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/cool-tool-if-this-then-that/</guid>
+      <description>&lt;p&gt;I tend to be a little skeptical of the new and shiny. There is often a
+lot of hype about how life changing some new website or gizmo is going
+to be. Sometimes, however, something comes along that does live up to
+the hype. The latest one I&amp;rsquo;ve found is a rather nondescript site called
+&lt;a href=&#34;http://ifttt.com/&#34;&gt;ifttt&lt;/a&gt;. The URL is strange, until you understand
+that it stands for &amp;ldquo;If This Then That&amp;rdquo;. What the site does is allow you
+to automate bits of your digital life by watching for events (the &amp;ldquo;if
+this&amp;rdquo; portion), and then taking an action (the &amp;ldquo;then that&amp;rdquo; portion). It
+lets you tie together the various sites and services that you use,
+allowing you to do even more with them.&lt;/p&gt;
+
+&lt;p&gt;This warrants an example, perhaps.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s say you take lots of pictures of your kids with Instagram. And
+let&amp;rsquo;s say your mom (or grandmother) isn&amp;rsquo;t the most tech-savvy user. She
+uses email, but doesn&amp;rsquo;t have a smartphone and doesn&amp;rsquo;t want one. She
+doesn&amp;rsquo;t use Facebook or Twitter. Wouldn&amp;rsquo;t it be nice if you could
+automatically email any pictures you post to Instagram to your mother so
+that she doesn&amp;rsquo;t give you a guilt trip for never sending her pictures of
+her grandkids (hypothetically speaking, of course. Any resemblance to my
+own mother is purely coincidental). Ifttt can do that for you. What
+about those receipts you get emailed to you every month that you need at
+the end of the year for taxes? Wouldn&amp;rsquo;t it be nice if you could get
+those sent to a specific folder in Evernote so that they&amp;rsquo;re all in one
+place? Ifttt can do that for you. You know all those links that come
+across your Twitter stream that you don&amp;rsquo;t take the time to read?
+Wouldn&amp;rsquo;t it be cool if you could just favorite the tweet and have the
+link in the tweet automagically added to your Instapaper account? Ifttt
+can do that for you.&lt;/p&gt;
+
+&lt;p&gt;So, how does it work?&lt;/p&gt;
+
+&lt;p&gt;Ifttt is built on the idea of triggers, channels, tasks, and recipes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ifttt.com/channels&#34;&gt;Channels&lt;/a&gt; represent the hooks into the
+websites you use. Gmail, Google Reader,Twitter, Facebook, Evernote,
+Dropbox, Instagram, etc. If it&amp;rsquo;s a popular service, ifttt probably has a
+channel for it. There are also general channels for things like RSS
+feeds that aren&amp;rsquo;t tied to a specific service.&lt;/p&gt;
+
+&lt;p&gt;Triggers then are events that occur on these services. A picture is
+taken on Instagram, a new email appears in your Gmail account, someone
+new follows you on Twitter. Triggers allow you to specify when you want
+to take action. They also frequently allow you to specify criteria. In
+the case of Gmail, for example, you can specify that you only want to
+take action if the email is from a specific person, or contains a
+certain word in the subject line. If you&amp;rsquo;ve ever created filters in
+Gmail or Outlook, it&amp;rsquo;s the same concept, but applied on a much larger
+scale.&lt;/p&gt;
+
+&lt;p&gt;Tasks, like Triggers, are built on Channels. They allow you to perform
+tasks in reaction to a trigger. Examples of tasks would be things like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sending an email&lt;/li&gt;
+&lt;li&gt;Creating a new note in Evernote&lt;/li&gt;
+&lt;li&gt;Sending a tweet&lt;/li&gt;
+&lt;li&gt;Send an SMS message&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tasks let you use data from the triggers (ie the subject line in an
+email) in your task. So you could, for example, use the subject of an
+email to populate the subject of your note in Evernote.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ifttt.com/recipes&#34;&gt;Recipes&lt;/a&gt; are pre-made combinations of the
+other items, created either by the team at ifttt, by other users, or
+yourself. There are a lot of them, and chances are you will find a lot
+of them that you can put to use immediately. Here are a few that I&amp;rsquo;m
+either using myself or found interesting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/9172&#34;&gt;When you favorite a tweet, add it to
+Evernote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/5098&#34;&gt;When you star an item in Google Reader, post it to your Twitter
+account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/20260&#34;&gt;When you like an item in Instaper, add it to Buffer to be tweeted
+later&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/19770&#34;&gt;When a new post appears in the rss feed for your blog,
+tweet it.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ifttt.com/recipes/1110&#34;&gt;When an email arrives from a specific person, send me an SMS
+message&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You get the idea.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve only been using this service for a couple of months, but I&amp;rsquo;ve
+already discovered a lot of useful things I can automate with it.
+Posting things to Twitter for me, taking receipts that I get in email
+and adding them to my Tax Folder in Evernote, etc. This saves me time
+and makes my life easier. What&amp;rsquo;s most exciting though is that there is
+that this service is very young, and has a lot of potential. There are a
+lot more channels, tasks, and triggers yet to be created. Perhaps one
+day they will add the ability to do conditionals, or even more complex
+logic, using JavaScript or some other language.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s early, but I see a lot of potential here. Go create an account and
+try it out yourself. What can you automate?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs</title>
+      <link>http://larrywright.me/articles/steve-jobs/</link>
+      <pubDate>Wed, 05 Oct 2011 21:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/steve-jobs/</guid>
+      <description>&lt;p&gt;Like &lt;a href=&#34;http://www.marco.org/2011/10/05/steve-jobs-dies&#34;&gt;Marco Arment&lt;/a&gt; I&amp;rsquo;m
+not qualified to eulogize Steve Jobs, but I owe a lot to him so I need
+to say something.&lt;/p&gt;
+
+&lt;p&gt;My first computer was an Apple //c. 1985. I spent a lot of time on that
+computer. A lot. Probably an unhealthy amount.&lt;/p&gt;
+
+&lt;p&gt;I was a nerdy kid to begin with, and I instantly fell in love with it. I
+spent endless hours on that computer. Playing games, writing programs in
+BASIC, and generally just exploring the new world that it opened up for
+me. Those hours spent in front of the computer paid off. I went on,
+years later, to write code professionally. It&amp;rsquo;s not an exaggeration to
+say that owning that Apple //c shaped who I became.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve admired Steve Jobs since I was old enough to know who he was. When
+he founded NEXT, I desperately wanted one of those beautiful (and
+expensive) systems. I&amp;rsquo;ve seen every movie Pixar has put out. I&amp;rsquo;ve been
+inspired by his business sense, his design savvy, and his drive. He&amp;rsquo;s
+accomplished more in his abbreviated lifetime than most people could
+accomplish in ten. His &lt;a href=&#34;http://news.stanford.edu/news/2005/june15/jobs-061505.html&#34;&gt;Stanford commencement
+speech&lt;/a&gt;
+stands as one of the most inspiring things I&amp;rsquo;ve heard.&lt;/p&gt;
+
+&lt;p&gt;My latest computer is a MacBook Air. I spend a lot of time on that
+computer. A lot. Probably an unhealthy amount.&lt;/p&gt;
+
+&lt;p&gt;Godspeed, Steve Jobs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs</title>
+      <link>http://larrywright.me/post/steve-jobs/</link>
+      <pubDate>Wed, 05 Oct 2011 21:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/steve-jobs/</guid>
+      <description>&lt;p&gt;Like &lt;a href=&#34;http://www.marco.org/2011/10/05/steve-jobs-dies&#34;&gt;Marco Arment&lt;/a&gt; I&amp;rsquo;m
+not qualified to eulogize Steve Jobs, but I owe a lot to him so I need
+to say something.&lt;/p&gt;
+
+&lt;p&gt;My first computer was an Apple //c. 1985. I spent a lot of time on that
+computer. A lot. Probably an unhealthy amount.&lt;/p&gt;
+
+&lt;p&gt;I was a nerdy kid to begin with, and I instantly fell in love with it. I
+spent endless hours on that computer. Playing games, writing programs in
+BASIC, and generally just exploring the new world that it opened up for
+me. Those hours spent in front of the computer paid off. I went on,
+years later, to write code professionally. It&amp;rsquo;s not an exaggeration to
+say that owning that Apple //c shaped who I became.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve admired Steve Jobs since I was old enough to know who he was. When
+he founded NEXT, I desperately wanted one of those beautiful (and
+expensive) systems. I&amp;rsquo;ve seen every movie Pixar has put out. I&amp;rsquo;ve been
+inspired by his business sense, his design savvy, and his drive. He&amp;rsquo;s
+accomplished more in his abbreviated lifetime than most people could
+accomplish in ten. His &lt;a href=&#34;http://news.stanford.edu/news/2005/june15/jobs-061505.html&#34;&gt;Stanford commencement
+speech&lt;/a&gt;
+stands as one of the most inspiring things I&amp;rsquo;ve heard.&lt;/p&gt;
+
+&lt;p&gt;My latest computer is a MacBook Air. I spend a lot of time on that
+computer. A lot. Probably an unhealthy amount.&lt;/p&gt;
+
+&lt;p&gt;Godspeed, Steve Jobs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Backing Up Your Data With Fog</title>
+      <link>http://larrywright.me/articles/backing-up-your-data-with-fog/</link>
+      <pubDate>Tue, 14 Jun 2011 12:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/backing-up-your-data-with-fog/</guid>
+      <description>
+
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js&#34;&gt;
+&lt;/script&gt;
+&lt;link href=&#34;http://larrywright.me/stylesheets/jquery.snippet.min.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;http://larrywright.me/javascripts/jquery.snippet.min.js&#34;&gt;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+\$(document).ready(function(){\
+ \$(&amp;ldquo;pre&amp;rdquo;).snippet(&amp;ldquo;ruby&amp;rdquo;,{style:&amp;ldquo;pablo&amp;rdquo;});\
+});&lt;/p&gt;
+
+&lt;p&gt;&lt;/script&gt;
+&lt;a href=&#34;http://fog.io&#34;&gt;Fog&lt;/a&gt;, in case you haven&amp;rsquo;t heard of it, is a fantastic
+cloud computing library written in Ruby. It provides a unified interface
+to several popular cloud computing platforms(including Amazon,
+Rackspace, Linode, and others), making it easy to interact with them
+from Ruby. It currently supports four types of cloud services: storage,
+compute, DNS, and CDN. Fog has become very popular lately, and serves as
+the backbone for Chef&amp;rsquo;s cloud computing functionality, which is how I
+first became aware of it.&lt;/p&gt;
+
+&lt;p&gt;I recently used Fog to write a backup script in Ruby to automatically
+send encrypted database backups from a database server running at
+Rackspace to Amazon&amp;rsquo;s S3 storage service. Here&amp;rsquo;s how I did it.&lt;/p&gt;
+
+&lt;h3 id=&#34;overview:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;My script runs as the second step in a process. The first step is a
+shell script that calls pg_dump to dump a PostgreSQL database and then
+encrypts the file using GnuPG, dropping them in a backup directory on
+the database server.&lt;/p&gt;
+
+&lt;p&gt;My Fog-based script&amp;rsquo;s job is to make sure that all of the files in the
+backup directory get moved to S3.&lt;/p&gt;
+
+&lt;h3 id=&#34;writing-files:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Writing Files&lt;/h3&gt;
+
+&lt;p&gt;Fogsync (my script), looks at all of the files in that directory and
+makes sure that they all exist in a bucket on S3. If they don&amp;rsquo;t, it
+copies them up there. Additionally, it deletes old backups from S3. For
+this customer, we keep backups for 14 days, so all backups older than
+that get deleted.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look at how it works:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; fog = Fog::Storage.new(
+                           :provider =&amp;gt; &#39;AWS&#39;,
+                           :aws_access_key_id =&amp;gt; MY_ACCESS_KEY,
+                           :aws_secret_access_key =&amp;gt; MY_SECRET
+                         )
+ directory =  fog.directories.get(&amp;quot;MY_DIRECTORY&amp;quot;)
+
+
+ files = Dir[&amp;quot;/var/backup/*.gpg&amp;quot;]
+  for file in files do
+    name = File.basename(file)
+    unless directory.files.head(name)
+      directory.files.create(:key =&amp;gt; name, :body =&amp;gt; open(file))
+    end
+  end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what this snippet does:&lt;/p&gt;
+
+&lt;p&gt;1. Creates a connection to AWS. The syntax is basically the same for
+connecting to all of the cloud platforms, just the parameter names are
+changed.&lt;/p&gt;
+
+&lt;p&gt;2. Uses &amp;lsquo;head&amp;rsquo; to check if the file exists and, optionally, get some
+metadata about it (size, modify date, etc). Think of this as the cloud
+equivalent to the unix stat command. You don&amp;rsquo;t want to use the &amp;lsquo;get&amp;rsquo;
+command, as that will return the whole file, which would take a very
+long time if the files are large &lt;strong&gt;cough*voice of experience*cough&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;3. Creates the file in the given directory (&amp;ldquo;bucket&amp;rdquo; in S3 terms) if it
+doesn&amp;rsquo;t exist already.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve used S3, you&amp;rsquo;ll notice that Fog uses slightly different terms
+for things than S3 does. Because Fog works across a number of different
+storage providers, it uses more general terms. While this might be
+confusing at first if you&amp;rsquo;re familiar with a specific provider&amp;rsquo;s
+nomenclature, but the tradeoff is that if you want to move from one
+provider to another, the only thing you have to change is the code that
+sets up the connection (the call to Fog::Storage.new() in this example).&lt;/p&gt;
+
+&lt;h3 id=&#34;deleting-files:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Deleting files&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;  oldest = Date.today - 14 (our date)
+  directory =  fog.directories.get(MY_DIRECTORY)
+  files = directory.files
+  files.each do |f|
+    file_date = Date.parse(f.last_modified.to_s)
+    if file_date &amp;lt; oldest
+      file.destroy
+    end
+  end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is fairly straightforward as well. Get all the files in the
+directory and check their age, deleting the ones that are older than we
+want to keep.&lt;/p&gt;
+
+&lt;p&gt;So that, in a nutshell, is how to use Fog. This is a simplified example
+of course, in my production code the parameters are all pulled from
+configuration files, and the script emails a report of what it did, in
+addition to having a lot more error handling.&lt;/p&gt;
+
+&lt;p&gt;If you do any scripting with cloud computing, you owe it to yourself to
+check out &lt;a href=&#34;http://fog.io&#34;&gt;Fog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Backing Up Your Data With Fog</title>
+      <link>http://larrywright.me/post/backing-up-your-data-with-fog/</link>
+      <pubDate>Tue, 14 Jun 2011 12:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/backing-up-your-data-with-fog/</guid>
+      <description>
+
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js&#34;&gt;
+&lt;/script&gt;
+&lt;link href=&#34;http://larrywright.me/stylesheets/jquery.snippet.min.css&#34; media=&#34;screen&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;http://larrywright.me/javascripts/jquery.snippet.min.js&#34;&gt;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+\$(document).ready(function(){\
+ \$(&amp;ldquo;pre&amp;rdquo;).snippet(&amp;ldquo;ruby&amp;rdquo;,{style:&amp;ldquo;pablo&amp;rdquo;});\
+});&lt;/p&gt;
+
+&lt;p&gt;&lt;/script&gt;
+&lt;a href=&#34;http://fog.io&#34;&gt;Fog&lt;/a&gt;, in case you haven&amp;rsquo;t heard of it, is a fantastic
+cloud computing library written in Ruby. It provides a unified interface
+to several popular cloud computing platforms(including Amazon,
+Rackspace, Linode, and others), making it easy to interact with them
+from Ruby. It currently supports four types of cloud services: storage,
+compute, DNS, and CDN. Fog has become very popular lately, and serves as
+the backbone for Chef&amp;rsquo;s cloud computing functionality, which is how I
+first became aware of it.&lt;/p&gt;
+
+&lt;p&gt;I recently used Fog to write a backup script in Ruby to automatically
+send encrypted database backups from a database server running at
+Rackspace to Amazon&amp;rsquo;s S3 storage service. Here&amp;rsquo;s how I did it.&lt;/p&gt;
+
+&lt;h3 id=&#34;overview:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;My script runs as the second step in a process. The first step is a
+shell script that calls pg_dump to dump a PostgreSQL database and then
+encrypts the file using GnuPG, dropping them in a backup directory on
+the database server.&lt;/p&gt;
+
+&lt;p&gt;My Fog-based script&amp;rsquo;s job is to make sure that all of the files in the
+backup directory get moved to S3.&lt;/p&gt;
+
+&lt;h3 id=&#34;writing-files:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Writing Files&lt;/h3&gt;
+
+&lt;p&gt;Fogsync (my script), looks at all of the files in that directory and
+makes sure that they all exist in a bucket on S3. If they don&amp;rsquo;t, it
+copies them up there. Additionally, it deletes old backups from S3. For
+this customer, we keep backups for 14 days, so all backups older than
+that get deleted.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look at how it works:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; fog = Fog::Storage.new(
+                           :provider =&amp;gt; &#39;AWS&#39;,
+                           :aws_access_key_id =&amp;gt; MY_ACCESS_KEY,
+                           :aws_secret_access_key =&amp;gt; MY_SECRET
+                         )
+ directory =  fog.directories.get(&amp;quot;MY_DIRECTORY&amp;quot;)
+
+
+ files = Dir[&amp;quot;/var/backup/*.gpg&amp;quot;]
+  for file in files do
+    name = File.basename(file)
+    unless directory.files.head(name)
+      directory.files.create(:key =&amp;gt; name, :body =&amp;gt; open(file))
+    end
+  end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what this snippet does:&lt;/p&gt;
+
+&lt;p&gt;1. Creates a connection to AWS. The syntax is basically the same for
+connecting to all of the cloud platforms, just the parameter names are
+changed.&lt;/p&gt;
+
+&lt;p&gt;2. Uses &amp;lsquo;head&amp;rsquo; to check if the file exists and, optionally, get some
+metadata about it (size, modify date, etc). Think of this as the cloud
+equivalent to the unix stat command. You don&amp;rsquo;t want to use the &amp;lsquo;get&amp;rsquo;
+command, as that will return the whole file, which would take a very
+long time if the files are large &lt;strong&gt;cough*voice of experience*cough&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;3. Creates the file in the given directory (&amp;ldquo;bucket&amp;rdquo; in S3 terms) if it
+doesn&amp;rsquo;t exist already.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve used S3, you&amp;rsquo;ll notice that Fog uses slightly different terms
+for things than S3 does. Because Fog works across a number of different
+storage providers, it uses more general terms. While this might be
+confusing at first if you&amp;rsquo;re familiar with a specific provider&amp;rsquo;s
+nomenclature, but the tradeoff is that if you want to move from one
+provider to another, the only thing you have to change is the code that
+sets up the connection (the call to Fog::Storage.new() in this example).&lt;/p&gt;
+
+&lt;h3 id=&#34;deleting-files:20f5d377b0ef933a00f68abc2d7f6596&#34;&gt;Deleting files&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;  oldest = Date.today - 14 (our date)
+  directory =  fog.directories.get(MY_DIRECTORY)
+  files = directory.files
+  files.each do |f|
+    file_date = Date.parse(f.last_modified.to_s)
+    if file_date &amp;lt; oldest
+      file.destroy
+    end
+  end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is fairly straightforward as well. Get all the files in the
+directory and check their age, deleting the ones that are older than we
+want to keep.&lt;/p&gt;
+
+&lt;p&gt;So that, in a nutshell, is how to use Fog. This is a simplified example
+of course, in my production code the parameters are all pulled from
+configuration files, and the script emails a report of what it did, in
+addition to having a lot more error handling.&lt;/p&gt;
+
+&lt;p&gt;If you do any scripting with cloud computing, you owe it to yourself to
+check out &lt;a href=&#34;http://fog.io&#34;&gt;Fog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handling Incoming Email With Your Web Application</title>
+      <link>http://larrywright.me/articles/handling-incoming-email-with-your-web-application/</link>
+      <pubDate>Fri, 07 Jan 2011 12:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/handling-incoming-email-with-your-web-application/</guid>
+      <description>
+
+&lt;p&gt;This morning I was looking for a way to handle incoming email in a web
+application (similar to the way Highrise and Evernote let you email
+things to a special email address and have them put into their system).
+There are a number of ways to do this via procmail, or by using
+something to connect to your mail server using POP or IMAP and reading
+emails, but I was looking for a way to do this without having to host my
+own email infrastructure. Ideally, I want something like
+&lt;a href=&#34;http://twilio.com&#34;&gt;Twilio&lt;/a&gt;, that will receive the email and then do an
+HTTP POST to the endpoint of my choosing.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what I found.&lt;/p&gt;
+
+&lt;h3 id=&#34;cloudmailin-http-cloudmailin-com:87c203431cc347241246df070ddce2f8&#34;&gt;&lt;a href=&#34;http://cloudmailin.com/&#34;&gt;CloudMailIn&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Still in beta (and free while it is), this looks robust. It&amp;rsquo;s also
+available as a &lt;a href=&#34;http://addons.heroku.com&#34;&gt;Heroku addon&lt;/a&gt;, if that&amp;rsquo;s how
+you roll.&lt;/p&gt;
+
+&lt;p&gt;(A tip of the hat to &lt;a href=&#34;http://twitter.com/peterc&#34;&gt;@peterc&lt;/a&gt; for pointing
+me to this one)&lt;/p&gt;
+
+&lt;h3 id=&#34;apinbox-http-www-apinbox-com:87c203431cc347241246df070ddce2f8&#34;&gt;&lt;a href=&#34;http://www.apinbox.com/&#34;&gt;APInbox&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Looks similar to CloudMailIn, though not in beta. There&amp;rsquo;s a free plan
+for up to 100 emails a day, and then it goes up from there. Their site
+was down when I first went to it this morning, which makes me a tad
+nervous, but that may well be an isolated thing.&lt;/p&gt;
+
+&lt;h3 id=&#34;sendgrid:87c203431cc347241246df070ddce2f8&#34;&gt;SendGrid&lt;/h3&gt;
+
+&lt;p&gt;SendGrid is a heavy hitter in the email space, mostly doing outbound
+delivery. They do however have a Parse API that seems to perform the
+same function as the other two services. I&amp;rsquo;m not sure on the pricing
+here, their basic plan is \$9.95 per month for 10,000 emails, but I&amp;rsquo;m
+not sure if that includes incoming or not. UPDATE: I heard from
+SendGrid. Their plans cover both incoming and outgoing, so for the in
+the case of the \$9.95 plan, it could be a mix of both, up to 10,000&lt;/p&gt;
+
+&lt;p&gt;(thanks to Twilio&amp;rsquo;s &lt;a href=&#34;http://twitter.com/johnsheehan&#34;&gt;@johnsheehan&lt;/a&gt; for
+the pointer to SendGrid)&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t used any of these yet, so I can&amp;rsquo;t make an endorsement of one
+over the other, but I thought I&amp;rsquo;d post it here in case anyone else is
+looking for this kind of provider. If you have experience with any of
+these, please comment with your opinion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handling Incoming Email With Your Web Application</title>
+      <link>http://larrywright.me/post/handling-incoming-email-with-your-web-application/</link>
+      <pubDate>Fri, 07 Jan 2011 12:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/post/handling-incoming-email-with-your-web-application/</guid>
+      <description>
+
+&lt;p&gt;This morning I was looking for a way to handle incoming email in a web
+application (similar to the way Highrise and Evernote let you email
+things to a special email address and have them put into their system).
+There are a number of ways to do this via procmail, or by using
+something to connect to your mail server using POP or IMAP and reading
+emails, but I was looking for a way to do this without having to host my
+own email infrastructure. Ideally, I want something like
+&lt;a href=&#34;http://twilio.com&#34;&gt;Twilio&lt;/a&gt;, that will receive the email and then do an
+HTTP POST to the endpoint of my choosing.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what I found.&lt;/p&gt;
+
+&lt;h3 id=&#34;cloudmailin-http-cloudmailin-com:87c203431cc347241246df070ddce2f8&#34;&gt;&lt;a href=&#34;http://cloudmailin.com/&#34;&gt;CloudMailIn&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Still in beta (and free while it is), this looks robust. It&amp;rsquo;s also
+available as a &lt;a href=&#34;http://addons.heroku.com&#34;&gt;Heroku addon&lt;/a&gt;, if that&amp;rsquo;s how
+you roll.&lt;/p&gt;
+
+&lt;p&gt;(A tip of the hat to &lt;a href=&#34;http://twitter.com/peterc&#34;&gt;@peterc&lt;/a&gt; for pointing
+me to this one)&lt;/p&gt;
+
+&lt;h3 id=&#34;apinbox-http-www-apinbox-com:87c203431cc347241246df070ddce2f8&#34;&gt;&lt;a href=&#34;http://www.apinbox.com/&#34;&gt;APInbox&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Looks similar to CloudMailIn, though not in beta. There&amp;rsquo;s a free plan
+for up to 100 emails a day, and then it goes up from there. Their site
+was down when I first went to it this morning, which makes me a tad
+nervous, but that may well be an isolated thing.&lt;/p&gt;
+
+&lt;h3 id=&#34;sendgrid:87c203431cc347241246df070ddce2f8&#34;&gt;SendGrid&lt;/h3&gt;
+
+&lt;p&gt;SendGrid is a heavy hitter in the email space, mostly doing outbound
+delivery. They do however have a Parse API that seems to perform the
+same function as the other two services. I&amp;rsquo;m not sure on the pricing
+here, their basic plan is \$9.95 per month for 10,000 emails, but I&amp;rsquo;m
+not sure if that includes incoming or not. UPDATE: I heard from
+SendGrid. Their plans cover both incoming and outgoing, so for the in
+the case of the \$9.95 plan, it could be a mix of both, up to 10,000&lt;/p&gt;
+
+&lt;p&gt;(thanks to Twilio&amp;rsquo;s &lt;a href=&#34;http://twitter.com/johnsheehan&#34;&gt;@johnsheehan&lt;/a&gt; for
+the pointer to SendGrid)&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t used any of these yet, so I can&amp;rsquo;t make an endorsement of one
+over the other, but I thought I&amp;rsquo;d post it here in case anyone else is
+looking for this kind of provider. If you have experience with any of
+these, please comment with your opinion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Week in Links - 12/4/2010</title>
+      <link>http://larrywright.me/articles/the-week-in-links-1242010/</link>
+      <pubDate>Sat, 04 Dec 2010 10:00:00 +0000</pubDate>
+      
+      <guid>http://larrywright.me/articles/the-week-in-links-1242010/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.emacswiki.org/emacs/FullAck&#34;&gt;Full-Ack: an Emacs interface to
+Ack&lt;/a&gt;\
+&lt;a href=&#34;http://betterthangrep.com/&#34;&gt;Ack&lt;/a&gt; is a useful little app for searching
+source code. If you ever use grep for finding things in your code,
+switch to ack immediately - you won&amp;rsquo;t regret it. This is a handy front
+end to ack for Emacs users.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/donnam/information-architecture-a-how-to&#34;&gt;Information architecture: A How
+to&lt;/a&gt;\
+I&amp;rsquo;ve been learning about &lt;a href=&#34;http://en.wikipedia.org/wiki/Information_architecture&#34;&gt;information
+architecture&lt;/a&gt;
+lately as it&amp;rsquo;s becoming increasingly important for my job. This is a
+good overview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://worldoftea.org/hackers-guide-to-tea&#34;&gt;Hacker&amp;rsquo;s Guide To Tea&lt;/a&gt;\
+I need to drink more tea. This article taught me a lot I didn&amp;rsquo;t know
+about tea and its benefits.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://labs.omniti.com/labs/pgtreats&#34;&gt;Tasty Treats for PostgreSQL&lt;/a&gt;\
+A bunch of useful tools if you work with PostgreSQL, from the guys at
+OmniTI.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.html5rocks.com/tutorials/websockets/basics/&#34;&gt;HTML5Rocks - Introducing Web Sockets: Bringing Sockets to the
+Web&lt;/a&gt;\
+An introduction to Web Sockets, which let you do lots of cool real time
+things with the web. One of many things I need to spend more time
+experimenting with.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Curiosity Project"
+
+[params.theme]
+    inverse = false     # indicating if the theme should use inversed colors
+    #name = "cerulean"   # name of the theme to use
+
+    # list of possible theme names that can be used
+    # name = "cerulean"
+    # name = "cosmo"
+    # name = "cyborg"
+    # name = "default"
+#     name = "flatly"
+    # name = "journal"
+     name = "lumen"
+    # name = "paper"
+    # name = "readable"
+    # name = "sandstone"
+    # name = "simplex"
+    # name = "slate"
+    # name = "spacelabs"
+    # name = "superhero"
+    # name = "united"
+    # name = "yeti"
+[params]
+    author = "Larry Wright"
