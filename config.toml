@@ -1,27 +1,37 @@
-baseurl = "http://localhost:1313/"
+baseurl = "http://beta.larrywright.me/"
 languageCode = "en-us"
-title = "Curiosity Project"
+title = "larrywright.me"
+paginate = 5
+DisqusShortname = "thecuriousityproject"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
 
-[params.theme]
-    inverse = false     # indicating if the theme should use inversed colors
-    #name = "cerulean"   # name of the theme to use
-
-    # list of possible theme names that can be used
-    # name = "cerulean"
-    # name = "cosmo"
-    # name = "cyborg"
-    # name = "default"
-#     name = "flatly"
-    # name = "journal"
-     name = "lumen"
-    # name = "paper"
-    # name = "readable"
-    # name = "sandstone"
-    # name = "simplex"
-    # name = "slate"
-    # name = "spacelabs"
-    # name = "superhero"
-    # name = "united"
-    # name = "yeti"
 [params]
-    author = "Larry Wright"
+description = "Curiosity Project"
+#cover = "images/DeathtoStock_Simplify8.jpg"
+cover = "images/IMG_0824.jpg"
+author = "Larry Wright"
+authorlocation = "Normal, Illinois"
+authorwebsite = "http://larrywright.me"
+bio = "Curious person; maker of things. Ruby, Chef, Sinatra, Docker, photography. Currently: Chef Lead for the Accenture Cloud Platform. Opinions are my own."
+logo = "images/larry.jpg"
+googleAnalyticsUserID = "UA-100582-3"
+# Optional RSS-Link, if not provided it defaults to the standard index.xml
+RSSLink = "http://feeds.feedburner.com/larrywright"
+githubName = "larrywright"
+twitterName = "larrywright"
+facebookName = "larrywright"
+# set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+hideHUGOSupport = true
+
+[[menu.main]]
+name = "My Blog"
+weight = -120
+identifier = "blog"
+url = "/"
+
+[[menu.main]]
+name = "About me"
+weight = -110
+identifier = "about"
+url = "/about/me"
