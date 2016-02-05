@@ -25,13 +25,19 @@ facebookName = "larrywright"
 hideHUGOSupport = true
 
 [[menu.main]]
-name = "My Blog"
+name = "Blog"
 weight = -120
 identifier = "blog"
 url = "/"
 
 [[menu.main]]
-name = "About me"
+name = "About"
 weight = -110
 identifier = "about"
 url = "/about/me"
+
+[[menu.main]]
+name = "Photography"
+weight = -110
+identifier = "photography"
+url = "/photography"
