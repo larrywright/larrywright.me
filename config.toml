@@ -10,6 +10,7 @@ canonifyurls = true
 description = "Curiosity Project"
 #cover = "images/DeathtoStock_Simplify8.jpg"
 cover = "images/IMG_0824.jpg"
+#cover = "images/coffee_header.jpg"
 author = "Larry Wright"
 authorlocation = "Normal, Illinois"
 authorwebsite = "http://larrywright.me"
