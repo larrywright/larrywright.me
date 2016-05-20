@@ -15,8 +15,9 @@ author = "Larry Wright"
 authorlocation = "Normal, Illinois"
 authorwebsite = "http://larrywright.me"
 bio = "Curious person; maker of things."
-logo = "images/larry.jpg"
+avatar = "images/larry.jpg"
 googleAnalyticsUserID = "UA-100582-3"
+date_format = "2006-01-02"
 
 # Optional RSS-Link, if not provided it defaults to the standard index.xml
 RSSLink = "http://feeds.feedburner.com/larrywright"
