@@ -5,27 +5,32 @@ paginate = 5
 DisqusShortname = "thecuriousityproject"
 Copyright = "All rights reserved - 2016"
 canonifyurls = true
+disqusShortname = "curiosityproject"
+theme = "hugo-minimalist-theme"
 
 [params]
+site_author = "Larry Wright"
+site_description = "The journal of a curious person."
+location = "Earth"
 description = "Journal of a Curious Person"
 #cover = "images/DeathtoStock_Simplify8.jpg"
-cover = "images/IMG_0824.jpg"
+header_background = "images/DeathtoStock_Simplify8.jpg"
+#header_background = "images/IMG_0824.jpg"
 #cover = "images/coffee_header.jpg"
 author = "Larry Wright"
 authorlocation = "Normal, Illinois"
 authorwebsite = "http://larrywright.me"
 bio = "Curious person; maker of things."
-avatar = "images/larry.jpg"
+
+avatar = "images/headshot-256x256.png"
 googleAnalyticsUserID = "UA-100582-3"
 date_format = "2006-01-02"
-
+#header_background = "images/coffee_header.jpg"
+header_title = "Larry Wright"
+copyright = "Larry Wright | Powered by [Hugo](http://gohugo.io)."
+google_analytics = ""
 # Optional RSS-Link, if not provided it defaults to the standard index.xml
 RSSLink = "http://feeds.feedburner.com/larrywright"
-githubName = "larrywright"
-twitterName = "larrywright"
-facebookName = "larrywright"
-# set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-hideHUGOSupport = true
 
 [[menu.main]]
 name = "Blog"
@@ -44,3 +49,16 @@ name = "Photography"
 weight = 1
 identifier = "photography"
 url = "/photography"
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+twitter   = "larrywright"
+facebook  = "larrywright"
+linkedin  = ""
+behance   = ""
+dribbble  = ""
+instagram = "larrywright"
+github    = "larrywright"
+gplus     = ""
