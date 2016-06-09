@@ -17,9 +17,10 @@ WORKDIR /usr/share/blog
 EXPOSE 1313
 
 # Automatically build site
+
+ENV HUGO_BASE_URL http://localhost:1313
 ADD site/ /usr/share/blog
-RUN /usr/local/bin/hugo -d /usr/share/nginx/html/
+RUN /usr/local/bin/hugo -b ${HUGO_BASE_URL} -d /usr/share/nginx/html/
 
 # By default, serve site
-ENV HUGO_BASE_URL http://localhost:1313
 CMD /usr/local/bin/hugo --bind 0.0.0.0 server -b ${HUGO_BASE_URL}
