@@ -10,3 +10,7 @@
   stage 'Test'
   echo 'Test not implemented yet'
  }
+ node{
+  stage 'Deploy'
+  echo 'Test not implemented yet'
+ }
