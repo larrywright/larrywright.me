@@ -4,7 +4,7 @@ FROM golang:1.7-alpine
 ENV HUGO_VERSION 0.16
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
-ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_0.16_linux-64bit.tgz /tmp
+ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_0.17_linux-64bit.tgz /tmp
 RUN tar xzf /tmp/${HUGO_BINARY}.tgz -C /tmp \
 	&& mv /tmp/hugo /usr/local/bin/hugo \
 	&& rm /tmp/*
