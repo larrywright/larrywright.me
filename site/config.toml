@@ -6,6 +6,7 @@ Copyright = "All rights reserved - 2016"
 canonifyurls = true
 disqusShortname = "curiosityproject"
 theme = "hugo-minimalist-theme"
+baseURL = "larrywright.me"
 
 [params]
 site_author = "Larry Wright"
