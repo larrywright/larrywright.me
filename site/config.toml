@@ -1,42 +1,40 @@
-languageCode = "en-us"
+baseURL = "/"
 title = "Larry Wright"
-paginate = 5
-DisqusShortname = "thecuriousityproject"
-Copyright = "All rights reserved - 2016"
-canonifyurls = true
-disqusShortname = "curiosityproject"
-theme = "hugo-minimalist-theme"
-baseURL = "larrywright.me"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+# disqusShortname = "curiousityproject" # Enable comments by entering your Disqus shortname
+# googleAnalytics = "UA-100582-3" # Enable Google Analytics by entering your tracking id
 
-[params]
-site_author = "Larry Wright"
-site_description = "The journal of a curious person."
-location = "Earth"
-description = "Journal of a Curious Person"
-#cover = "images/DeathtoStock_Simplify8.jpg"
-header_background = "images/DeathtoStock_Simplify8.jpg"
-#header_background = "images/IMG_0824.jpg"
-#cover = "images/coffee_header.jpg"
-author = "Larry Wright"
-authorlocation = "Normal, Illinois"
-authorwebsite = "http://larrywright.me"
-bio = "Curious person; maker of things."
+[Author]
+    name = "Larry Wright"
+    bio = "Curious person. Maker of things."
+    avatar = "images/headshot-256x256.png"
 
-avatar = "images/headshot-256x256.png"
-googleAnalyticsUserID = "UA-100582-3"
-date_format = "2006-01-02"
-#header_background = "images/coffee_header.jpg"
-header_title = "Larry Wright"
-copyright = "Larry Wright | Powered by [Hugo](http://gohugo.io)."
-google_analytics = ""
-# Optional RSS-Link, if not provided it defaults to the standard index.xml
-RSSLink = "http://feeds.feedburner.com/larrywright"
 
-[[menu.main]]
-name = "Blog"
-weight = 5
-identifier = "blog"
-url = "/"
+[Params]
+    subtitle = "The Journal of a Curious Person" # Subtitle of your site
+    description = " Larry Wright's personal blog. A little bit of everything, mostly nerdy."
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = true 
+    recent_articles = true 
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+Social_facebook = "larrywright"
+social_twitter = "larrywright"
+social_linkedin = "larrywright"
+social_github = "larrywright"
+social_email = "larrywright@gmail.com"
 
 [[menu.main]]
 name = "About"
@@ -45,20 +43,19 @@ identifier = "about"
 url = "/about/me"
 
 [[menu.main]]
+name = "Blog"
+weight = 2
+identifier = "posts"
+url = "/post/"
+
+[[menu.main]]
 name = "Photography"
-weight = 1
+weight = 3
 identifier = "photography"
 url = "/photography"
 
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# create automatically.
-twitter   = "larrywright"
-facebook  = "larrywright"
-linkedin  = ""
-behance   = ""
-dribbble  = ""
-instagram = "larrywright"
-github    = "larrywright"
-gplus     = ""
+[[menu.main]]
+name = "Now"
+weight = 4
+identifier = "now"
+url = "/now"
