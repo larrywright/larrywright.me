@@ -17,7 +17,3 @@ These are in no particular order:
 
 Why yes, I am a geek. How did you know?
 
-Tags:<a href="http://technorati.com/tag/newton" rel="tag">newton</a>,
-<a href="http://technorati.com/tag/Sun" rel="tag">Sun</a>,
-<a href="http://technorati.com/tag/geek" rel="tag">geek</a>
-

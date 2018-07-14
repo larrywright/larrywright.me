@@ -12,11 +12,11 @@ something to send them and say "I like stuff like this".
 
 Here are a few recent favorites:
 
-[LukeW Portfolio](http://www.lukew.com/portfolio/web_applications.asp)\
-[Invision
-Vectura](http://www.invisionboard.com/ip.dynamic/products/vectura/index.html)\
-[Template Monster](http://www.templatemonster.com/)\
-[BrightCorner](http://www.brightcorner.com/clients/sr/partnercenter/)
+* [LukeW Portfolio](http://www.lukew.com/portfolio/web_applications.asp)
+
+* [Invision Vectura](http://www.invisionboard.com/ip.dynamic/products/vectura/index.html)
+* [Template Monster](http://www.templatemonster.com/)
+* [BrightCorner](http://www.brightcorner.com/clients/sr/partnercenter/)
 
 Where do you find inspiration for your work?
 

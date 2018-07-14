@@ -39,10 +39,8 @@ motors, GPS modules. You name it, you can build it.
 Here's a quick rundown of a few things people have used these for.
 
 -   [Build your own unmanned aircraft (UAV)](http://www.diydrones.com/)
--   [Sleep
-    tracker](http://www.coolcircuit.com/gadgets/2008/07/31/sleep-tracker/)
--   [A physical GMail
-    notifier](http://www.j4mie.org/2008/02/15/how-to-make-a-physical-gmail-notifier/)
+-   [Sleep tracker](http://www.coolcircuit.com/gadgets/2008/07/31/sleep-tracker/)
+-   [A physical GMail notifier](http://www.j4mie.org/2008/02/15/how-to-make-a-physical-gmail-notifier/)
 -   [Robots!](http://smallab.parsons.edu/blog/?q=node/16)
 
 This is only a fraction of what's out there. An impressive community has
@@ -50,8 +48,7 @@ sprung up around these little guys, and there is no shortage of cool
 projects documented on the web.
 
 If you want to see the Arduino in action, check out [Greg Borenstein's
-presentation from
-RubyConf](http://rubyconf2008.confreaks.com/ruby-arduino-development.html)
+presentation from RubyConf](http://rubyconf2008.confreaks.com/ruby-arduino-development.html)
 on programming the Arduino with Ruby, in which he demos an Arduino-based
 drum machine (literally, a machine that plays a drum with chopstics) as
 well as a board that uses windshield washer fluid pumps to mix
@@ -79,8 +76,7 @@ customizable. I've had mine a week and it's been great fun so far.
     tutorials on the Arduino and electronics in general.
 -   [SparkFun](http://www.sparkfun.com/) Provider of Arduino boards plus
     an array of other kits and projects.
--   [Arduino Starter
-    Kit](https://www.amazon.com/dp/B001N1EOT8?tag=approachingno-20&camp=0&creative=0&linkCode=as4&creativeASIN=B001N1EOT8&adid=0PG2BERBTJQ71KV8SW7G)
+-   [Arduino Starter Kit](https://www.amazon.com/dp/B001N1EOT8?tag=approachingno-20&camp=0&creative=0&linkCode=as4&creativeASIN=B001N1EOT8&adid=0PG2BERBTJQ71KV8SW7G)
     This is the kit I bought. It includes everything you need to get
     started - even a USB cable.
 

@@ -49,6 +49,4 @@ isn't that leadership and management skills can't be learned, it's just
 that some people just don't have the aptitude (or often the desire) to
 do the job well.
 
-Technorati tag:
-<a href="http://technorati.com/tag/leadership" rel="tag">leadership</a>
 

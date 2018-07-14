@@ -210,6 +210,6 @@ products for my and sketchtoons, but I've been so busy with work and
 otheractivities, new product development has been on the backburner.
 
 Thanks again for the opportunity to share about my work and thoughts
-Larry â€” I especially appreciate your interest in my sketchnotes and
+Larry - I especially appreciate your interest in my sketchnotes and
 sketchtoons!
 

@@ -17,8 +17,4 @@ few years, but none of them have made a dent in Apple's market share.
 
 **What's the missing ingredient?**
 
-Technorati Tags:
-<a href="http://technorati.com/tag/apple" rel="tag">apple</a>,
-<a href="http://technorati.com/tag/microsoft" rel="tag">microsoft</a>,
-<a href="http://technorati.com/tag/ipod" rel="tag">ipod</a>
 

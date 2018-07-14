@@ -21,8 +21,4 @@ Rajesh Setty does a reality check for startups.
 I found both of these via [microISV](http://www.microisv.com/), which is
 a great resource for people interested in that sort of thing.
 
-Technorati:
-<a href="http://technorati.com/tag/microisv" rel="tag">microisv</a>,
-<a href="http://technorati.com/tag/startup" rel="tag">startup</a>,
-<a href="http://technorati.com/tag/business" rel="tag">business</a>
 

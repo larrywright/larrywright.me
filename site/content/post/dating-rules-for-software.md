@@ -11,11 +11,10 @@ of), there's an excellent post called [If your software was on a
 date](http://headrush.typepad.com/creating_passionate_users/2005/11/if_your_softwar.html)
 which lays some ground rules for your applications:
 
-<blockquote>
-How would your software (or product, service, book, cause, etc.) behave
+> How would your software (or product, service, book, cause, etc.) behave
 on a date? Perhaps the best model for software developers is the singles
 scene, so let's see how this time-tested dating advice for men might be
-applied to software: </blockquote>
+applied to software:
 
 The article goes on to give some excellent advice, including **"Be
 polite, be helpful"**, and **"Be forgiving"**.

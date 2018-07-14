@@ -20,7 +20,4 @@ Seth's probably one of my favorite business writers right now.
 
 via [WorkHappy](http://www.workhappy.net/2006/04/happy_quote.html)
 
-Tags: <a href="http://technorati.com/tag/Seth+Godin" rel="tag">Seth
-Godin</a>,
-<a href="http://technorati.com/tag/Business" rel="tag">Business</a>
 

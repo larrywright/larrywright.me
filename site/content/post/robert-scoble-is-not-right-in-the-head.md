@@ -14,6 +14,4 @@ that list is dwindling quickly. Maybe you haven't seen
 Robert, you're starting to sound a little like [these
 guys](http://en.wikipedia.org/wiki/Flat_earth_society).
 
-Technorati tag:
-<a href="http://technorati.com/tag/scoble" rel="tag">scoble</a>
 

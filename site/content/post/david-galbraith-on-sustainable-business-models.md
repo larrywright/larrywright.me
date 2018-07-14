@@ -14,24 +14,14 @@ more rapidly than they can manage.
 
 From the article:
 
-> Every venture funded tech company is predicated on the idea of 'exit',
-> the point where the company is sold to a bigger one or has an IPO, so
-> that the investors see a return and move on.
+> Every venture funded tech company is predicated on the idea of 'exit', the point where the company is sold to a bigger one or has an IPO, so that the investors see a return and move on.
 
 > ...
 
-> When I was an architect, you didn't set up a practice on your own to
-> 'exit', you setup to build a company that made a profit and made
-> products that made the environment a better place along the way - a
-> sustainable enterprise. The whole idea of 'exit' in the context of
-> building an architecture firm, or a legal or medical practice is
-> preposterous.
+> When I was an architect, you didn't set up a practice on your own to 'exit', you setup to build a company that made a profit and made products that made the environment a better place along the way - a sustainable enterprise. The whole idea of 'exit' in the context of building an architecture firm, or a legal or medical practice is preposterous.
 
 Amen brother.
 
 [Read the full
 article.](http://www.davidgalbraith.org/archives/001196.html)
-
-Tags:
-<a href="http://technorati.com/tag/business" rel="tag">business</a>
 

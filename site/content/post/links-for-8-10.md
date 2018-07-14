@@ -13,13 +13,10 @@ draft = false
     complicated Ant script, you know how verbose and complicated they
     can be. Rake is the answer to your prayers.
 
-<!-- -->
-
 -   Novell has put OpenSUSE 10
     <a href="http://www.techworld.com/opsys/news/index.cfm?NewsID=4193">into
     beta</a>.
 
-<!-- -->
 
 -   <a href="http://www.googlesightseeing.com/">Google Sightseeing</a>
     is a cool collection of images from
@@ -29,10 +26,6 @@ draft = false
     and
     <a href="http://www.googlesightseeing.com/category/post-cats/planes-boats/">airplanes</a>.
 
-<!-- -->
-
 -   Adaptive Path has an
     <a href="http://www.adaptivepath.com/publications/essays/archives/000519.php">interview</a>
     with Flickr's Eric Costello. Good read.
-
-

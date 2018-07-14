@@ -13,7 +13,6 @@ I'm not looking for something too basic. I'd like something that will
 teach me the ins and outs of the whole operating system, and let me go
 from being "comfortable" to "power user". I'm leaning towards [Mac OS X
 Leopard: The Missing
-Manual](http://www.amazon.com/gp/product/059652952X?ie=UTF8&tag=approachingno-20&linkCode=xm2&camp=1789&creativeASIN=059652952X),
-but I thought I would ask here if anyone else has any other
+Manual](http://www.amazon.com/gp/product/059652952X?ie=UTF8&tag=approachingno-20&linkCode=xm2&camp=1789&creativeASIN=059652952X), but I thought I would ask here if anyone else has any other
 recommendations.
 

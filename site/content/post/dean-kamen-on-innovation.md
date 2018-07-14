@@ -31,7 +31,7 @@ at this problem differently." And it's turned the web development world
 on it's ear. Even if Rails were gone tomorrow, it's impact would live on
 for years to come.
 
-What else is do for an overhaul?
+What else is due for an overhaul?
 
 Here's my short list, off the top of my head:
 

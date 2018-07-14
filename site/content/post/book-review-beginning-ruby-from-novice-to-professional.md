@@ -51,8 +51,6 @@ appendices:
     is a personal preference, but I think it's a best practice and would
     like to see it demonstrated more in books like this.
 
-<!-- -->
-
 -   **Part 3: Ruby Online** - As you would expect, this section includes
     some coverage on Rails. Its not exhaustive, and isn't intended to
     replace a full-blown book on Rails. It does offer a thorough
@@ -76,11 +74,10 @@ committed to memory yet, like me).
 
 Weighing in at over 600 pages, this is a comprehensive book. At the same
 time, it's quite a bit smaller than the Pickaxe, which makes it much
-more portable (there's also a PDF version available for \$10 if you've
+more portable (there's also a PDF version available for $10 if you've
 purchased the dead-tree edition, for the ultimate in portability).
 
-As with the [last book I
-reviewed](http://approachingnormal.com/2007/11/20/book-review-practical-rails-social-networking-sites),
+As with the [last book I reviewed](http://approachingnormal.com/2007/11/20/book-review-practical-rails-social-networking-sites),
 this one appears to have been well technical reviewed. I didn't notice
 any errors. I also enjoyed Peter's writing style, which is concise but
 not dry.
@@ -89,7 +86,7 @@ In summary, if you want to learn Ruby, [Beginning Ruby: From Novice to
 Professional](http://www.amazon.com/gp/product/1590597664?ie=UTF8&tag=approachingno-20&linkCode=xm2&camp=1789&creativeASIN=1590597664)
 is the book to buy.
 
-<i>Disclaimer: I received a free copy of this book from the publisher in
+_Disclaimer: I received a free copy of this book from the publisher in
 exchange for a review. There were no conditions other than that, but in
-the interest of full disclosure, now you know.</i>
+the interest of full disclosure, now you know._
 

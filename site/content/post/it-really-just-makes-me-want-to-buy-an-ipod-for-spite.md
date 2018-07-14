@@ -8,9 +8,8 @@ So, how's Microsoft's iPod killer being received? The Sun Times' Andy
 Ihnatko [sums it
 up](http://www.suntimes.com/technology/ihnatko/147048,CST-FIN-Andy23.article):
 
-<blockquote>
-Result: The Zune will be dead and gone within six months. Good
-riddance.</blockquote>
+> Result: The Zune will be dead and gone within six months. Good
+riddance.
 
 Yeah, what he said. I've not seen a positive review of this thing yet.
 

@@ -26,6 +26,3 @@ Designer](http://www.sybase.com/products/enterprisemodeling/powerdesigner)
 
 [CASE Studio 2](http://www.casestudio.com/enu/default.aspx)
 
-Technorati tag:\
- <a href="http://technorati.com/tag/postgresql" rel="tag">postgresql</a>
-

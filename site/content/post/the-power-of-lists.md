@@ -58,10 +58,4 @@ This is only a few of my lists, I probably have 50 or so.
 Do you have any lists like this? Share in the comments, I'm always
 looking for new ideas.
 
-Tags:
-<a href="http://technorati.com/tag/getting+things+done" rel="tag">getting
-things done</a>,
-<a href="http://technorati.com/tag/Organization" rel="tag">Organization</a>,
-<a href="http://technorati.com/tag/GTD" rel="tag">GTD</a>,
-<a href="http://technorati.com/tag/Lifehacks" rel="tag">Lifehacks</a>
 

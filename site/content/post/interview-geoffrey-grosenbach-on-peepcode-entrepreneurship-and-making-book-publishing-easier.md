@@ -204,9 +204,3 @@ Right now it's all PeepCode! There will be a book on ActiveMerchant that
 I'm excited to see published this spring. I also have an idea for a
 series that will compare Rails to other popular web frameworks.
 
-&lt;a href="javascript:window.location =
-'http://www.socialmarker.com/?link='*encodeURIComponent
-(location.href)*'&title='+encodeURIComponent(
-document.title);"&gt;<img src= "http://www.socialmarker.com/bookmark.gif" border="0" /></a><noscript><a href="http://www.socialmarker.com" >Social
-Bookmarking</a></noscript>
-

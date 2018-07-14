@@ -29,6 +29,3 @@ On an unrelated note, things have been a little quiet lately, due to
 other commitments. Things are quieting down a little now, though. I'll
 have some more technical posts up soon(ish).
 
-Tags: <a href="http://technorati.com/tag/twitter" rel="tag">twitter</a>,
-<a href="http://technorati.com/tag/linkedin" rel="tag">linkedin</a>
-

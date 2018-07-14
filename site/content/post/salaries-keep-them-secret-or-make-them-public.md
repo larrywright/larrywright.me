@@ -51,8 +51,4 @@ check out the Ricardo Semler book Maverick. It's not just about
 salaries, there are lots of other innovative ideas in there as well.
 It's well worth the time to read.</i>
 
-&lt;iframe
-src="http://rcm.amazon.com/e/cm?t=approachingno-20&o=1&p=8&l=as1&asins=0446670553&fc1=000000&IS2=1&lt1=\_blank&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr"
-style="width:120px;height:240px;" scrolling="no" marginwidth="0"
-marginheight="0" frameborder="0"&gt;</iframe>
 

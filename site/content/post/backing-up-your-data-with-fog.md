@@ -49,6 +49,7 @@ that get deleted.
 
 Let's look at how it works:
 
+```
      fog = Fog::Storage.new(
                                :provider => 'AWS',
                                :aws_access_key_id => MY_ACCESS_KEY,
@@ -64,20 +65,21 @@ Let's look at how it works:
           directory.files.create(:key => name, :body => open(file))
         end
       end
+```
 
 Here's what this snippet does:
 
-1\. Creates a connection to AWS. The syntax is basically the same for
+1. Creates a connection to AWS. The syntax is basically the same for
 connecting to all of the cloud platforms, just the parameter names are
 changed.
 
-2\. Uses 'head' to check if the file exists and, optionally, get some
+2. Uses 'head' to check if the file exists and, optionally, get some
 metadata about it (size, modify date, etc). Think of this as the cloud
 equivalent to the unix stat command. You don't want to use the 'get'
 command, as that will return the whole file, which would take a very
 long time if the files are large **cough\*voice of experience\*cough**.
 
-3\. Creates the file in the given directory ("bucket" in S3 terms) if it
+3. Creates the file in the given directory ("bucket" in S3 terms) if it
 doesn't exist already.
 
 If you've used S3, you'll notice that Fog uses slightly different terms
@@ -89,7 +91,7 @@ provider to another, the only thing you have to change is the code that
 sets up the connection (the call to Fog::Storage.new() in this example).
 
 ### Deleting files
-
+```
       oldest = Date.today - 14 (our date)
       directory =  fog.directories.get(MY_DIRECTORY)
       files = directory.files
@@ -99,6 +101,7 @@ sets up the connection (the call to Fog::Storage.new() in this example).
           file.destroy
         end
       end
+```
 
 This is fairly straightforward as well. Get all the files in the
 directory and check their age, deleting the ones that are older than we

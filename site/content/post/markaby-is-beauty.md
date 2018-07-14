@@ -1,7 +1,7 @@
 +++
 title = "Markaby Is Beauty"
 date = "2006-07-18T03:00:00-00:00"
-draft = false
+draft = true
 +++
 
 I've been developing a little blog app lately, more as an exercise than

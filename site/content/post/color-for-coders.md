@@ -11,6 +11,4 @@ links to sites that implement various kinds of color schemes
 
 [link](http://www.sitepoint.com/article/color-for-coders)
 
-Technorati tag:
-<a href="http://technorati.com/tag/design" rel="tag">design</a>
 

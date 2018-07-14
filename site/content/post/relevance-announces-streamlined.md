@@ -36,9 +36,4 @@ only thing Django has over Rails as far as I can tell).
 They're planning on realeasing this at OSCON in July. I'm looking
 forward to it.
 
-Tags:
-<a href="http://technorati.com/tag/railsconf" rel="tag">railsconf</a>,
-<a href="http://technorati.com/tag/Rails" rel="tag">Rails</a>,
-<a href="http://technorati.com/tag/Ruby" rel="tag">Ruby</a>,
-<a href="http://technorati.com/tag/relevance" rel="tag">relevance</a>
 

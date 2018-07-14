@@ -43,8 +43,4 @@ Yes, those are affiliate links. Help feed my addiction.
 **What books are you reading? Leave a comment and let me know what's on
 your reading list.**
 
-**Bonus links:** [My wife's list of her favorite
-cookbooks](http://www.welcometoparenthood.com/articles/2006/08/24/my-favorite-cookbooks)
-+ [What we're reading from the
-library](http://www.welcometoparenthood.com/articles/2006/08/01/library-day-what-were-reading)
 

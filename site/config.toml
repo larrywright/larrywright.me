@@ -37,10 +37,10 @@ social_github = "larrywright"
 social_email = "larrywright@gmail.com"
 
 [[menu.main]]
-name = "Home"
+name = "About"
 weight = 1
-identifier = "home"
-url = "/"
+identifier = "about"
+url = "/about/me"
 
 [[menu.main]]
 name = "Blog"
@@ -49,16 +49,10 @@ identifier = "posts"
 url = "/post/"
 
 [[menu.main]]
-name = "About"
+name = "Photography"
 weight = 3
-identifier = "about"
-url = "/about"
-
-# [[menu.main]]
-# name = "Photography"
-# weight = 3
-# identifier = "photography"
-# url = "/photography"
+identifier = "photography"
+url = "/photography"
 
 [[menu.main]]
 name = "Now"

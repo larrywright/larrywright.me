@@ -8,8 +8,7 @@ draft = false
 
 ### Introduction
 
-"Ship
-It![](":http://www.amazon.com/exec/obidos/ASIN/0974514047/approachingno-20/002-9666217-3990422?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2 is a book about basics. It's an education in the fundamental practices that are needed to develop software successfully. This is the stuff they don't teach you in college. *Ship It)\*
+[Ship It!](http://www.amazon.com/exec/obidos/ASIN/0974514047/approachingno-20/002-9666217-3990422?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2) is a book about basics. It's an education in the fundamental practices that are needed to develop software successfully. This is the stuff they don't teach you in college. *Ship It*
 doesn't espouse a particular methodology (such as Scrum or XP). Rather,
 it is a set of practices. The advantage of this is that you don't have
 to adopt everything in an all-or-nothing fashin. In fact the authors
@@ -89,11 +88,4 @@ filled with real-world examples from the authors. I would highly
 recommend [Ship
 It!](http://www.amazon.com/exec/obidos/ASIN/0974514047/approachingno-20/002-9666217-3990422?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2)
 to anyone interested in improving their software development skills.
-
-Technorati Tags:
-<a href="http://technorati.com/tag/books" rel="tag">books</a>
-<a href="http://technorati.com/tag/agile" rel="tag">agile</a>
-<a href="http://technorati.com/tag/xp" rel="tag">xp</a>
-<a href="http://technorati.com/tag/programming" rel="tag">programming</a>
-<a href="http://technorati.com/tag/TDD" rel="tag">TDD</a>
 

@@ -28,5 +28,5 @@ overhead it adds, but no performance issues were noted in the
 presentation. Regardless, this seems like a very interesting solution to
 a pretty common problem.
 
-\[preso\]http://www.lethargy.org/\~jesus/archive%20s/66-Big-Bad-PostgreSQL.html
+[preso]http://www.lethargy.org/\~jesus/archive%20s/66-Big-Bad-PostgreSQL.html
 

@@ -72,16 +72,11 @@ yourself. There are a lot of them, and chances are you will find a lot
 of them that you can put to use immediately. Here are a few that I'm
 either using myself or found interesting:
 
--   [When you favorite a tweet, add it to
-    Evernote](http://ifttt.com/recipes/9172)
--   [When you star an item in Google Reader, post it to your Twitter
-    account](http://ifttt.com/recipes/5098)
--   [When you like an item in Instaper, add it to Buffer to be tweeted
-    later](http://ifttt.com/recipes/20260)
--   [When a new post appears in the rss feed for your blog,
-    tweet it.](http://ifttt.com/recipes/19770)
--   [When an email arrives from a specific person, send me an SMS
-    message](http://ifttt.com/recipes/1110)
+-   [When you favorite a tweet, add it to Evernote](http://ifttt.com/recipes/9172)
+-   [When you star an item in Google Reader, post it to your Twitter account](http://ifttt.com/recipes/5098)
+-   [When you like an item in Instaper, add it to Buffer to be tweeted later](http://ifttt.com/recipes/20260)
+-   [When a new post appears in the rss feed for your blog, tweet it.](http://ifttt.com/recipes/19770)
+-   [When an email arrives from a specific person, send me an SMS message](http://ifttt.com/recipes/1110)
 
 You get the idea.
 

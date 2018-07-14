@@ -48,13 +48,9 @@ broad range of useful topics. Here's the things I really liked:
     the like. While this book doesn't cover everything you could
     possible want to do, it covers a lot.
 
-<!-- -->
-
 -   There is a very big emphasis on testing. It's not TDD (see my note
     in the cons below), but in every chapter you will be shown how to
     build something, and then how to test what you built.
-
-<!-- -->
 
 -   It's current. The application is built in a RESTful style, and there
     is frequent mention of the changes/deprecations coming in the Rails
@@ -76,12 +72,11 @@ I took some issue with:
     Still, it might be a better idea to link to the book's
     website instead.
 
-<!-- -->
-
 -   While the book does give ample coverage to testing (more than most
     books), it would have been nice if the testing was done Test First,
-    rather than bolted on after the fact.\
-    All in all, these are really minor points.
+    rather than bolted on after the fact.
+    
+All in all, these are really minor points.
 
 ### Conclusion
 
@@ -91,7 +86,7 @@ application or you've been developing for a while, you will find useful
 information in [Rails Social Networking
 Sites](http://www.amazon.com/gp/product/1590598415?ie=UTF8&tag=approachingno-20&linkCode=xm2&camp=1789&creativeASIN=1590598415).
 
-<i>Disclaimer: I received a free copy of this book from the publisher in
+_Disclaimer: I received a free copy of this book from the publisher in
 exchange for a review. There were no conditions other than that, but in
-the interest of full disclosure, now you know.</i>
+the interest of full disclosure, now you know._
 
