@@ -20,5 +20,6 @@ phases:
       - cd site/
       - hugo
   post_build:
-    - cd site/
-    - aws s3 sync --profile blog-deploy --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
+    commands:
+      - cd site/
+      - aws s3 sync --profile blog-deploy --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
