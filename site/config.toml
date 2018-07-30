@@ -52,7 +52,7 @@ url = "/post/"
 name = "Photography"
 weight = 3
 identifier = "photography"
-url = "/photography"
+url = "https://larrywright.myportfolio.com"
 
 [[menu.main]]
 name = "Now"
