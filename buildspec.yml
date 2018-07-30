@@ -1,0 +1,24 @@
+version: 0.1
+
+environment_variables:
+  plaintext:
+    AWS_DEFAULT_REGION: "us-east-1"
+    HUGO_VERSION: "0.45.1"
+    HUGO_SHA256: "e10e4162d4d568b92e3c8b49efeb1fc3fd6310138dc5d7a63b86b852d37af158"
+    BUCKET_NAME: "larrywright.me"
+
+phases:
+  install:
+    commands:
+      - curl -Ls https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - echo "${HUGO_SHA256}  /tmp/hugo.tar.gz" | sha256sum -c -
+      - tar xf /tmp/hugo.tar.gz -C /tmp
+      - mv /tmp/hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/bin/hugo
+      - rm -rf /tmp/hugo*
+  build:
+    commands:
+      - cd site/
+      - hugo
+  post_build:
+    - cd site/
+    - aws s3 sync --profile blog-deploy --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
