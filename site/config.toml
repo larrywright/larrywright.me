@@ -59,3 +59,9 @@ name = "Now"
 weight = 4
 identifier = "now"
 url = "/now"
+
+[[menu.main]]
+name = "Best Of"
+weight = 4
+identifier = "best"
+url = "/bestof"
