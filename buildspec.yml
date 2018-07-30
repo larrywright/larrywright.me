@@ -17,8 +17,7 @@ phases:
       - rm -rf /tmp/hugo*
   build:
     commands:
-      - cd $CODEBUILD_SRC_DIR
-      - cd site
+      - cd $CODEBUILD_SRC_DIR/site
       - pwd
       - hugo
   post_build:
