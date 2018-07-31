@@ -20,4 +20,4 @@ phases:
       - cd $CODEBUILD_SRC_DIR/site && pwd && hugo
   post_build:
     commands:
-      - cd site && aws s3 sync --profile blog-deploy --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
+      - cd site && aws s3 sync --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
