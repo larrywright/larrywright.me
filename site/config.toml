@@ -8,18 +8,15 @@ theme = "hyde-x-larry"
 
 [Author]
     name = "Larry Wright"
-    avatar = "images/headshot-256x256.png"
-
+    
 [params]
-    tagline = "The Journal of a Curious Person" # Subtitle of your site
+    tagline = "Curious Person" # Subtitle of your site
     defaultDescription = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
-    facebook = "larrywright"
-    twitter = "larrywright"
-    linkedin = "larrywright"
-    github = "larrywright"
+    facebook = "https://www.facebook.com/larrywright"
+    twitter = "https://twitter.com/larrywright"
+    linkedin = "https://www.linkedin.com/in/larrywright/"
+    github = "https://github.com/larrywright"
     email = "larrywright@gmail.com"
-    avatar = "images/headshot-256x256.png"
-    gravatarHash = "340fc2e514619a65816216c7a9fe6b1b"
     sidebar = "left"
     brand = "The Journal of a Curious Person"
     topline = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
