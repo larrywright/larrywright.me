@@ -4,7 +4,7 @@ date = "2007-11-01T05:00:00-00:00"
 draft = false
 +++
 
-![](>/assets/seedbanner.jpg)
+![](/images/seedbanner.jpg)
 
 I attended the first [SEED Conference](http://www.seedconference.com) on
 Monday. It was a great event - it exceeded my expectations, and was a

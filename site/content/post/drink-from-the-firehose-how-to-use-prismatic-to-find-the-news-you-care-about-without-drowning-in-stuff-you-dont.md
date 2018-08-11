@@ -11,8 +11,6 @@ hard to keep up with it all. About a month ago, I discovered
 [Prismatic](http://getprismatic.com), and it's changed how I read the
 web by making it easier to find the news that I care about.
 
-![](>https://www.evernote.com/shard/s3/sh/a4b5c094-e299-4204-a9d7-f8c3105298fe/ea3d779323cb679dafe6c60757c50b5c/res/46d292c2-4b7e-4ecb-b2cf-06a1578e1334/Prismatic-20120607-232412.jpg.jpg)
-
 Prismatic scans all of the links that come across Twitter (that's a lot
 of links), and categorizes them using some fairly sophisticated software
 ([written in

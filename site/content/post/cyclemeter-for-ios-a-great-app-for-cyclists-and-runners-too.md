@@ -4,7 +4,8 @@ date = "2012-06-13T10:00:00-00:00"
 draft = false
 +++
 
-<a href="http://refer.ly/aaE7"><img src="http://larrywright.me/assets/cyclemeter.png" style="float:right; margin: 10px;"/></a>\
+<a href="https://itunes.apple.com/us/app/cyclemeter-cycling-running-gps/id330595774?mt=8"><img src="/images/cyclemeter.png" style="float:right; margin: 10px;"/></a>
+
 I try to ride [my
 bike](http://www.specialized.com/us/en/bikes/multiuse/sirrus/sirrus)
 most mornings, assuming it's not pouring down rain. It's the [same
@@ -19,7 +20,7 @@ Dedicated bike computers and GPS devices have existed for some years
 now, but like most everyone else these days, I've got an iPhone with a
 GPS built right in. A little searching led me to a number of apps that
 did what I wanted, and after reading some reviews, I settled on
-[Cyclemeter](http://refer.ly/aaE7). The name is actually a bit of a
+[Cyclemeter](https://itunes.apple.com/us/app/cyclemeter-cycling-running-gps/id330595774?mt=8). The name is actually a bit of a
 misnomer, since the app will also work for walking, runnig, skiing, or
 pretty much any other activity that involves moving forward on a
 mostly-horizontal plane.
@@ -43,7 +44,7 @@ and shatter your iPhone.
 
 ### You Need This
 
-At \$4.99 Cyclemeter is quite a value when you consider what it
+At $4.99 Cyclemeter is quite a value when you consider what it
 replaces. If you bike or run, I'd highly recommend it. You can buy it on
-the [App Store](http://refer.ly/aaE7).
+the [App Store](https://itunes.apple.com/us/app/cyclemeter-cycling-running-gps/id330595774?mt=8).
 

@@ -17,13 +17,13 @@ cookies", "Refrigerator lists", and even included a bit about
 [Backpack](http://www.backpackit.com), but the one that I found most
 interesting was called Mantras:
 
--   Simplify
--   Smaller, smaller
--   Do only what you love, love everything that you do
--   Embrace constraints
--   Less
--   Honor your mistake as a hidden intention
--   Disrupt business as usual
+- Simplify
+- Smaller, smaller
+- Do only what you love, love everything that you do
+- Embrace constraints
+- Less
+- Honor your mistake as a hidden intention
+- Disrupt business as usual
 
 ...And so on.
 
@@ -37,20 +37,20 @@ gone on to create some of my own.
 
 Here's a sampling:
 
--   Fun Projects - Little programming things I may want to do some day.
--   Model numbers - This is a list of model numbers for much of what
+- Fun Projects - Little programming things I may want to do some day.
+- Model numbers - This is a list of model numbers for much of what
     I own. That way when I'm out shopping and I remember that I need to
     buy furnace filters, I don't have to try and remember what size I
     have, it's right there in my list.
--   Blog topics - Things I may want to write about here someday. \*
+- Blog topics - Things I may want to write about here someday. \*
     Music - Various albums, songs, and artists I may want to buy.
--   Books - Books I want to read
--   Gift ideas - Throughout the year, when my wife mentions something
+- Books - Books I want to read
+- Gift ideas - Throughout the year, when my wife mentions something
     she'd like, I jot it down in a list with her name. When it comes
     time to buy gifts, I've got a list to choose from. I have one of
     these lists for everyone I buy gifts for. My kids, parents,
     in-laws, etc.
--   Checklists - I keep checklists for certain things I have to do
+- Checklists - I keep checklists for certain things I have to do
     regularly, like "Project startup", "New employee", etc.
 
 This is only a few of my lists, I probably have 50 or so.

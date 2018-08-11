@@ -4,18 +4,6 @@ date = "2011-06-14T12:00:00-00:00"
 draft = false
 +++
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js">
-</script>
-<link href="/stylesheets/jquery.snippet.min.css" media="screen" rel="stylesheet" type="text/css" />
-
-<script type="text/javascript" src="/javascripts/jquery.snippet.min.js">
-</script>
-<script type="text/javascript">
-\$(document).ready(function(){\
- \$("pre").snippet("ruby",{style:"pablo"});\
-});
-
-</script>
 [Fog](http://fog.io), in case you haven't heard of it, is a fantastic
 cloud computing library written in Ruby. It provides a unified interface
 to several popular cloud computing platforms(including Amazon,
@@ -50,21 +38,20 @@ that get deleted.
 Let's look at how it works:
 
 ```
-     fog = Fog::Storage.new(
-                               :provider => 'AWS',
-                               :aws_access_key_id => MY_ACCESS_KEY,
-                               :aws_secret_access_key => MY_SECRET
-                             )
-     directory =  fog.directories.get("MY_DIRECTORY")
+fog = Fog::Storage.new(
+  :provider => 'AWS',
+  :aws_access_key_id => MY_ACCESS_KEY,
+  :aws_secret_access_key => MY_SECRET
+  )
+directory =  fog.directories.get("MY_DIRECTORY")
 
-
-     files = Dir["/var/backup/*.gpg"]
-      for file in files do
-        name = File.basename(file)
-        unless directory.files.head(name)
-          directory.files.create(:key => name, :body => open(file))
-        end
-      end
+files = Dir["/var/backup/*.gpg"]
+for file in files do
+  name = File.basename(file)
+  unless directory.files.head(name)
+    directory.files.create(:key => name, :body => open(file))
+  end
+end
 ```
 
 Here's what this snippet does:

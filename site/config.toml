@@ -2,49 +2,52 @@ baseURL = "/"
 title = "Larry Wright"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
+theme = "hyde-x"
 # disqusShortname = "curiousityproject" # Enable comments by entering your Disqus shortname
 # googleAnalytics = "UA-100582-3" # Enable Google Analytics by entering your tracking id
 
 [Author]
     name = "Larry Wright"
-    bio = "Curious person. Maker of things."
     avatar = "images/headshot-256x256.png"
 
+[params]
+    tagline = "The Journal of a Curious Person" # Subtitle of your site
+    defaultDescription = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
+    facebook = "larrywright"
+    twitter = "larrywright"
+    linkedin = "larrywright"
+    github = "larrywright"
+    email = "larrywright@gmail.com"
+    avatar = "images/headshot-256x256.png"
+    gravatarHash = "340fc2e514619a65816216c7a9fe6b1b"
+    sidebar = "left"
+    brand = "The Journal of a Curious Person"
+    topline = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
+    home = "Home"
+    truncate = true
+    highlight = "tomorrow-night"
 
-[Params]
-    subtitle = "The Journal of a Curious Person" # Subtitle of your site
-    description = " Larry Wright's personal blog. A little bit of everything, mostly nerdy."
-    opengraph = true
-    readmore = false # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
-    authorbox = true
-    post_navigation = true
-    postSections = ["post"]
+ [taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
 
-
-[Params.widgets]
+[params.widgets]
     search = true 
     recent_articles = true 
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
         tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
-Social_facebook = "larrywright"
-social_twitter = "larrywright"
-social_linkedin = "larrywright"
-social_github = "larrywright"
-social_email = "larrywright@gmail.com"
 
 [[menu.main]]
 name = "About"
-weight = 1
+weight = 2
 identifier = "about"
 url = "/about/me"
 
 [[menu.main]]
 name = "Blog"
-weight = 2
+weight = 1
 identifier = "posts"
 url = "/post/"
 
