@@ -2,6 +2,7 @@
 title = "Relevance Announces Streamlined"
 date = "2006-06-24T18:00:00-00:00"
 draft = false
+categories = ["Rails"]
 +++
 
 **Update:** I somehow managed to misspell Relevance's name. Fixed.

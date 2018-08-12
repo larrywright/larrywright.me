@@ -2,6 +2,7 @@
 title = "Backing Up Your Data With Fog"
 date = "2011-06-14T12:00:00-00:00"
 draft = false
+categories = ["Ruby","Cloud"]
 +++
 
 [Fog](http://fog.io), in case you haven't heard of it, is a fantastic

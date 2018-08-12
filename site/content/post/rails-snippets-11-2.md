@@ -2,6 +2,7 @@
 title = "Rails Snippets - 11/2"
 date = "2007-11-02T13:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 ### [New in Rails: Request Profiler](http://blog.codefront.net/2007/10/26/new-in-rails-a-request-profiler-for-profiling-your-app/)

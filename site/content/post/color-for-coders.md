@@ -2,6 +2,7 @@
 title = "Color for Coders"
 date = "2005-08-20T23:00:00-00:00"
 draft = false
+categories = ["Design"]
 +++
 
 If you're design challenged (like me), you need all the help you can

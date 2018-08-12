@@ -2,6 +2,7 @@
 title = "Monday Question: How Do You Choose What Technologies to Explore?"
 date = "2007-11-12T10:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

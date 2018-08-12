@@ -2,6 +2,7 @@
 title = "Handling Incoming Email With Your Web Application"
 date = "2011-01-07T12:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 This morning I was looking for a way to handle incoming email in a web

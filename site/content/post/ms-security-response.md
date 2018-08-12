@@ -2,6 +2,7 @@
 title = "MS Security Response"
 date = "2005-08-27T00:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 I'm not a huge fan of MS, but there's a fascinating

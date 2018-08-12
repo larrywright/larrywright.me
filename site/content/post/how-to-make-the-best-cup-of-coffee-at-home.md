@@ -2,6 +2,7 @@
 title = "How to Make the Best Cup of Coffee at Home"
 date = "2012-05-25T09:00:00-00:00"
 draft = false
+categories = ["Coffee","Best Of"]
 +++
 
 I am a huge fan of coffee and over the years I have tried a lot of

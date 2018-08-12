@@ -2,6 +2,7 @@
 title = "Rails Snippets - 11/13"
 date = "2007-11-13T12:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 ### [RESTFul OpenID Authentication](http://identity.eastmedia.com/identity/show/Restful%20OpenID%20Authentication)

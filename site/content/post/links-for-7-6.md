@@ -2,6 +2,7 @@
 title = "Links for 7/6"
 date = "2006-07-08T01:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 [The Garden State Effect](http://www.goodhodgkins.com/2006/07/06/opinion-the-garden-state-effect)

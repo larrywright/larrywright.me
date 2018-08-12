@@ -2,6 +2,7 @@
 title = "Cyclemeter for iOS: A Great App for Cyclists (and Runners Too)"
 date = "2012-06-13T10:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 <a href="https://itunes.apple.com/us/app/cyclemeter-cycling-running-gps/id330595774?mt=8"><img src="/images/cyclemeter.png" style="float:right; margin: 10px;"/></a>

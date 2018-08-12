@@ -2,6 +2,7 @@
 title = "How to Make Sortable Tables in Textile"
 date = "2006-08-30T02:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 One of my favorite organizational tools is

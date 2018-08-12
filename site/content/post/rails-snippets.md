@@ -2,6 +2,7 @@
 title = "Rails Snippets"
 date = "2007-10-28T08:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 A collection of Rails links

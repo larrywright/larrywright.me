@@ -2,6 +2,7 @@
 title = "5 Tips for Interviewing Well"
 date = "2006-07-31T02:00:00-00:00"
 draft = false
+categories = ["Career"]
 +++
 
 I've been interviewing people (mostly programmers and management/leads)

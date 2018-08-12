@@ -2,6 +2,7 @@
 title = "Micro-business Links"
 date = "2005-12-03T00:00:00-00:00"
 draft = false
+categories = ["Business"]
 +++
 
 A couple of micro-venture links from the last couple of days:

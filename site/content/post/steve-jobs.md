@@ -2,6 +2,7 @@
 title = "Steve Jobs"
 date = "2011-10-05T21:00:00-00:00"
 draft = false
+categories = ["Apple","Best Of"]
 +++
 
 Like [Marco Arment](http://www.marco.org/2011/10/05/steve-jobs-dies) I'm

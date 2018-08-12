@@ -2,12 +2,13 @@
 title = "Specialists Need Not Apply"
 date = "2008-05-22T02:00:00-00:00"
 draft = true
+categories = ["Programming","Best Of"]
 +++
 
 [This job posting](http://nat.org/blog/?p=828) from [Nat
 Friedman](http://www.nat.org) got me to thinking, along the lines of my
 [previous
-post](http://approachingnormal.com/2008/5/16/the-two-kinds-of-programmers).
+post](/posts/2the-two-kinds-of-programmers).
 Here's the bit that got my mind working:
 
 > Keep in mind that we're not looking for specialists: we're a small

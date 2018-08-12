@@ -2,6 +2,7 @@
 title = "Marc Andreesen on Career Planning"
 date = "2007-10-07T02:00:00-00:00"
 draft = false
+categories = ["Career"]
 +++
 
 [Marc Andreesen](http://blog.pmarca.com) has written a very good series

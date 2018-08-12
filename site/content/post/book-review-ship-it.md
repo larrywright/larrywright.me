@@ -2,6 +2,7 @@
 title = "Book Review - Ship It!"
 date = "2005-11-18T21:00:00-00:00"
 draft = false
+categories = ["Books"]
 +++
 
 **Ship It!** By Jared Richardson and William Gwaltney Jr.

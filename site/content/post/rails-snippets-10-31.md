@@ -2,6 +2,7 @@
 title = "Rails Snippets - 10/31"
 date = "2007-10-31T13:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 The Halloween Edition

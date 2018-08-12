@@ -2,6 +2,7 @@
 title = "Generating Realistic Test Data With Ruby"
 date = "2009-06-09T20:00:00-00:00"
 draft = false
+categories = ["Ruby"]
 +++
 
 Generating semi-realistic test data for an application can be a pain. If

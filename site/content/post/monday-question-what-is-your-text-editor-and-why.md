@@ -2,6 +2,7 @@
 title = "Monday Question: What Is Your Text Editor, and Why?"
 date = "2008-01-28T13:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

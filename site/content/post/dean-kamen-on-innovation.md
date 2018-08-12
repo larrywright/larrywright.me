@@ -2,6 +2,7 @@
 title = "Dean Kamen on Innovation"
 date = "2005-10-24T02:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 There's an interview in the latest [Make

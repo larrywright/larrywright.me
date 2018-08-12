@@ -2,6 +2,7 @@
 title = "Questions Before I Buy a MacBook Pro"
 date = "2007-11-03T19:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 So I think I'm about to buy a Macbook Pro - the 17" model specifically. Before I

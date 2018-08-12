@@ -2,6 +2,7 @@
 title = "The Coming Decline of Rss and Atom"
 date = "2009-01-10T10:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 Ever since I discovered Bloglines some years ago, I've been hooked on

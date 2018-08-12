@@ -2,6 +2,7 @@
 title = "Welcome to the New Site"
 date = "2009-01-03T14:00:00-00:00"
 draft = false
+categories = ["Meta"]
 +++
 
 I've maintained a blog since sometime in May of 2005. As with many

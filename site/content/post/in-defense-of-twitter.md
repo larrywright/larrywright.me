@@ -2,6 +2,7 @@
 title = "In Defense of Twitter"
 date = "2008-06-03T03:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 [Twitter](http://www.twitter.com) bashing has become a bit of a

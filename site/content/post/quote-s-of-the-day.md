@@ -2,6 +2,7 @@
 title = "Quote(s) of the Day"
 date = "2006-08-05T12:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 > "We should be taught not to wait for inspiration to start a thing.

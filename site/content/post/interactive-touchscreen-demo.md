@@ -2,6 +2,7 @@
 title = "Interactive Touchscreen Demo"
 date = "2006-02-18T14:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 [This is the coolest thing I have seen in a long

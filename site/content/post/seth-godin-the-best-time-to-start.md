@@ -2,6 +2,7 @@
 title = "Seth Godin: The Best Time to Start"
 date = "2006-11-18T04:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 I'll try to prevent this from becoming another [Seth

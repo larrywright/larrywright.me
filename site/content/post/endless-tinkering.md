@@ -2,6 +2,7 @@
 title = "Endless Tinkering"
 date = "2005-06-01T01:00:00-00:00"
 draft = false
+categories = ["Productivity"]
 +++
 
 I'm a big fan of

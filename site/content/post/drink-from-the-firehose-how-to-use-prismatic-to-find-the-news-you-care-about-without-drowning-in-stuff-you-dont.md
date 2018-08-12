@@ -2,6 +2,7 @@
 title = "How to Use Prismatic to Discover the News You Care About"
 date = "2012-06-08T10:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 As the title of my blog implies, I'm a curious person. I like learning,

@@ -2,6 +2,7 @@
 title = "Monday Question: What Books Changed Your Life?"
 date = "2007-12-10T12:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

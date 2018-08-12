@@ -2,6 +2,7 @@
 title = "Links for 1/29/08"
 date = "2008-01-30T02:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 A list of random and assorted things I have found lately

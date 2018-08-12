@@ -2,6 +2,7 @@
 title = "Rails Snippets - 11/7"
 date = "2007-11-07T12:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 ### [Troubleshooting Ruby Processes: Leveraging System Tools when the Usual Ruby Tricks Stop Working](http://safari.oreilly.com/9780321544681)

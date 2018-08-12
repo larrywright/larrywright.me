@@ -2,6 +2,7 @@
 title = "How to Use Eclipse as a Ruby on Rails IDE"
 date = "2005-05-29T02:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 **Update 11/23/2005**: Months later, this is still apparently a popular

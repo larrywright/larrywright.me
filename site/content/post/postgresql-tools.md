@@ -2,6 +2,7 @@
 title = "PostgreSQL Tools"
 date = "2005-11-08T02:00:00-00:00"
 draft = false
+categories = ["Postgresql"]
 +++
 
 A collection of tools that support PostgreSQL, courtesy of a commenter

@@ -2,6 +2,7 @@
 title = "Python vs Ruby"
 date = "2005-08-18T01:00:00-00:00"
 draft = false
+categories = ["Ruby","Python"]
 +++
 
 Ian Bicking (a python developer I have a great deal of respect for) has

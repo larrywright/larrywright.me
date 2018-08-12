@@ -2,6 +2,7 @@
 title = "Moving From Doing to Managing"
 date = "2005-09-10T19:00:00-00:00"
 draft = false
+categories = ["Management"]
 +++
 
 5 years ago, I went from being a "doer" (ie, a programmer), to being a

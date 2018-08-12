@@ -2,6 +2,7 @@
 title = "Monday Question: What Are You Reading?"
 date = "2007-11-05T12:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 I'm going to start posting questions for my readers every Monday. At

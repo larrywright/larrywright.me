@@ -2,6 +2,7 @@
 title = "Links for 11/7"
 date = "2005-11-07T12:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 [Creating a header background](http://www.duoh.com/varia/header/) Good

@@ -2,6 +2,7 @@
 title = "Speed Up Firefox"
 date = "2005-08-28T11:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 Firefox has seemed sluggish on my Ubuntu installation, which I

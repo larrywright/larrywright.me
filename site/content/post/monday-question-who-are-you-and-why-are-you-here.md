@@ -2,6 +2,7 @@
 title = "Monday Question: Who Are You and Why Are You Here"
 date = "2007-11-26T12:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

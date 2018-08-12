@@ -2,6 +2,7 @@
 title = "Metaphors and Analogies"
 date = "2006-06-23T01:00:00-00:00"
 draft = false
+categories = ["Funny"]
 +++
 
 From a list of metaphors and analogies used in high school writing:

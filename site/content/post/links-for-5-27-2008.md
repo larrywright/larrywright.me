@@ -2,6 +2,7 @@
 title = "Links for 5/27/2008"
 date = "2008-05-27T13:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 I've built up a big backlog of links. Here's the first batch.

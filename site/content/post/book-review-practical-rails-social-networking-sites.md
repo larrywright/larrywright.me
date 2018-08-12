@@ -2,6 +2,7 @@
 title = "Book Review: Practical Rails Social Networking Sites"
 date = "2007-11-20T13:00:00-00:00"
 draft = false
+categories = ["Books"]
 +++
 
 ![](>/assets/9781590598412.gif)

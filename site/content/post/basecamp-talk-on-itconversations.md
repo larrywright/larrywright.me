@@ -2,6 +2,7 @@
 title = "Basecamp Talk on ITConversations"
 date = "2005-09-14T11:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 Jason Fried's talk from [O'Reilly's Emerging Technology

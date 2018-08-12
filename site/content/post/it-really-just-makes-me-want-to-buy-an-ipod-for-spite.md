@@ -2,6 +2,7 @@
 title = "It Really Just Makes Me Want to Buy an iPod for Spite"
 date = "2006-11-27T04:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 So, how's Microsoft's iPod killer being received? The Sun Times' Andy

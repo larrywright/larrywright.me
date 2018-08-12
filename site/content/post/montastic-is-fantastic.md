@@ -2,6 +2,7 @@
 title = "Montastic Is Fantastic"
 date = "2006-06-23T01:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 Probably the worst title I've ever chosen for a post.

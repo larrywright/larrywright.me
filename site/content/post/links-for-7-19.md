@@ -2,6 +2,7 @@
 title = "Links for 7-19"
 date = "2006-07-20T02:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 The various shiny objects that caught my eye lately.

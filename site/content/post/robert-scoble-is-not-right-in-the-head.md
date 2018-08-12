@@ -2,6 +2,7 @@
 title = "Robert Scoble Is Not Right in the Head"
 date = "2005-08-28T21:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 In [this post](http://radio.weblogs.com/0001011/2005/08/28.html#a10981)

@@ -2,6 +2,7 @@
 title = "Passion Reviews"
 date = "2005-08-11T12:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 Kathy Sierra, who runs the excellent [Creating Passionate Users

@@ -2,6 +2,7 @@
 title = "More on FireFox Tuning"
 date = "2005-08-30T01:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 After my [last Firefox

@@ -2,6 +2,7 @@
 title = "Cool Tool: If This Then That"
 date = "2012-04-09T10:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 I tend to be a little skeptical of the new and shiny. There is often a

@@ -2,6 +2,7 @@
 title = "World's Hardest to Debug Programming Language"
 date = "2005-08-12T01:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 Someone wrote a

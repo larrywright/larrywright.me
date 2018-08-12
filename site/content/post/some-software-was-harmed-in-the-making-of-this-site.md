@@ -2,6 +2,7 @@
 title = "Some Software Was Harmed in the Making of This Site"
 date = "2009-01-08T23:00:00-00:00"
 draft = false
+categories = ["Meta"]
 +++
 
 As noted on the about page, I decided to write my own software to run

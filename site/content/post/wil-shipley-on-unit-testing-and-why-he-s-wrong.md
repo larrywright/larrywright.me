@@ -2,6 +2,7 @@
 title = "Wil Shipley on Unit Testing (and Why He's Wrong)"
 date = "2005-09-24T03:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 Wil Shipley is the author of several well known Mac applications,

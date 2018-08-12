@@ -2,6 +2,7 @@
 title = "The Programmable Government"
 date = "2009-02-09T10:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 ### **We are headed toward a time where the workings of government are much more visible to the American public.**

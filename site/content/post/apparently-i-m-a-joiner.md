@@ -2,6 +2,7 @@
 title = "Apparently, I'm a Joiner"
 date = "2006-10-28T13:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 I typically avoid joining each new social networking thingy that comes

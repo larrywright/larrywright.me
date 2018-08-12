@@ -2,6 +2,7 @@
 title = "Book Review: Beginning Ruby: From Novice to Professional"
 date = "2007-11-27T12:00:00-00:00"
 draft = false
+categories = ["Books"]
 +++
 
 ![](>/assets/2007/11/21/9781590597668.gif)

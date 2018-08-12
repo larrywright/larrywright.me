@@ -2,6 +2,7 @@
 title = "6/23 Ruby & Rails Links"
 date = "2006-06-24T02:00:00-00:00"
 draft = false
+categories = ["Rails","Ruby","Links"]
 +++
 
 A few links that caught my eye today:

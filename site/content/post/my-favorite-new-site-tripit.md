@@ -2,6 +2,7 @@
 title = "My Favorite New Site: Tripit"
 date = "2008-04-07T03:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 ![](>/assets/2008/4/7/tripit_logo.gif)\

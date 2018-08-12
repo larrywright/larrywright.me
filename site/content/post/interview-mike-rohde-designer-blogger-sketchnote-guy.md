@@ -2,6 +2,7 @@
 title = "Interview: Mike Rohde - Designer, Blogger, Sketchnote Artist"
 date = "2009-01-14T22:00:00-00:00"
 draft = false
+categories = ["Interviews"]
 +++
 
 Introduction

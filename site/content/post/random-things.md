@@ -2,6 +2,7 @@
 title = "Random Things"
 date = "2007-07-22T05:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 I have a few articles I want to publish, but I'm holding off until I

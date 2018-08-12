@@ -2,6 +2,7 @@
 title = "Links for 8/28"
 date = "2006-08-28T01:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 [Free Programming and Computer Science

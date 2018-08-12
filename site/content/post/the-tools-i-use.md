@@ -2,6 +2,7 @@
 title = "The Tools I Use"
 date = "2009-10-15T06:00:00-00:00"
 draft = false
+categories = ["Stuff I Like"]
 +++
 
 Inspired by [Mike Gunderloy's recent blog

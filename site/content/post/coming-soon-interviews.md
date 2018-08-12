@@ -2,6 +2,7 @@
 title = "Coming Soon: Interviews"
 date = "2007-12-18T11:00:00-00:00"
 draft = false
+categories = ["Interviews"]
 +++
 
 Beginning tomorrow, I'm going to be publishing a series of interviews.

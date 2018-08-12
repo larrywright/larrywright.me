@@ -2,6 +2,7 @@
 title = "Paul Graham on Stuff"
 date = "2007-08-06T15:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 Paul Graham has a new article up called

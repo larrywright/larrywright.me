@@ -2,6 +2,7 @@
 title = "Links for 8/6"
 date = "2005-08-06T06:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 A collection of links from the last week or so:

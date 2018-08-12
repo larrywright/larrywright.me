@@ -2,6 +2,7 @@
 title = "American's Commutes Keep Getting Longer"
 date = "2006-04-21T01:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 According to Reuters, our commutes just keep getting longer and longer:

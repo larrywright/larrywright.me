@@ -2,6 +2,7 @@
 title = "David Galbraith on Sustainable Business Models"
 date = "2006-10-28T14:00:00-00:00"
 draft = false
+categories = ["Business"]
 +++
 
 In response to the previously mentioned [buyback of

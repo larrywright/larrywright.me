@@ -2,6 +2,7 @@
 title = "Interview: Geoffrey Grosenbach on PeepCode, Entrepreneurship, and Making Book Publishing Easier"
 date = "2008-01-02T16:00:00-00:00"
 draft = false
+categories = ["Interviews"]
 +++
 
 <i>This article is the second in a series of interviews that I will be

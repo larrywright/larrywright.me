@@ -2,6 +2,7 @@
 title = "Monday Question: What Music Do You Code By?"
 date = "2008-01-21T19:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

@@ -2,6 +2,7 @@
 title = "Links for 8/10"
 date = "2005-08-11T01:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 -   <a href="http://martinfowler.com/articles/rake.html">Martin

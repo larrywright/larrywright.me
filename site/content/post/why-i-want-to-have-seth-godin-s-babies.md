@@ -2,6 +2,7 @@
 title = "Why I Want to Have Seth Godin's Babies"
 date = "2006-04-22T14:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 From his post [No to

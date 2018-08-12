@@ -2,6 +2,7 @@
 title = "Monday Question: What Is Your Development Machine?"
 date = "2008-01-06T12:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on The Curiosity Project. For

@@ -2,6 +2,7 @@
 title = "Free Web Design Resources"
 date = "2006-11-10T03:00:00-00:00"
 draft = false
+categories = ["Web"]
 +++
 
 It's a poorly kept secret that I couldn't design my way out of a box

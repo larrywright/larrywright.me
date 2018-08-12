@@ -2,6 +2,7 @@
 title = "Just Do It"
 date = "2005-11-30T04:00:00-00:00"
 draft = false
+categories = ["Productivity"]
 +++
 
 [Steve Pavlina](http://www.stevepavlina.com) has updated one of his

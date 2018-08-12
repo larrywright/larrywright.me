@@ -2,6 +2,7 @@
 title = "MacBook Pro After One Week"
 date = "2007-11-21T11:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 ![](>/assets/mbpro.png)

@@ -2,6 +2,7 @@
 title = "Great Presentation on Ruby on Rails"
 date = "2005-05-13T02:00:00-00:00"
 draft = false
+categories = ["Rails"]
 +++
 
 Obie Fernandez of ThoughtWorks put together a great presentation on Ruby

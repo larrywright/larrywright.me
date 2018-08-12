@@ -2,6 +2,7 @@
 title = "Finding Inspiration"
 date = "2005-10-09T19:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 As I meander through the internet, I often find sites that inspire the

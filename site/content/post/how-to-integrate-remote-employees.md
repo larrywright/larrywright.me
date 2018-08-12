@@ -2,6 +2,7 @@
 title = "How to Integrate Remote Employees"
 date = "2006-01-28T13:00:00-00:00"
 draft = false
+categories = ["Management"]
 +++
 
 One of my "must-read" blogs, [Rands in Repose](http://www.randsinrepose.com/) has a

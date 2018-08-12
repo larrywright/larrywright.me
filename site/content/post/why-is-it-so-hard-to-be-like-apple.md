@@ -2,6 +2,7 @@
 title = "Why Is It So Hard to Be Like Apple?"
 date = "2006-03-04T03:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 By now, everyone has seen [this

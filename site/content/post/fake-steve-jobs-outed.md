@@ -2,6 +2,7 @@
 title = "Fake Steve Jobs Outed"
 date = "2007-08-06T00:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 [Fake Steve Jobs has been

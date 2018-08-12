@@ -2,6 +2,7 @@
 title = "Surely This Is a Sign of the Apocalypse"
 date = "2006-12-05T01:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 Just seen on

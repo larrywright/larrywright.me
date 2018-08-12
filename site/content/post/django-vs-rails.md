@@ -2,6 +2,7 @@
 title = "Django vs Rails"
 date = "2005-08-16T11:00:00-00:00"
 draft = false
+categories = ["Rails","Python"]
 +++
 
 There's a relatively

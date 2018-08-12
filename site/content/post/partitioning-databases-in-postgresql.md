@@ -2,6 +2,7 @@
 title = "Partitioning Databases in PostgreSQL"
 date = "2006-08-30T01:00:00-00:00"
 draft = false
+categories = ["Postgresql"]
 +++
 
 I recently came across a [presentation](preso) given on migrating a very

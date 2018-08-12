@@ -2,6 +2,7 @@
 title = "Interview: Peter Cooper on Rails, Entrepreneurship, and Developing on Linux"
 date = "2007-12-19T11:00:00-00:00"
 draft = false
+categories = ["Interviews"]
 +++
 
 <i>Note: This is the first in a series of interviews I will be doing

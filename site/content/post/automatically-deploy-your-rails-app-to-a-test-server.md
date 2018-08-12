@@ -2,6 +2,7 @@
 title = "Automatically Deploy Your Rails App to a Test Server"
 date = "2005-05-22T17:00:00-00:00"
 draft = false
+categories = ["Rails"]
 +++
 
 Mike Clark has a great script to automatically deploy your Ruby on Rails

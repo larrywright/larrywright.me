@@ -2,6 +2,7 @@
 title = "The Power of Lists"
 date = "2005-12-22T03:00:00-00:00"
 draft = false
+categories = ["Productivity"]
 +++
 
 One of the things that impacted me the most about

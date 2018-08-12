@@ -2,6 +2,7 @@
 title = "Backpack API"
 date = "2005-05-18T03:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 The <a href="http://www.backpackit.com" target="_parent">Backpack</a>

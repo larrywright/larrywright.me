@@ -2,6 +2,7 @@
 title = "Salaries: Keep Them Secret or Make Them Public?"
 date = "2006-08-23T02:00:00-00:00"
 draft = false
+categories = ["Career"]
 +++
 
 I found an interesting pair of articles recently covering the topic of

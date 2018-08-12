@@ -2,6 +2,7 @@
 title = "John Vlissides"
 date = "2005-11-29T02:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 Via [Martin Fowler](http://martinfowler.com/bliki/JohnVlissides.html), I

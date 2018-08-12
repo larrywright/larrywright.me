@@ -2,6 +2,7 @@
 title = "KEXP"
 date = "2005-09-01T19:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 [KEXP](http://www.kexp.org) is an amazing radio station out of Seattle,

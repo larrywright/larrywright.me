@@ -2,6 +2,7 @@
 title = "Is SwitchPipe the Solution for Rails Shared Hosting?"
 date = "2008-02-02T01:00:00-00:00"
 draft = false
+categories = ["Ruby","Rails"]
 +++
 
 [Peter Cooper](http://petercooper.co.uk) (who I [interviewed

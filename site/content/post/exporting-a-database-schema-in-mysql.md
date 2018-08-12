@@ -2,6 +2,7 @@
 title = "Exporting a Database Schema in MySQL"
 date = "2005-05-30T21:00:00-00:00"
 draft = false
+categories = ["Programming"]
 +++
 
 File this under "Useful things to remember".

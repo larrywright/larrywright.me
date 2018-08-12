@@ -2,6 +2,7 @@
 title = "Mac Question: What Books Should I Buy?"
 date = "2008-02-09T15:00:00-00:00"
 draft = false
+categories = ["Apple"]
 +++
 
 I've owned the Macbook Pro for a little while now, and am getting

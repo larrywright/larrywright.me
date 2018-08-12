@@ -2,6 +2,7 @@
 title = "The Week in Links - 12/4/2010"
 date = "2010-12-04T10:00:00-00:00"
 draft = false
+Categories = ["Links"]
 +++
 
 [Full-Ack: an Emacs interface to

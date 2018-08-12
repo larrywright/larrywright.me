@@ -2,6 +2,7 @@
 title = "Monday Question: What Are Your 3 Favorite Technical Sites?"
 date = "2007-12-03T12:00:00-00:00"
 draft = false
+categories = ["Monday Question"]
 +++
 
 <i>Monday Questions is a recurring series on Approaching Normal. For

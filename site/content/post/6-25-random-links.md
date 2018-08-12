@@ -2,6 +2,7 @@
 title = "6/25 Random Links"
 date = "2006-06-26T03:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 These are the shiny objects that captured my attention the last couple

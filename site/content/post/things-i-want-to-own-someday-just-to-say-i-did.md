@@ -2,6 +2,7 @@
 title = "Things I Want to Own Someday Just to Say I Did"
 date = "2006-01-15T12:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 These are in no particular order:

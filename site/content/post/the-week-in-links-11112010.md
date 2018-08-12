@@ -2,6 +2,7 @@
 title = "The Week in Links - 11/11/2010"
 date = "2010-11-11T06:00:00-00:00"
 draft = false
+categories = ["Links"]
 +++
 
 ### [Things You Should Do Immediately After Launching a Website](http://sixrevisions.com/website-management/things-you-should-do-immediately-after-launching-a-website/)

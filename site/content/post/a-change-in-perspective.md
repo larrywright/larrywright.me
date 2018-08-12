@@ -2,6 +2,7 @@
 title = "A Change in Perspective"
 date = "2006-11-18T03:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 <a href="http://www.flickr.com/photos/stoneth/220803634/"><img src="http://static.flickr.com/70/220803634_e2ccbaad46_m_d.jpg" /></a>

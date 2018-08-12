@@ -2,6 +2,7 @@
 title = "Great Languages Are Intuitive"
 date = "2005-11-04T23:00:00-00:00"
 draft = false
+categories = ["Ruby"]
 +++
 
 One of the things that I love about Ruby is that it's intuitive. If I

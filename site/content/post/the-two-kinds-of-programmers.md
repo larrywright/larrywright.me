@@ -2,6 +2,7 @@
 title = "The Two Kinds of Programmers"
 date = "2008-05-16T02:00:00-00:00"
 draft = false
+categories = ["Programming","Best Of"]
 +++
 
 <div style="margin-bottom: 10px;">

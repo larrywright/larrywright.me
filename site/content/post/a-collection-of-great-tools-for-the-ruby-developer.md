@@ -2,6 +2,7 @@
 title = "A Collection of Great Tools for the Ruby Developer"
 date = "2009-04-20T20:00:00-00:00"
 draft = false
+categories = ["Ruby"]
 +++
 
 I've been a bit heads-down lately, working on a super-secret project in

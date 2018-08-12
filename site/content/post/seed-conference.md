@@ -2,6 +2,7 @@
 title = "SEED Conference"
 date = "2007-10-27T14:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 I will be at the [SEED Conference](http://seedconference.com/) in

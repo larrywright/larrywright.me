@@ -2,6 +2,7 @@
 title = "A Brief Introduction to the Arduino"
 date = "2009-02-02T22:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 ![Arduino](>http://farm4.static.flickr.com/3138/2667608562_ae903a33a1_m.jpg "Arduino"):http://www.flickr.com/photos/remkovandokkum/2667608562/in/set-72157606159601535/

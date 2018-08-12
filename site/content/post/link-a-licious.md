@@ -2,6 +2,7 @@
 title = "Web Design and Development Links"
 date = "2005-05-21T14:00:00-00:00"
 draft = false
+tags = ["links"]
 +++
 
 Here's a collection of links useful to web developers and designers: <p>

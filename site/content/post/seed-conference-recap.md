@@ -2,6 +2,7 @@
 title = "SEED Conference Recap"
 date = "2007-11-01T05:00:00-00:00"
 draft = false
+categories = ["Random"]
 +++
 
 ![](/images/seedbanner.jpg)

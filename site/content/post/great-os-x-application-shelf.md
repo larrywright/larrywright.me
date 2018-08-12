@@ -2,6 +2,7 @@
 title = "Cool OS X Application: Shelf"
 date = "2008-05-29T09:00:00-00:00"
 draft = false
+categories = ["Technology"]
 +++
 
 ![](>http://approachingnormal.com/assets/2008/5/29/Shelf_1.jpg)\
