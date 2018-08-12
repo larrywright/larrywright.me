@@ -17,8 +17,6 @@ phases:
       - rm -rf /tmp/hugo*
   build:
     commands:
-      - git submodule init
-      - git submodule update
       - cd $CODEBUILD_SRC_DIR/site && pwd && hugo
   post_build:
     commands:
