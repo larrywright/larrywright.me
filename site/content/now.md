@@ -13,7 +13,7 @@ Welcome, you’re on my [Now](https://nownownow.com/about) page. Here are the th
 
 ### Work
 
-I work for Accenture as a technology architect, focused on building cloud solutions. I work on the Accenture Cloud Platform, primarily on our cloud analytics functionality. I spend most of my time working out how best to build things so that they’re secure,  scalable, maintainable, and perform well. In recent years, I’ve spent time with both Amazon Web Services and Azure. I just got an  AWS certification (Solutions Architect - Associate Level), and I’m looking to add an Azure certification as well.
+I work for [Accenture](https://accenture.com) as a technology architect, focused on building cloud solutions. I work on the Accenture Cloud Platform, primarily on our cloud analytics functionality. I spend most of my time working out how best to build things so that they’re secure,  scalable, maintainable, and perform well. In recent years, I’ve spent time with both Amazon Web Services and Azure. I just got an  AWS certification (Solutions Architect - Associate Level), and I’m looking to add an Azure certification as well.
 
 ### Family
 
