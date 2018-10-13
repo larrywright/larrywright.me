@@ -19,6 +19,7 @@ phases:
       - hugo version
   build:
     commands:
+      - git submodule init && git submodule update
       - hugo
   post_build:
     commands:
