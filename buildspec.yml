@@ -3,7 +3,7 @@ version: 0.1
 environment_variables:
   plaintext:
     AWS_DEFAULT_REGION: "us-east-1"
-    HUGO_VERSION: "0.49"
+    HUGO_VERSION: "0.49.2"
     HUGO_SHA256: "768296178bb3ca5daaf39d897a2505f91e0224ca48a41dc0d1d73120859c4b1f"
     BUCKET_NAME: "larrywright.me"
 
@@ -15,11 +15,11 @@ phases:
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/bin/hugo
       - rm -rf /tmp/hugo*
+    finally:
+      - hugo version
   build:
     commands:
-      - cd $CODEBUILD_SRC_DIR && git submodule init
-      - cd $CODEBUILD_SRC_DIR && git submodule update
-      - cd $CODEBUILD_SRC_DIR && hugo
+      - hugo
   post_build:
     commands:
       - aws s3 sync --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
