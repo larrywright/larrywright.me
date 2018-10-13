@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://larrywright.me/categories/questions.</i>)
+archives](http://larrywright.me/categories/questions.)</i>
 
 [Feedburner](http://www.feedburner.com) tells me that I now have over
 100 subscribers to my [RSS

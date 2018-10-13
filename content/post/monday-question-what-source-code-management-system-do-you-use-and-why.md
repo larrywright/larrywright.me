@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://larrywright.me/blog/categories/questions.</i>)
+archives](http://larrywright.me/blog/categories/questions.)</i>
 
 I've been a CVS and SVN user for a number of years. Recently I've been
 watching all of the buzz around distributed SCMs,

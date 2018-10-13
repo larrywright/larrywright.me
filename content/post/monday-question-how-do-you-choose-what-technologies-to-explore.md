@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://larrywright.me/blog/categories/questions.</i>)
+archives](http://larrywright.me/blog/categories/questions.)</i>
 
 Technology moves at such a rapid pace that there is constantly something
 new that is tempting me to explore it. I find it very difficult to pick

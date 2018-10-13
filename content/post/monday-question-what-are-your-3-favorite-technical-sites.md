@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://www.approachingnormal.com/tags/questions.</i>)
+archives](http://www.approachingnormal.com/tags/questions.)</i>
 
 I'm always on the lookout for good sources for technical information.
 So, today's question is: **What are your 3 favorite technical sites?**

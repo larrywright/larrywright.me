@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://www.approachingnormal.com/tags/questions.</i>)
+archives](http://www.approachingnormal.com/tags/questions.)</i>
 
 Most people, it seems, listen to music while they work. Whether it's to
 aid concentration or drown out their coworkers, I see most people do it.

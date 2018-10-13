@@ -8,7 +8,7 @@ categories = ["Interviews"]
 <i>This article is the second in a series of interviews that I will be
 conducting over the next few months. For the other interviews, please
 [visit the
-archives](http://larrywright.me/blog/categories/interviews</i>)
+archives](http://larrywright.me/blog/categories/interviews)</i>
 
 <img src="/assets/geoffrey_1.jpg" style="float:left; margin-right: 10px; border: 5px solid #ccc;"/>
 

@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://www.approachingnormal.com/tags/questions.</i>)
+archives](http://www.approachingnormal.com/tags/questions.)</i>
 
 The text editor is the programmer's main tool. The best programmers I
 know are masters of their chosen editor, whatever that might be. Knowing

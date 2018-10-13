@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on The Curiosity Project. For
 more questions like this, please visit [the
-archives](http://larrywright.me/blog/categories/questions.</i>)
+archives](http://larrywright.me/blog/categories/questions.)</i>
 
 As [previously
 noted](http://approachingnormal.com/2007/11/21/macbook-pro-after-one-week)

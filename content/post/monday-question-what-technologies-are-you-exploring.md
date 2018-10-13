@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://larrywright.me/blog/categories/questions.</i>)
+archives](http://larrywright.me/blog/categories/questions.)</i>
 
 This is a follow up to last week's question [How do you decide what
 technologies to

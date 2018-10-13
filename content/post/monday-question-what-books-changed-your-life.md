@@ -7,7 +7,7 @@ categories = ["Monday Question"]
 
 <i>Monday Questions is a recurring series on Approaching Normal. For
 more questions like this, please visit [the
-archives](http://larrywright.me/blog/categories/questions.</i>)
+archives](http://larrywright.me/blog/categories/questions.)</i>
 
 I'm an avid reader, if you haven't guessed by now. So today's question
 is **What books have changed your life?**
