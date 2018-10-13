@@ -1,0 +1,34 @@
+{{ define "main" }}
+<main aria-role="main">
+  <header class="homepage-header">
+    <h1>{{.Title}}</h1>
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
+    {{ end }}
+  </header>
+  <div class="homepage-content">
+    {{ $paginator := .Paginate (where .Pages "Type" "post") }}
+    {{ range $paginator.Pages }}
+    <article>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
+      <div>
+        {{ if not .Date.IsZero }}
+        {{ .Date.Format $dateFormat }}
+        {{ end }}
+      </div>
+      {{ .Content }}
+      {{ if .Params.categories }}
+      <div>
+        <strong>categories:</strong>
+        {{ range .Params.categories }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>  
+  {{ template "_internal/pagination.html" . }}
+</main>
+{{ end }}
