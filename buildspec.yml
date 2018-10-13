@@ -22,4 +22,4 @@ phases:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --acl "public-read" --sse "AES256" --delete public/ s3://$BUCKET_NAME --exclude .DS_Store
+      - cd public && aws s3 sync --acl "public-read" --sse "AES256" --delete . s3://$BUCKET_NAME --exclude .DS_Store
