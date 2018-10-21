@@ -1,0 +1,19 @@
+
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+  <article class="blog-post">
+    <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    {{ .Content }}
+    {{ if .Params.categories }}
+    <div>
+      <strong>categories:</strong>
+      {{ range .Params.categories }}
+      <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="badge badge-dark">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </article>
+  
+{{ end }}

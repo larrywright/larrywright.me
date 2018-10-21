@@ -1,0 +1,18 @@
+<article class="blog-post">
+  <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  <div class="blog-post-meta">
+    {{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
+    {{ if not .Date.IsZero }}
+    <small class="text-muted"> {{ .Date.Format $dateFormat }} </small>
+    {{ end }}
+  </div>
+  {{ .Content }}
+  {{ if .Params.categories }}
+  <div>
+    <strong>categories:</strong>
+    {{ range .Params.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="badge badge-dark">{{ . }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+</article>

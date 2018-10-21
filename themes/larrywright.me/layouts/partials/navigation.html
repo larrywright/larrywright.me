@@ -1,12 +1,18 @@
-<ul>
-  {{ $url := .URL | relLangURL }}
-  {{ range .Site.Menus.main }}
-  <li>
-  {{ if eq (hasPrefix .URL "mailto:") true }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
-  {{ else }}
-    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-  {{ end }}
-  </li>
-  {{ end }}
-</ul>
+ <nav class="navbar navbar-expand-lg"  id="navigation">
+   <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">Larry Wright</a>
+   <button class="navbar-toggler navbar-light bg-light" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+     <span class="navbar-toggler-icon"></span>
+   </button>      
+   <div class="collapse navbar-collapse" id="navbarToggle">
+     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+       {{- $currentPage := . -}}
+       {{ range .Site.Menus.main }}
+       {{ $menuURL := .URL | absLangURL }}
+       <li class="nav-item">
+          <a class="nav-link{{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+       </li>
+       {{ end }}
+     </ul>
+   </div>
+ </nav>
+      

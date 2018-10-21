@@ -18,7 +18,7 @@ I recently used Fog to write a backup script in Ruby to automatically
 send encrypted database backups from a database server running at
 Rackspace to Amazon's S3 storage service. Here's how I did it.
 
-### Overview
+## Overview
 
 My script runs as the second step in a process. The first step is a
 shell script that calls pg\_dump to dump a PostgreSQL database and then
@@ -28,7 +28,7 @@ the database server.
 My Fog-based script's job is to make sure that all of the files in the
 backup directory get moved to S3.
 
-### Writing Files
+## Writing Files
 
 Fogsync (my script), looks at all of the files in that directory and
 makes sure that they all exist in a bucket on S3. If they don't, it
@@ -78,7 +78,8 @@ nomenclature, but the tradeoff is that if you want to move from one
 provider to another, the only thing you have to change is the code that
 sets up the connection (the call to Fog::Storage.new() in this example).
 
-### Deleting files
+## Deleting files
+
 ```
       oldest = Date.today - 14 (our date)
       directory =  fog.directories.get(MY_DIRECTORY)

@@ -1,35 +1,58 @@
-<aside>
-  <div>
-    <h4>Recent Posts</h4>
-    <ul>
-      {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
-      {{- range first $recent_num (where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "post"))) }}
-      <li><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
-      {{ end }}
-    </ul>
+  <div class="card mb-2">
+    <div class="card-header">
+      <strong>About</strong>
+    </div>
+    <div class="card-body">
+      <div class="card-text">
+        <p>
+          Perpetually curious. Unabashedly nerdy.
+        </p>
+        <p>
+          <a href="/about/me">Learn more</a>
+        </p>
+      </div>
+    </div>
   </div>
-  <div>
+  <div class="card mb-2">
+    <div class="card-header">
+      <strong>Recent Posts</strong>
+    </div>
+    <div class="card-body">
+      <ul class="list-group list-group-flush">
+        {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+        {{- range first $recent_num (where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "post"))) }}
+        <li class="list-group-item"><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="card mb-2">
     {{- if isset .Site.Taxonomies "categories" }}
     {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
-    <h4>Categories</h4>
-      <div>
-        <ul>
-          {{- range $name, $items := .Site.Taxonomies.categories }}
-            <li><a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
-          {{- end }}
-          </ul>
-      </div>
-      {{- end }}
-      {{- end }}
+    <div class="card-header">
+      <strong>Categories</strong>
+    </div>
+    <div class="card-body">
+      <ul>
+        {{- range $name, $items := .Site.Taxonomies.categories }}
+        <li><a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+    {{- end }}
   </div>
   
-  <div>
-    <h4>Elsewhere</h4>
-    <ul>
-        {{ with .Site.Params.github }}<li><a href="{{ . }}">Github</a></li>{{ end }}
-        {{ with .Site.Params.linkedin }}<li><a href="{{ . }}">LinkedIn</a></li>{{ end }}
-        {{ with .Site.Params.twitter }}<li><a href="{{ . }}">Twitter</a></li>{{ end }}
-        {{ if .Site.Params.rss }}<li><a href="{{ "/index.xml" | absURL }}" type="application/rss+xml">RSS</a></li>{{ end }}
-    </ul>
+  <div class="card mb-2">
+    <div class="card-header">
+      <strong>Elsewhere</strong>
+    </div>
+    <div class="card-body">
+      <ul class="list-unstyled">
+        {{ with .Site.Params.github }}<li><i class="fab fa-github mr-2"></i><a href="{{ . }}">Github</a></li>{{ end }}
+        {{ with .Site.Params.twitter }}<li><i class="fab fa-twitter mr-2"></i><a href="{{ . }}">Twitter</a></li>{{ end }}
+        {{ if .Site.Params.rss }}<li><a href="{{ "/index.xml" | absURL }}" type="application/rss+xml">RSS</a></li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
-</aside>

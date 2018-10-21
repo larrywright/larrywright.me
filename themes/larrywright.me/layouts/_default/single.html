@@ -2,7 +2,5 @@
 {{ define "title" }}
 {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
-{{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
+{{ define "main" }}{{ partial "article.html" . }}
 {{ end }}
