@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row pb-4">
       <div class="col-md-8 pl-0">
-      {{ partial "navigation.html" . }}
+        {{ partial "navigation.html" . }}
       </div>
     </div>
     <div class="row mt-4">
@@ -14,14 +14,13 @@
         {{ end }}
       </div>
       <div class="col mt-4 pt-5">
-      {{ block "sidebar" . }}
-      {{ partial "sidebar.html" . }}
-      {{ end }}
+        {{ block "sidebar" . }}
+        {{ partial "sidebar.html" . }}
+        {{ end }}
       </div>
     </div>
-    </div>
     <div class="row">
-      <div class="col">
+      <div class="col-md-8">
         {{ block "footer" . }}
         {{ partial "footer.html" . }}
         {{ end }}

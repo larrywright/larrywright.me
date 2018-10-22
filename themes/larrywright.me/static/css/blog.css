@@ -58,3 +58,20 @@ article h3 {
 .page-link:hover {
   color: #1E1E1E;
 }
+
+/* Uncomment these to show the grid objects - for debugging */
+/* .container {
+  border: 1px solid pink;
+}
+.row {
+  border: 1px solid orange;
+}
+.col {
+ border: 1px solid burlywood;
+}
+.col-md-8 {
+  border: 1px solid green;
+}
+.card {
+  border: 1px solid darkorchid;
+} */
