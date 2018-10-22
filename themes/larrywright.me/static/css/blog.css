@@ -12,6 +12,8 @@ body {
   padding-bottom: 2rem;
   margin-bottom: 2rem;
   border-bottom: 1px dotted #ddd;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
 }
 
 .blog-post-title {
