@@ -42,7 +42,4 @@ In summary: If you enjoy great coffee, you need an
 
 To get an even better idea of how it works, check out this short video:
 
-<iframe src="http://player.vimeo.com/video/40980282" width="500" height="281" frameborder="0"  webkitAllowFullScreen mozallowfullscreen allowFullScreen>
-</iframe>
-
-
+{{< vimeo 40980282 >}}
