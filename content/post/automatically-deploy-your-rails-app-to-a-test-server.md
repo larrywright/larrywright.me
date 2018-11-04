@@ -12,6 +12,4 @@ subversion repository.
 I'm just starting to use svn for my projects, I'm going to have to try
 this out.
 
-You can read the article yourself
-<a href="http://www.clarkware.com/cgi/blosxom/2005/05/22#RapidFeedback">here</a>.
-
+You can read the article yourself [here](http://www.clarkware.com/cgi/blosxom/2005/05/22#RapidFeedback).

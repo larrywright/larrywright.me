@@ -38,7 +38,7 @@ that get deleted.
 
 Let's look at how it works:
 
-```
+```ruby 
 fog = Fog::Storage.new(
   :provider => 'AWS',
   :aws_access_key_id => MY_ACCESS_KEY,
@@ -80,7 +80,7 @@ sets up the connection (the call to Fog::Storage.new() in this example).
 
 ## Deleting files
 
-```
+```ruby
       oldest = Date.today - 14 (our date)
       directory =  fog.directories.get(MY_DIRECTORY)
       files = directory.files

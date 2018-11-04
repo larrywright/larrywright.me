@@ -18,7 +18,7 @@ The Aeropress works kind of like an espresso maker, though at a much
 lower pressure. The coffee it produces is espresso strength. This means
 you can drink it like an espresso or use it to create espresso-based
 drinks like Cafe Au Lait or Capuccino. I add hot water to mine to make
-an [Americano](http://en.wikipedia.org/wiki/CaffÃ¨_Americano).
+an [Americano](https://en.wikipedia.org/wiki/Caffè_Americano).
 
 Since getting the Aeropress, it's been the only method I've used to brew
 coffee. It's replaced the drip machine in our kitchen. It takes up
