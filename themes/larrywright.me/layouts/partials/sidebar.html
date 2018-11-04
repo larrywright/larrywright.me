@@ -1,5 +1,6 @@
   <div class="card mb-2">
     <div class="card-header">
+        <i class="fas fa-user mr-1" aria-hidden="true"></i>
       <strong>About</strong>
     </div>
     <div class="card-body">
@@ -15,13 +16,14 @@
   </div>
   <div class="card mb-2">
     <div class="card-header">
+        <i class="fas fa-clock mr-1" aria-hidden="true"></i>
       <strong>Recent Posts</strong>
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
         {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
         {{- range first $recent_num (where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "post"))) }}
-        <li class="list-group-item"><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
+        <li class="list-group-item pl-0"><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
         {{ end }}
       </ul>
     </div>
@@ -30,6 +32,7 @@
     {{- if isset .Site.Taxonomies "categories" }}
     {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
     <div class="card-header">
+        <i class="fas fa-tags mr-1" aria-hidden="true"></i>
       <strong>Categories</strong>
     </div>
     <div class="card-body">
@@ -45,6 +48,7 @@
   
   <div class="card mb-2">
     <div class="card-header">
+        <i class="fas fa-external-link-square-alt mr-1"></i>
       <strong>Elsewhere</strong>
     </div>
     <div class="card-body">

@@ -9,7 +9,7 @@ body {
  }
 
 .blog-post {
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   margin-bottom: 2rem;
   border-bottom: 1px dotted #ddd;
   max-width: 100% !important;
