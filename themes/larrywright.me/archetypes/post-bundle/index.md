@@ -3,6 +3,6 @@ title = ""
 date = {{ .Date }}
 description = ""
 keywords = []
-categories = []
+categories = ["photography"]
 images = []
 +++
