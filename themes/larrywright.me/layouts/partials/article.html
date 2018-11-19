@@ -11,11 +11,4 @@
   </small>
   </div>
   {{ .Content }}
-  {{ $images := .Resources.ByType "image" }}
-    {{ range $images }}
-    {{ $main := .Resize "1000x" }}
-    <figure class="figure">
-      <img class="img-fluid" src="{{ $main.Permalink }}"/>
-      </figure>
-  {{ end }}
 </article>

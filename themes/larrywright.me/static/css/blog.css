@@ -61,6 +61,9 @@ article h3 {
   color: #1E1E1E;
 }
 
+.figure-caption {
+  font-style: italic;
+}
 /* Uncomment these to show the grid objects - for debugging */
 /* .container {
   border: 1px solid pink;

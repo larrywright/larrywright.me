@@ -1,6 +1,6 @@
   <div class="card mb-2">
     <div class="card-header">
-        <i class="fas fa-user mr-1" aria-hidden="true"></i>
+      <i class="fas fa-user mr-1" aria-hidden="true"></i>
       <strong>About</strong>
     </div>
     <div class="card-body">
@@ -16,12 +16,12 @@
   </div>
   <div class="card mb-2">
     <div class="card-header">
-        <i class="fas fa-clock mr-1" aria-hidden="true"></i>
+      <i class="fas fa-clock mr-1" aria-hidden="true"></i>
       <strong>Recent Posts</strong>
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
-        {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+        {{- $recent_num := (.Site.Params.widgets.recent_num | default 5) }}
         {{- range first $recent_num (where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "post"))) }}
         <li class="list-group-item pl-0"><a href="{{.RelPermalink}}">{{.Title | markdownify }}</a></li>
         {{ end }}
@@ -29,10 +29,31 @@
     </div>
   </div>
   <div class="card mb-2">
+    <div class="card-header">
+      <i class="fas fa-camera mr-1" aria-hidden="true"></i>
+      <strong>Recent Photos</strong>
+    </div>
+    <div class="card-body p-3">
+      {{- range first 4 (where .Pages "Section" "photo") }}
+      {{- $url := .Permalink }}
+      {{- $title := .Title }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ range $images }}
+      {{ $thumb := .Fill "400x400" }}
+      <a href="{{ $url }}">
+        <picture>
+          <img class="mb-3 mx-auto d-block rounded p-0 img-fluid" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
+        </picture>
+      </a>
+      {{ end }}
+      {{- end }}
+    </div>
+  </div>    
+  <div class="card mb-2">
     {{- if isset .Site.Taxonomies "categories" }}
     {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
     <div class="card-header">
-        <i class="fas fa-tags mr-1" aria-hidden="true"></i>
+      <i class="fas fa-tags mr-1" aria-hidden="true"></i>
       <strong>Categories</strong>
     </div>
     <div class="card-body">
@@ -45,10 +66,9 @@
     {{- end }}
     {{- end }}
   </div>
-  
   <div class="card mb-2">
     <div class="card-header">
-        <i class="fas fa-external-link-square-alt mr-1"></i>
+      <i class="fas fa-external-link-square-alt mr-1"></i>
       <strong>Elsewhere</strong>
     </div>
     <div class="card-body">

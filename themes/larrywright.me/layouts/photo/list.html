@@ -1,0 +1,17 @@
+{{ define "title" }}
+<title>
+  {{ .Title }} &ndash; {{ .Site.Title }}
+</title>
+{{ end }}
+
+{{ define "main" }}
+<main aria-role="main">
+  <div>
+    {{ $paginator := .Paginate (where .Pages "Type" "photo") 5 }}
+    {{ range $paginator.Pages }}
+    {{ partial "photo.html" . }}
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</main>
+{{ end }}

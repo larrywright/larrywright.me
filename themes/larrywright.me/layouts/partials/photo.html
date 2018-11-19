@@ -1,0 +1,37 @@
+<article class="blog-post">
+  <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  <div class="blog-post-meta">
+    <small class="text-muted">
+      <i class="fas fa-calendar mr-1" aria-hidden="true"></i>
+      <time class="mr-1" datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
+    </small>
+  </div>
+  {{- $title := .Title }}
+  
+  {{- if isset .Params "image" }}
+    {{- $filename := .Params.image }}
+    {{- $images := $.Resources.ByType "image" -}}
+    {{- $image := $images.GetMatch $filename }}
+    {{- $main := $image.Resize "1500x" }}
+    <figure class="figure">
+      <img class="figure-img img-fluid rounded" alt="{{$title}}" src="{{ $main.Permalink }}"/>
+    {{- if isset .Params "caption" }}
+      <figcaption class="figure-caption">{{ .Params.caption}}</figcaption>
+    {{- end }}
+    </figure>
+    {{ .Content }}
+  {{- else }}
+    {{- if and (isset .Params "auto") (eq .Params.auto true)  }}
+      {{ .Content }}
+      {{- $images := .Resources.ByType "image" }}
+      {{- range $images }}
+        {{- $main := .Resize "1500x" }}
+        <figure class="figure">
+          <img class="figure-img img-fluid rounded" alt="{{$title}}" src="{{ $main.Permalink }}"/>
+        </figure>
+      {{- end }}
+  {{- else }}
+    {{ .Content }}
+  {{- end }}
+{{- end }}
+</article>

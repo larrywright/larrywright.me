@@ -46,10 +46,10 @@ identifier = "posts"
 url = "/post/"
 
 [[menu.main]]
-name = "Photography"
-weight = 3
-identifier = "photography"
-url = "https://larrywright.myportfolio.com"
+name = "Photos"
+weight = 2
+identifier = "photo"
+url = "/photo/"
 
 [[menu.main]]
 name = "Now"

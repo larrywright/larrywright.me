@@ -1,0 +1,42 @@
+{{- $images := $.Page.Resources.ByType "image" -}}
+{{- $filename := (.Get "src") }}
+{{- $path := printf "images/%s" $filename }}
+{{- $image := $images.GetMatch $path }}
+{{- $original := $.Page.Resources.GetMatch $path }}
+
+{{ $alt := (.Get "alt") }}
+{{ $caption := (.Get "caption") }}
+
+<figure class="figure">
+    {{- if .Get "link" -}}
+        <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+    {{- end }}
+{{ with $original }}
+    {{ if gt $original.Width 1500 }}
+        {{ $image := .Resize "1500x" }}
+        <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="figure-img img-fluid rounded"
+        {{- if or ($alt) ($caption) }}
+            alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption | markdownify| plainify }}{{ end }}"
+            {{- end -}}
+        />
+    {{ else }}
+        <img src="{{ $original.RelPermalink }}" width="{{ $original.Width }}" height="{{ $original.Height }}" class="figure-img img-fluid rounded" />
+    {{ end }}    
+{{ end }}
+    {{- if .Get "link" }}</a>{{ end -}}
+    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+        <figcaption class="figure-caption">
+            {{ with (.Get "title") -}}
+                <h4>{{ . }}</h4>
+            {{- end -}}
+            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+                {{- .Get "caption" | markdownify -}}
+                {{- with .Get "attrlink" -}}
+                    <a href="{{ . }}">
+                {{- end -}}
+                {{- .Get "attr" | markdownify -}}
+                {{- if .Get "attrlink" }}</a>{{ end }}</p>
+            {{- end }}
+        </figcaption>
+    {{- end }}
+</figure>
