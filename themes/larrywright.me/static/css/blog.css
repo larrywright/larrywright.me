@@ -38,8 +38,13 @@ a:hover {
   color: #1E1E1E;
 }
 
-.nav-link {
+.navbar-dark .navbar-nav .nav-link {
   text-transform: uppercase;
+  color: #dfdfdf;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #fff;
 }
 
 article h2 {

@@ -3,13 +3,9 @@
 {{ partial "head.html" . }}
 <body>
   <div class="container">
-    <div class="row pb-4">
-      <div class="col-md-8 pl-0">
-        {{ partial "navigation.html" . }}
-      </div>
-    </div>
-    <div class="row mt-4">
-      <div id="main" class="col-md-8">
+    {{ partial "navigation.html" . }}
+    <div class="row mt-5 pt-4">
+      <div id="main" class="col-md-8 pt-8">
         {{ block "main" . }}
         {{ end }}
       </div>
