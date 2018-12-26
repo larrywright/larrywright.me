@@ -4,7 +4,8 @@ date: 2018-07-04T14:48:54-06:00
 description: "Fireworks, Independence Day 2018"
 keywords: ["photography","fireworks","Independence Day"]
 categories: ["photography"]
-featured_image: "Fireworks 2018-002.jpg"
+images:
+  - "Fireworks 2018-002.jpg"
 auto: true
 ---
 

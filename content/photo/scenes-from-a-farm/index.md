@@ -5,7 +5,8 @@ description: ""
 keywords: ["photography"]
 categories: ["photography"]
 auto: false
-featured_image: "Barn-004.jpg"
+images: 
+ - "Barn-004.jpg"
 ---
 
 A friend asked me to take some pictures of the farm that had been in their family for generations, before it was sold.

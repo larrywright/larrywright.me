@@ -4,6 +4,7 @@ date: 2018-07-25T16:59:46-06:00
 description: ""
 keywords: []
 categories: ["photography"]
-image: "IMG_3410.jpg"
+images: 
+  - "IMG_3410.jpg"
 caption: "Interior of a lighthouse, looking up"
 ---
