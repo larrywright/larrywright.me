@@ -6,10 +6,30 @@
 
 {{ define "main" }}
 <main aria-role="main">
-  <div>
-    {{ $paginator := .Paginate (where .Pages "Type" "photo") 5 }}
+  <div class="row">
+    {{ $paginator := .Paginate (where .Pages "Type" "photo") 20 }}
     {{ range $paginator.Pages }}
-    {{ partial "photo.html" . }}
+    {{- $url := .Permalink }}
+    {{- $title := .Title }}
+    {{- $description := .Description }}
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        {{ $images := .Resources.ByType "image" }}
+        {{ $image  := index $images 0  }}
+        {{ $thumb := $image.Fill "400x400" }}
+        <a href="{{ $url }}">
+          <picture>
+            <img class="card-img-top" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
+          </picture>
+        </a>
+        <picture class="card-img-top" text="Thumbnail"/>
+        <div class="card-body pb-0">
+            <a href="{{ $url }}">
+                <h6 class="card-title">{{$title}}</h6>
+            </a>
+        </div>
+      </div>
+    </div>
     {{ end }}
     {{ template "_internal/pagination.html" . }}
   </div>
