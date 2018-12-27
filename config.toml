@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://larrywright.me"
 title = "Larry Wright"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -13,8 +13,8 @@ pygmentsCodeFences = true
 [params]
     subtitle = "The Journal of a Curious Person" # Subtitle of your site
     defaultDescription = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
-    facebook = "https://www.facebook.com/larrywright"
-    twitter = "https://twitter.com/larrywright"
+    facebook = "larrywright"
+    twitter = "larrywright"
     linkedin = "https://www.linkedin.com/in/larrywright/"
     github = "https://github.com/larrywright"
     email = "larrywright@gmail.com"
