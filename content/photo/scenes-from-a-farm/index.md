@@ -9,7 +9,7 @@ images:
  - "Barn-004.jpg"
 ---
 
-A friend asked me to take some pictures of the farm that had been in their family for generations, before it was sold.
+A friend asked me to take some pictures of the farm that had been in their family for generations, before some of the items were sold.
 
 {{% optfigure src="Barn-004.jpg" caption="This barn has stood for over 100 years. Alas, it's unstable and due to be torn down. The wood, however, is being salvaged." %}}
 

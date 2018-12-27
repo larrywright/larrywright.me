@@ -8,11 +8,12 @@
   </div>
   {{- $title := .Title }}
   
-  {{- if isset .Params "images" }}
+  {{- if not (isset .Params "auto")}}
+  {{- if and (isset .Params "images") }}
+  {{- $images := $.Resources.ByType "image" -}}        
     {{- $filename := .Params.image }}
     {{- $has_caption := isset .Params "caption" }}
     {{- $caption := cond $has_caption (.Params.caption) nil}}
-    {{- $images := $.Resources.ByType "image" -}}    
     {{- range $images }}
       {{- $main := .Resize "1500x" }}
         <figure class="figure">
@@ -23,6 +24,7 @@
         </figure>
     {{- end }}
     {{ .Content }}
+    {{- end }}
   {{- else }}
     {{- if and (isset .Params "auto") (eq .Params.auto true)  }}
       {{ .Content }}
