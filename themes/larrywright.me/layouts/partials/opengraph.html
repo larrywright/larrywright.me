@@ -8,9 +8,9 @@
         {{ $image := . }}
         {{ $image_link_absolute := (findRE "^/" $image) }}
         {{ if $image_link_absolute }}
-            <meta name="og:image" content="{{ $image | absURL }}"/>
+            <meta property="og:image" content="{{ $image | absURL }}"/>
         {{ else }}
-            <meta name="og:image" content="{{ (printf "%s%s" $permalink $image) }}"/>
+            <meta property="og:image" content="{{ (printf "%s%s" $permalink $image) }}"/>
         {{ end }}
     {{ end }}
 {{ end }}
