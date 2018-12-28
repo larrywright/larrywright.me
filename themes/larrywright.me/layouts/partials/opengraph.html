@@ -3,15 +3,25 @@
 <meta property="og:description" content="{{ with .Site.Params.defaultDescription }}{{ . }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
+
+{{- $images := $.Page.Resources.ByType "image" -}}
+
 {{ with .Params.images }}
     {{ range first 6 . }}
         {{ $image := . }}
+        {{- $name := path.Base $image }}
+        {{- $imageref := $images.GetMatch (printf "**%s*" $name) }}
+
+
         {{ $image_link_absolute := (findRE "^/" $image) }}
         {{ if $image_link_absolute }}
             <meta property="og:image" content="{{ $image | absURL }}"/>
         {{ else }}
-            <meta property="og:image" content="{{ (printf "%s%s" $permalink $image) }}"/>
+            <meta property="og:image" content="{{ (printf "%s%s" $permalink $image ) }}"/>
         {{ end }}
+        <meta property="og:image:width" content="{{ $imageref.Width}}"/>
+        <meta property="og:image:height" content="{{ $imageref.Height }}"/>        
+       
     {{ end }}
 {{ end }}
 {{ if .IsPage }}
@@ -32,9 +42,9 @@
     {{ $audio := . }}
     {{ $audio_link_absolute := (findRE "^/" $audio) }}
     {{ if $audio_link_absolute }}
-        <meta name="og:audio" content="{{ $audio | absURL }}"/>
+        <meta property="og:audio" content="{{ $audio | absURL }}"/>
     {{ else }}
-        <meta name="og:audio" content="{{ (printf "%s%s" $permalink $audio) }}"/>
+        <meta property="og:audio" content="{{ (printf "%s%s" $permalink $audio) }}"/>
     {{ end }}
 {{ end }}
 {{ with .Params.locale }}
@@ -48,9 +58,9 @@
         {{ $video := . }}
         {{ $video_link_absolute := (findRE "^/" $video) }}
         {{ if $video_link_absolute }}
-            <meta name="og:video" content="{{ $video | absURL }}"/>
+            <meta property="og:video" content="{{ $video | absURL }}"/>
         {{ else }}
-            <meta name="og:video" content="{{ (printf "%s%s" $permalink $video) }}"/>
+            <meta property="og:video" content="{{ (printf "%s%s" $permalink $video) }}"/>
         {{ end }}
     {{ end }}
 {{ end }}

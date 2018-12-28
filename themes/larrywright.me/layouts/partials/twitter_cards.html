@@ -3,7 +3,7 @@
     <meta name="twitter:card" content="summary_large_image"/>
     <!-- As per https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image,
          the required card property is "twitter:image", not "twitter:image:src". -->
-    {{- $image := (index . 0) -}}
+    {{- $image := (index . 0) | urlize -}}
     <meta name="twitter:image" content="{{- (printf "%s%s" $permalink $image) -}}"/>
    
 {{ else -}}
