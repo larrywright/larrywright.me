@@ -1,0 +1,29 @@
+
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<div class="col-12">
+    <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <div class="blog-post-meta">
+      <small class="text-muted">
+        <i class="fas fa-calendar mr-1" aria-hidden="true"></i>
+        <time class="mr-1" datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
+      </small>
+    </div>
+  <article class="blog-post">
+    {{- $title := .Title }}
+    {{ .Content }}
+    {{- $images := $.Resources.ByType "image" -}}        
+    {{- range $images }}
+    {{- $image := .Resize "1000x" }}
+    <h3>{{.Title}}</h3>
+    <figure class="figure figure-img pb-4">    
+      <img src="{{ $image.Permalink }}" alt="" class="img-fluid"/>
+      <figcaption class="figure-caption pt-2">{{ .Params.caption}} </figcaption>
+    </figure>
+  {{- end }}
+</article>
+</div>
+{{ end }}

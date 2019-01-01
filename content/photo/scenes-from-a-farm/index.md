@@ -1,7 +1,7 @@
 ---
 title:  "Scenes From a Farm"
 date: 2016-11-05T15:36:22-06:00
-description: ""
+description: "A friend asked me to take some pictures of the farm that had been in their family for generations."
 keywords: ["photography"]
 categories: ["photography"]
 auto: false

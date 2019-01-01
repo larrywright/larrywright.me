@@ -5,5 +5,7 @@ description: ""
 keywords: ["photography"]
 categories: ["photography"]
 auto: true
-featured_image: ""
+featured: ""
+images: 
+  - 
 ---

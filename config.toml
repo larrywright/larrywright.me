@@ -12,7 +12,7 @@ pygmentsCodeFences = true
     
 [params]
     subtitle = "The Journal of a Curious Person" # Subtitle of your site
-    defaultDescription = "Larry Wright's personal blog. A little bit of everything, mostly nerdy."
+    defaultDescription = "Words and pictures by Larry Wright. A little bit of everything, mostly nerdy."
     facebook = "larrywright"
     twitter = "larrywright"
     linkedin = "https://www.linkedin.com/in/larrywright/"

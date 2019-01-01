@@ -1,11 +1,23 @@
 {{ $permalink := .Permalink }}
 <meta property="og:title" content="{{ .Title }}" />
+{{- with $.Page.Description }}
+<meta property="og:description" content="{{ $.Page.Description}}" />
+{{- else }}
 <meta property="og:description" content="{{ with .Site.Params.defaultDescription }}{{ . }}{{ end }}" />
+{{- end }}
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
 {{- $images := $.Page.Resources.ByType "image" -}}
 
+{{- if .Params.featured}}
+    {{ $image := $.Params.featured }}
+    {{- $imageref := $images.GetMatch (printf "**%s*" $image) }}
+    <meta property="og:image" content="{{ (printf "%s%s" $permalink $image ) }}"/>
+    <meta property="og:image:width" content="{{ $imageref.Width}}"/>
+    <meta property="og:image:height" content="{{ $imageref.Height }}"/>        
+
+{{- else}}
 {{ with .Params.images }}
     {{ range first 6 . }}
         {{ $image := . }}
@@ -23,7 +35,8 @@
         <meta property="og:image:height" content="{{ $imageref.Height }}"/>        
        
     {{ end }}
-{{ end }}
+{{- end }}
+{{- end }}
 {{ if .IsPage }}
     {{ if not .PublishDate.IsZero }}
         <meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"/>

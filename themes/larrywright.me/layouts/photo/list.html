@@ -12,22 +12,31 @@
     {{- $url := .Permalink }}
     {{- $title := .Title }}
     {{- $description := .Description }}
+    {{- $count := len (.Resources.ByType "image")}}
+    {{- $label := cond (eq 1 $count) "photo" "photos"}}
     <div class="col-md-4">
-      <div class="card mb-4 shadow-sm">
+      <div class="card mb-4 shadow-sm ">
         {{ $images := .Resources.ByType "image" }}
         {{ $image  := index $images 0  }}
         {{ $thumb := $image.Fill "400x400" }}
         <a href="{{ $url }}">
           <picture>
-            <img class="card-img-top" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
+            <img class="card-img-top img-thumbnail" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
           </picture>
         </a>
-        <picture class="card-img-top" text="Thumbnail"/>
-        <div class="card-body pb-0">
+        <div class="card-body d-none" >
             <a href="{{ $url }}">
-                <h6 class="card-title">{{$title}}</h6>
+                <h5 class="card-title" style="color:#555">{{$title}}</h6>
             </a>
+            <p class="card-text text-muted">{{$description}}</p>
         </div>
+        <div class="card-footer d-none">
+          <small>
+            <i class="fas fa-calendar mr-1" aria-hidden="true"></i>
+            <time class="mr-1" datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
+            {{ $count }} {{$label}} 
+          </small>
+          </div>
       </div>
     </div>
     {{ end }}

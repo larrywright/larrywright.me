@@ -12,15 +12,15 @@
         <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end }}
 {{ with $original }}
-    {{ if gt $original.Width 1500 }}
-        {{ $image := .Resize "1500x" }}
-        <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="figure-img img-fluid rounded"
+    {{ if gt $original.Width 1000 }}
+        {{ $image := .Resize "1000x" }}
+        <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="figure-img img-fluid border rounded shadow"
         {{- if or ($alt) ($caption) }}
             alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption | markdownify| plainify }}{{ end }}"
             {{- end -}}
         />
     {{ else }}
-        <img src="{{ $original.RelPermalink }}" width="{{ $original.Width }}" height="{{ $original.Height }}" class="figure-img img-fluid rounded" />
+        <img src="{{ $original.RelPermalink }}" width="{{ $original.Width }}" height="{{ $original.Height }}" class="figure-img img-fluid border rounded shadow" />
     {{ end }}    
 {{ end }}
     {{- if .Get "link" }}</a>{{ end -}}

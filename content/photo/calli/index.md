@@ -6,5 +6,5 @@ keywords: ["photography","Larry Wright","Ocean"]
 categories: ["photography"]
 images:
   - "IMG_3928.jpg"
-caption: "Calli at the beach"
+caption: "Calli at the beach. New Smyrna Beach, FL"
 ---
