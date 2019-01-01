@@ -1,6 +1,6 @@
 ---
 title:  "Best of 2018"
-date: 2018-12-29T22:56:13-06:00
+date: 2018-12-31T22:56:13-06:00
 description: "I took thousands of pictures in 2018. These are my favorites."
 keywords: ["photography"]
 categories: ["photography"]
