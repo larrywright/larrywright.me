@@ -5,6 +5,7 @@
 
 {{ define "main" }}
 <div class="col-12">
+  <article class="blog-post">
     <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
     <div class="blog-post-meta">
       <small class="text-muted">
@@ -12,7 +13,6 @@
         <time class="mr-1" datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
       </small>
     </div>
-  <article class="blog-post">
     {{- $title := .Title }}
     {{ .Content }}
     {{- $images := $.Resources.ByType "image" -}}        
