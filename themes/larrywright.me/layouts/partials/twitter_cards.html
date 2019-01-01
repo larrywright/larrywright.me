@@ -3,10 +3,7 @@
     {{- $images := $.Resources.ByType "image" -}}
     {{ $image := $.Params.featured }}
     {{- $imageref := $images.GetMatch (printf "**%s*" $image) }}
-    <meta property="og:image" content="{{ (printf "%s%s" $permalink $image ) }}"/>
-    <meta property="og:image:width" content="{{ $imageref.Width}}"/>
-    <meta property="og:image:height" content="{{ $imageref.Height }}"/>        
-
+    <meta property="twitter:image" content="{{ (printf "%s%s" $permalink $image ) }}"/>
 {{- else}}
 
 {{- with $.Params.images -}}

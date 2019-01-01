@@ -64,11 +64,11 @@ article h3 {
   font-size: 1.25rem;
 }
 .page-link {
-  color: #3684c6;
+  color: #213d53;
 }
 .page-item.active .page-link {
-  background-color: #3684c6;
-  border-color: #3684c6;
+  background-color: #213d53;
+  border-color: #213d53;
 }
 
 .page-link:hover {
