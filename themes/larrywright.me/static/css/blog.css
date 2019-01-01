@@ -83,6 +83,7 @@ figure {
   margin-bottom: 2rem;
 }
 
+.bg-semitransparent { background-color: rgba(60,60,60,0.8); }
 
 
 /* Uncomment these to show the grid objects - for debugging */

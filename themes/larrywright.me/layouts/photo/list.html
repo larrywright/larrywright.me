@@ -20,27 +20,17 @@
         {{ $image  := index $images 0  }}
         {{ $thumb := $image.Fill "400x400" }}
         <a href="{{ $url }}">
-          <picture>
-            <img class="card-img-top img-thumbnail" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
-          </picture>
-        </a>
-        <div class="card-body d-none" >
-            <a href="{{ $url }}">
-                <h5 class="card-title" style="color:#555">{{$title}}</h6>
-            </a>
-            <p class="card-text text-muted">{{$description}}</p>
-        </div>
-        <div class="card-footer d-none">
-          <small>
-            <i class="fas fa-calendar mr-1" aria-hidden="true"></i>
-            <time class="mr-1" datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
-            {{ $count }} {{$label}} 
-          </small>
+          <img class="card-img-top" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
+            <div class="card-img-overlay h-100 d-flex p-0 flex-column justify-content-end">
+              <h5 class="card-text border-0 p-3 bg-semitransparent w-100 text-white" style="font-weight: bold;">
+                  {{ $title }}
+              </h5>
           </div>
+          </a>
+        </div>
       </div>
+      {{ end }}
+      {{ template "_internal/pagination.html" . }}
     </div>
-    {{ end }}
-    {{ template "_internal/pagination.html" . }}
-  </div>
-</main>
-{{ end }}
+  </main>
+  {{ end }}
