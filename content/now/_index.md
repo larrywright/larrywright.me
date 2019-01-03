@@ -35,4 +35,6 @@ Christmas is over for another year. After some much-needed time off from work an
 
 I've relaunched my long-dormant blog. Next up is to actually add content to it on a semi-regular basis. I've got some other things I want to work on, but this is a start. 
 
+I've been working on posting more photos as well, check out my [Best of 2018](http://larrywright.me/photo/best-of-2018/) post to see some of my recent favorites.
+
 _Last updated Thursday January 3rd, 2019_
