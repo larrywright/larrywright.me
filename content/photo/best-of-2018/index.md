@@ -79,7 +79,7 @@ resources:
   - src: "images/Pedal-board.jpg"
     title: "Pedalboard"
     params: 
-      caption: "I shoot a lot of pictures at my church. I take pictures of a wide variety of things, but some of my favorites are the details. This is the pedalboard and feet of one of the guitarists."
+      caption: "I shoot a lot of pictures at my church. These generally include a wide variety of things, but some of my favorites are the details. This is the pedalboard and feet of one of the guitarists in our worship band."
   - src: "images/Playlist.jpg"
     title: "Playlist"
     params: 
@@ -95,7 +95,7 @@ resources:
   - src: "images/Storm-rolls-in.jpg"
     title: "A Storm Rolls In"
     params: 
-      caption: "Watching a storm roll in during our Florida vacation"
+      caption: "Watching a storm roll in during our Florida vacation."
   - src: "images/Sunset-01.jpg"
     title: "Sunset - Part One"
     params: 
@@ -113,4 +113,4 @@ resources:
     params: 
       caption: "I love silhouette photos, and lens flare is always fun. Putting them together makes for a great picture."
 ---
-I usually take a *lot* of pictures in a year, and this one was no different. Out of the thousands of pictures I took, these are my favorites. Most are taken with my main camera, a Canon 6D, but some are moments captured with my phone.
+I usually take a *lot* of pictures in a given year, and 2018 was no different. Out of the thousands of pictures I took, these are my favorites. Most are taken with my main camera, a Canon 6D, but some are moments captured with my phone. 
