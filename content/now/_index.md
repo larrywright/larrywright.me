@@ -27,8 +27,8 @@ Christmas is over for another year. After some much-needed time off from work an
 
 ## Media
 
-* *Reading:* "Genius: The Life and Science of Richard Feynman." - I did an awful job of reading books in 2018, I aim to do better in 2019. 
-* *Watching:* "Lemony Snicket's A Series of Unfortunate Events" - the final season just dropped on Netflix.
-* *Listening:* "Incredibles 2 (Original Motion Picture Soundtrack)" - I listen to instrumental music while I work or do anything that requires concentration - I find that lyrics in music are distracting. This was a good movie and the soundtrack is excellent. 
+* **Reading:** "Genius: The Life and Science of Richard Feynman." - I did an awful job of reading books in 2018, I aim to do better in 2019. 
+* **Watching:** "Lemony Snicket's A Series of Unfortunate Events" - the final season just dropped on Netflix.
+* **Listening:** "Incredibles 2 (Original Motion Picture Soundtrack)" - I listen to instrumental music while I work or do anything that requires concentration - I find that lyrics in music are distracting. This was a good movie and the soundtrack is excellent. 
 
-_Last updated Saturday January 3rd, 2019_
+_Last updated Thursday January 3rd, 2019_
