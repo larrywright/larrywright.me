@@ -2,7 +2,7 @@
 title:  "Best of 2018"
 date: 2018-12-31T22:56:13-06:00
 description: "I took thousands of pictures in 2018. These are my favorites."
-keywords: ["photography"]
+keywords: ["photography","Larry Wright"]
 categories: ["photography"]
 auto: true
 featured: "images/Fireworks.jpg"
