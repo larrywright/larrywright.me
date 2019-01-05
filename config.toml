@@ -21,6 +21,7 @@ googleAnalytics = "UA-100582-3"
     email = "larrywright@gmail.com"
     home = "Home"
     truncate = true
+    avatar = "larry.jpg"
 
  [taxonomies]
     # Optional. Use if you want tags and lists.
