@@ -113,4 +113,4 @@ resources:
     params: 
       caption: "I love silhouette photos, and lens flare is always fun. Putting them together makes for a great picture."
 ---
-I usually take a *lot* of pictures in a given year, and 2018 was no different. Out of the thousands of pictures I took, these are my favorites. Most are taken with my main camera, a Canon 6D, but some are moments captured with my phone. 
+I usually take a *lot* of pictures in a given year, and 2018 was no different. Out of the thousands of pictures I took, these are my favorites. Most are taken with my main camera, a Canon 6D, but some are moments captured with my phone.
