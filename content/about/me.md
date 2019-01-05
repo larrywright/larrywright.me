@@ -1,11 +1,12 @@
 +++
-title = "About"
-description = "About me"
+title = "About Me"
+description = "About Larry Wright"
 date = "2018-01-01T00:00:00-00:00"
 categories = []
 tags = []
-thumbnail = ""
 +++
+
+{{< figure src="/images/larry.jpg" class="img-thumbnail float-left mb-1 mr-3" width="200">}}
 
 I’m a perpetually curious person who likes working with smart people to use technology to solve difficult problems.
 
