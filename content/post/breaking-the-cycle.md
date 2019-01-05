@@ -2,7 +2,7 @@
 title = "Breaking the Cycle"
 description = "I’ve spent years trying to stay organized. Inevitably, patterns of behavior emerge."
 keywords = []
-categories = ["Productivity"]
+categories = ["Productivity", "Best Of"]
 date = "2013-06-07T21:00:00-00:00"
 draft = false
 +++

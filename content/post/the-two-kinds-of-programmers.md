@@ -5,12 +5,6 @@ draft = false
 categories = ["Programming","Best Of"]
 +++
 
-<div style="margin-bottom: 10px;">
-<img src="http://farm3.static.flickr.com/2342/1749662703_480d816bd1.jpg" style="border: 5px solid #ccc;"/><br/>
-<small>Photo courtesy of
-<a href="http://www.flickr.com/photos/roby72/1749662703/">Roby72</a></small>
-</div>
-
 In my time as a developer, and now managing a team of developers, I have
 come to realize that there are two kinds of programmers: the Journeyman
 and the Craftsman. These terms aren't mine - I've seen them used other

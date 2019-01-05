@@ -2,7 +2,7 @@
 title = "Training Your Technical Staff When You Don't Have a Budget"
 date = "2010-11-08T22:00:00-00:00"
 draft = false
-categories = ["Management"]
+categories = ["Management", "Best Of"]
 +++
 
 When budgets get tight, it can be difficult to provide adequate training
