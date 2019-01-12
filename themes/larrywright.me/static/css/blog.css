@@ -37,6 +37,16 @@ a {
 a:hover {
   color: #3684c6;
 }
+
+.blog-summary a {
+  color: #fff;
+}
+.blog-summary a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
 .navbar-brand {
   font-weight: bold;
   font-family: Merriweather, Georgia, "Times New Roman", serif;
