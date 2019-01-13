@@ -1,4 +1,4 @@
-baseURL = "http://larrywright.me"
+baseURL = "http://larrywright.me/"
 title = "Larry Wright"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
