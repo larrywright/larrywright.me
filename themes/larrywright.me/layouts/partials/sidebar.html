@@ -38,6 +38,16 @@
       {{- $url := .Permalink }}
       {{- $title := .Title }}
       {{ $images := .Resources.ByType "image" }}
+      {{- if .Params.featured }}
+        {{- $image := .Params.featured }}
+        {{- $imageref := $images.GetMatch (printf "**%s*" $image) }}
+        {{ $thumb := $imageref.Fill "400x400" }}
+        <a href="{{ $url }}">
+          <picture>
+            <img class="mb-3 mx-auto d-block rounded p-0 img-fluid" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
+          </picture>
+        </a>
+      {{- else }}
       {{ range $images }}
       {{ $thumb := .Fill "400x400" }}
       <a href="{{ $url }}">
@@ -45,7 +55,8 @@
           <img class="mb-3 mx-auto d-block rounded p-0 img-fluid" src="{{ $thumb.Permalink }}" alt="{{ $title }}"/>
         </picture>
       </a>
-      {{ end }}
+      {{- end }}
+      {{- end }}
       {{- end }}
     </div>
   </div>    
