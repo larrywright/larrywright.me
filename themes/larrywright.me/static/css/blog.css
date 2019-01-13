@@ -1,16 +1,8 @@
 body {
   color: #1E1E1E;
   background: #fefefe;
-  /* font-family: "Open Sans", Arial, Helvetica, sans-serif; */
-  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 }
-
-
- h1,h2,h3,h4,h5,h6, .card-header {
-  /* font-family: Merriweather, Georgia, "Times New Roman", serif;
-  font-weight: bold; */
- }
 
 .blog-post {
   padding-bottom: 1rem;
