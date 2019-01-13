@@ -6,12 +6,10 @@
 
 {{ define "main" }}
 <main aria-role="main">
-  <div>
         {{ $paginator := .Paginate (where .Pages "Type" "in" .Site.Params.mainSections) 10 }}
         {{ range $paginator.Pages }}
      {{.Render "summary"}}
   {{end}}
     {{ template "_internal/pagination.html" . }}
-  </div>
 </main>
 {{ end }}
