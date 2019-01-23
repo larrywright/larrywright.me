@@ -21,7 +21,7 @@ googleAnalytics = "UA-100582-3"
     truncate = true
     avatar = "larry.jpg"
 #    mainSections = ["post", "photo"]
-    mainSections = ["post"]
+    mainSections = ["post","photo"]
 
  [taxonomies]
     # Optional. Use if you want tags and lists.
