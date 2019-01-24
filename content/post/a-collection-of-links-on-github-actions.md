@@ -1,6 +1,6 @@
 ---
 title: "A Collection of Links on Github Actions"
-date: 2019-01-23
+date: 2019-01-24
 draft: false
 description: "I'm excited about the potential of Github Actions. While I wait to get access to it, I've been collecting links to things I've read about it."
 keywords: ["Larry Wright", "Links","Github Actions"]
@@ -24,26 +24,18 @@ A brief overview of the features Github Actions has.
 
 The Changelog podcast interviews [Kyle Daigle](https://twitter.com/kdaigle) of Github to talk about Actions. 
 
-
 ### &raquo; [A redone blog, again - Arktronic.com](https://arktronic.com/weblog/2018-12-28/a-redone-blog-again/)
- 
+
 A fairly common task, I suspect: automating the publishing of content when it's pushed to Github. I'll be doing this soon myself. Even if it's not something you need, this is a good intro to what you can use Actions for.
 
 ### &raquo; [Getting started with Github Actions](https://fastchicken.co.nz/2019/01/15/getting-started-with-github-actions/)
- 
-Nice guide to getting started. 
 
+Nice guide to getting started, with 
 
 ### &raquo; [Jessie Frazelle's Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
 
 An in-depth look at what happens when an action runs, from [@jessfraz](https://twitter.com/jessfraz). As an aside, if you're not following her on Twitter, you should. She's smart and works on some very cool things.
 
-
 ### &raquo; [nektos/act: Run your GitHub Actions locally](https://github.com/nektos/act)
 
 This is really exciting - run actions locally for testing. I haven't played with this just yet, but I will soon.
-
-
-### &raquo; [Probot App or GitHub Action?](https://jasonet.co/posts/probot-app-or-github-action/)
-
-Github Actions aren't the only game in town, and Probot is another option. Here's some discussion about the pros and cons of using one instead of the other.
