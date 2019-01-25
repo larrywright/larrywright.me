@@ -1,5 +1,5 @@
 ---
-title: "A Collection of Links on Github Actions"
+title: "A Collection of Links About Github Actions"
 date: 2019-01-24
 draft: false
 description: "I'm excited about the potential of Github Actions. While I wait to get access to it, I've been collecting links to things I've read about it."
@@ -18,7 +18,7 @@ The blog post where Github announced Actions. Good place to start if you have no
 
 ### &raquo; [Features • GitHub Actions](https://github.com/features/actions/)
 
-A brief overview of the features Github Actions has.
+A high level overview of the features Github Actions has.
 
 ### &raquo; [The Changelog #331: GitHub Actions is the next big thing with Kyle Daigle, Director of Ecosystem Engineering at GitHub](https://changelog.com/podcast/331)
 
@@ -28,9 +28,13 @@ The Changelog podcast interviews [Kyle Daigle](https://twitter.com/kdaigle) of G
 
 A fairly common task, I suspect: automating the publishing of content when it's pushed to Github. I'll be doing this soon myself. Even if it's not something you need, this is a good intro to what you can use Actions for.
 
+### &raquo; [Awesome Actions](https://github.com/sdras/awesome-actions)
+
+A Github repository with a curated list of Actions-related things, including a bunch of great examples.
+
 ### &raquo; [Getting started with Github Actions](https://fastchicken.co.nz/2019/01/15/getting-started-with-github-actions/)
 
-Nice guide to getting started, with 
+Nice guide to getting started. 
 
 ### &raquo; [Jessie Frazelle's Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
 
