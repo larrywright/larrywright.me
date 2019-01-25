@@ -43,3 +43,7 @@ An in-depth look at what happens when an action runs, from [@jessfraz](https://t
 ### &raquo; [nektos/act: Run your GitHub Actions locally](https://github.com/nektos/act)
 
 This is really exciting - run actions locally for testing. I haven't played with this just yet, but I will soon.
+
+### &raquo; [Github Actions](https://github-actions.netlify.com/)
+
+An open source list of Github Actions (via [David Boyne](https://twitter.com/boyney123). There are a lot here already, and they look useful. Adding a new one is as simple as submitting a pull request on Github.
