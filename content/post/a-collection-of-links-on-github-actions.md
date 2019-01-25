@@ -28,9 +28,9 @@ The Changelog podcast interviews [Kyle Daigle](https://twitter.com/kdaigle) of G
 
 A fairly common task, I suspect: automating the publishing of content when it's pushed to Github. I'll be doing this soon myself. Even if it's not something you need, this is a good intro to what you can use Actions for.
 
-### &raquo; [Awesome Actions](https://github.com/sdras/awesome-actions)
+### &raquo; [Introducing Github Actions](https://css-tricks.com/introducing-github-actions/)
 
-A Github repository with a curated list of Actions-related things, including a bunch of great examples.
+An introduction to Github Actions, from [Sarah Drasner](https://twitter.com/sarah_edo). This is a great overview. 
 
 ### &raquo; [Getting started with Github Actions](https://fastchicken.co.nz/2019/01/15/getting-started-with-github-actions/)
 
@@ -50,4 +50,4 @@ An open source list of Github Actions (via [David Boyne](https://twitter.com/boy
 
 ### &raquo; [Awesome Actions](https://github.com/sdras/awesome-actions)
 
-This is a great collection of resources from [Sarah Drasner](https://twitter.com/sarah_edo). Links to cool actions, as well as lots of links to documentation and other resources.
+This is a great collection of resources, also from [Sarah Drasner](https://twitter.com/sarah_edo). Links to cool actions, as well as lots of links to documentation and other resources.
