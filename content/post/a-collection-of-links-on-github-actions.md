@@ -47,3 +47,7 @@ This is really exciting - run actions locally for testing. I haven't played with
 ### &raquo; [Github Actions](https://github-actions.netlify.com/)
 
 An open source list of Github Actions (via [David Boyne](https://twitter.com/boyney123)). There are a lot here already, and they look useful. Adding a new one is as simple as submitting a pull request on Github.
+
+### &raquo; [Awesome Actions](https://github.com/sdras/awesome-actions)
+
+This is a great collection of resources from [Sarah Drasner](https://twitter.com/sarah_edo). Links to cool actions, as well as lots of links to documentation and other resources.
