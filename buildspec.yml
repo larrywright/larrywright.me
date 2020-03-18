@@ -3,14 +3,14 @@ version: 0.1
 environment_variables:
   plaintext:
     AWS_DEFAULT_REGION: "us-east-1"
-    HUGO_VERSION: "0.53"
-    HUGO_SHA256: "0e4424c90ce5c7a0c0f7ad24a558dd0c2f1500256023f6e3c0004f57a20ee119"
+    HUGO_VERSION: "0.67.1"
+    HUGO_SHA256: "3076ecd5426f4f1e46a4ca4242bde22c9a137199e5ab93fbbefb0271d25bc52a"
     BUCKET_NAME: "larrywright.me"
 
 phases:
   install:
     commands:
-      - curl -Ls https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - curl -Ls https://github.com/gohugo/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
       - echo "${HUGO_SHA256}  /tmp/hugo.tar.gz" | sha256sum -c -
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/bin/hugo
