@@ -10,7 +10,7 @@ environment_variables:
 phases:
   install:
     runtime-versions:
-      - golang: latest
+      golang: latest
     commands:
       - curl -Ls https://github.com/gohugo/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
       - echo "${HUGO_SHA256}  /tmp/hugo.tar.gz" | sha256sum -c -
