@@ -5,6 +5,7 @@ draft: false
 description: "A collection of links to COVID-19 resources"
 keywords: ["Larry Wright", "COVID-19", "Coronavirus"]
 categories: ["Links"]
+featured: "covid-19.jpeg"
 ---
 {{< figure src="/images/covid-19.jpeg" class="mb-1" width="100%">}}
 
