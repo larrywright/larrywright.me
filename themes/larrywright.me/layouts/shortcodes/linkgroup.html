@@ -1,0 +1,8 @@
+ <div class="card mb-2">
+   <div class="card-header">
+     <h2><i class="fas fa-list-alt mr-2" aria-hidden="true"></i>{{.Get "title" | markdownify }}</h2>
+   </div>
+   <div class="article card-body">
+     {{.Inner | markdownify}}
+   </div>
+ </div>
