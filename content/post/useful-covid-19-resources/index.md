@@ -31,6 +31,10 @@ This is mostly of use to those who live near me. It's a good collection of commu
 
 This is a deep dive into the illness itself, and the diagnosis and treatment of it. If you want all of the gory details, this is the place to go.
 
+### &raquo; [Illinois Department of Public Health COVID-19 Information](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus)
+
+The State of Illinois has a site with the latest news and guidance for a variety of businesses on how to prevent the spread. If you live elsewhere, your state probably has something similar.
+
 {{</linkgroup>}}
 
 {{<linkgroup title="Facts and figures, with pretty pictures">}}
