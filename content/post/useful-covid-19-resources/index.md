@@ -23,13 +23,13 @@ The CDC's website has the most up to date information on COVID-19
 
 I think this was the first article I saw that made it clear how serious this was. It's thorough and well-written. 
 
+### &raquo; [Bloomington-Normal COVID-19 Information](https://www.bnprepared.org/hospitality)
+
+This is mostly of use to those who live near me. It's a good collection of community resources, in particular [this page with a list of restaurants that are delivering food](https://www.bnprepared.org/hospitality).
+
 ### &raquo; [Internet Book of Critical Care - COVID-19](https://emcrit.org/ibcc/covid19/) 
 
 This is a deep dive into the illness itself, and the diagnosis and treatment of it. If you want all of the gory details, this is the place to go.
-
-### &raquo; [Khan Academy COVID-19 Data](https://youtu.be/mCa0JXEwDEk)
-
-This is a good explanation of the data that we have about the spread of this disease, and what it means. I really like this.
 
 {{</linkgroup>}}
 
@@ -39,7 +39,11 @@ There are a handful of sites that are tracking the spread of the disease and hel
 
 ### &raquo; [Johns Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/map.html)
 
-This is a good visualization of the current state of things. I look at this regularly just to keep a pulse on things. If you're into the nerdery behind this, the doctor who made this has put up a [great behind-the-scenes look](https://systems.jhu.edu/research/public-health/ncov/).
+This is a good visualization of the current state of things. Johns Hopkins has been tracking this disease for quite a while, and has made the data available to other organizations. I look at this regularly just to keep a pulse on things. If you're into the nerdery behind this, the doctor who made this has put up a [great behind-the-scenes look](https://systems.jhu.edu/research/public-health/ncov/).
+
+### &raquo; [Khan Academy COVID-19 Data](https://youtu.be/mCa0JXEwDEk)
+
+This is a good explanation of the data that we have about the spread of this disease, and what it means. I really like this.
 
 ### &raquo; [Epidemic Data for COVID-19](https://www.wolframcloud.com/obj/examples/COVID19World) 
 
@@ -70,6 +74,29 @@ Some of the same information in the previous one, but with some additional detai
 
 This is another persistent conspiracy theory, and also not true. See also: [Coronavirus is not a bioweapon created in a lab, scientists say](https://www.heraldscotland.com/news/18314818.coronavirus-not-bioweapon-created-lab-scientists-say/)
 
+### &raquo; [Younger Adults Comprise Big Portion of Coronavirus Hospitalizations in U.S.](https://www.nytimes.com/2020/03/18/health/coronavirus-young-people.html)
+
+Original reports were that this was largely a disease the affected the elderly and those with underlying conditions. While they make up the majority of deaths, many younger people end up sick enough to need intensive care. There are also reports of some people who recover but have a 20-30% reduction in lung capacity. It may or may not be permanent. The point is, recovering from the illness doesn't mean you escape unscathed.
+
 {{</linkgroup>}}
 
+{{<linkgroup title="Things you can do to help">}}
+
+### &raquo; Stay home, if at all possible 
+
+Social distancing is the only way to curb the spread and flatten the curve.
+
+### &raquo; Donate to a food bank: [Feeding America](http://feedingamerica.org)
+
+There are likely places near you that are helping to feed families in need, just ask around. Additionally with many schools shut down, there are lots of kids who may have been eating at school and now don't have enough to eat. Many areas have programs that are helping provide meals for these kids. You can donate money or time.
+
+### &raquo; Give blood: [Red Cross](https://www.redcross.org)
+
+There's a severe shortage of blood right now. Give if you're able.
+
+### &raquo; [Fostering a Pet During Coronavirus Pandemic](https://people.com/pets/pet-fostering-coronavirus-pandemic/)
+
+This is a great idea, especially for those that live alone. There are lots of dogs that need a home, and even if you can't give them a permanent home, you can get them out of the shelter and enjoy the company of a furry friend.
+
+{{</linkgroup>}}
 
