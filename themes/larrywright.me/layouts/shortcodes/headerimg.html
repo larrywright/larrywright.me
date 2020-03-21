@@ -1,0 +1,9 @@
+<div class="card mb-4 shadow-sm ">
+  {{ $image  := .Get "image"  }}
+  <img class="card-img-top" src="{{ $image }}" />
+  <div class="card-img-overlay h-100 d-flex p-0 flex-column justify-content-end">
+    <h5 class="card-text border-0 p-3 bg-semitransparent w-100 text-white">
+      {{ .Content }}
+    </h5>
+  </div>
+</div>

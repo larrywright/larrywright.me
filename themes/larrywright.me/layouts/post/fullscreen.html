@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+{{ partial "head.html" . }}
+
+<body>
+  <div class="container">
+    {{ partial "navigation.html" . }}
+    <div class="row mt-5 pt-4">
+      <div id="main" class="container-fluid">
+        {{ .Title }} &ndash; {{ .Site.Title }}
+        {{ partial "article.html" . }}
+      </div>
+    </div>
+  </div>
+
+  <footer class="bg-light mb-0">
+    {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+  </footer>
+
+</body>
+
+</html>
