@@ -22,6 +22,7 @@ This is mostly for my own benefit, but I thought other people might find it usef
 
   The state issued a shelter in place order today in an effort to contain the outbreak. There's confusion about what exactly that entails, and this helps answer some of the questions.
 
+
 {{</linkgroup>}}
 
 {{<linkgroup title="What it is and why it's serious">}}
@@ -84,6 +85,11 @@ This is mostly for my own benefit, but I thought other people might find it usef
   ### &raquo; [Predicting Coronavirus Cases](http://systrom.com/blog/predicting-coronavirus-cases/) {{<new>}}
 
   I don't actually understand all the math in this, but it was interesting nonetheless.
+  
+  
+  ### &raquo; [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441) {{<new>}}
+  
+  Financial Times has some great coverage of the pandemic, with visualizations that illustrate how this is unfolding. The link above is probably paywalled, but you can get to it from the Twitter account of their [data visualization journalist](https://twitter.com/jburnmurdoch/status/1241091873621643266)
 
 {{</linkgroup>}}
 
