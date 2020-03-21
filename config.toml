@@ -58,3 +58,6 @@ name = "Now"
 weight = 4
 identifier = "now"
 url = "/now"
+
+[markup.goldmark.renderer] 
+    unsafe= true
