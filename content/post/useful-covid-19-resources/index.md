@@ -56,6 +56,13 @@ This is mostly for my own benefit, but I thought other people might find it usef
   I can't add much to this that the title doesn't already tell you. I'll point out this bit though, which I've been saying for weeks:
   > Yes, the virus only kills a small percentage of those afflicted. Yes, the flu kills 10s of thousands of people annually. Yes, 80% of people will experience lightweight symptoms with COVID19. Yes the mortality rate of COVID19 is relatively low (1–2%). All of this true, but is immaterial. They are the wrong numbers to focus on…
 
+  ### &raquo; [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/) {{<new>}}
+  
+  In situations like this, the people to pay attention to are the professionals. Doctors, scientists, infectious disease specialists. Larry Brilliant is a professional.
+ 
+  > If you're not worried, you're not paying attention. 
+
+
 {{</linkgroup>}}
 
 {{<linkgroup title="Facts and figures, with pretty pictures">}}
