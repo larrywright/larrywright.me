@@ -24,6 +24,8 @@ This is mostly for my own benefit, but I thought other people might find it usef
 
   ### &raquo; [3M Doubled Production of N95 Face Masks to Fight Coronavirus - Bloomberg](https://www.bloomberg.com/news/features/2020-03-25/3m-doubled-production-of-n95-face-masks-to-fight-coronavirus) {{<new>}}
 
+  Masks seem to still be hard to come by. Hopefully this is a temporary situation.
+
   ### &raquo; [All of Wirecutter’s Coronavirus Coverage | Wirecutter](https://thewirecutter.com/blog/all-coronavirus-coverage/) {{<new>}}
   
   The Wirecutter is a product review site. They've had great coverage of COVID-19 related things, including product recommendations for sanitizing, how and what to clean, and more. Worth the time to check out.
@@ -103,7 +105,7 @@ This is mostly for my own benefit, but I thought other people might find it usef
   
   Financial Times has some great coverage of the pandemic, with visualizations that illustrate how this is unfolding. Their reporting is usually behind a paywall, but they've made this coverage free. Their charts are  concise and informative.
 
-  ### &raquo; [United States Coronavirus Totals](https://www.worldometers.info/coronavirus/country/us/)
+  ### &raquo; [United States Coronavirus Totals](https://www.worldometers.info/coronavirus/country/us/) {{<new>}}
   
   A more concise view than Johns Hopkins. Useful for getting a quick view of where the numbers are at.
 
