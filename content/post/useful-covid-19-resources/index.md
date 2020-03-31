@@ -22,6 +22,11 @@ This is mostly for my own benefit, but I thought other people might find it usef
 
   The state issued a shelter in place order today in an effort to contain the outbreak. There's confusion about what exactly that entails, and this helps answer some of the questions.
 
+  ### &raquo; [3M Doubled Production of N95 Face Masks to Fight Coronavirus - Bloomberg](https://www.bloomberg.com/news/features/2020-03-25/3m-doubled-production-of-n95-face-masks-to-fight-coronavirus) {{<new>}}
+
+  ### &raquo; [All of Wirecutter’s Coronavirus Coverage | Wirecutter](https://thewirecutter.com/blog/all-coronavirus-coverage/) {{<new>}}
+  
+  The Wirecutter is a product review site. They've had great coverage of COVID-19 related things, including product recommendations for sanitizing, how and what to clean, and more. Worth the time to check out.
 
 {{</linkgroup>}}
 
@@ -94,9 +99,13 @@ This is mostly for my own benefit, but I thought other people might find it usef
   I don't actually understand all the math in this, but it was interesting nonetheless.
   
   
-  ### &raquo; [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
+  ### &raquo; [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/coronavirus-latest) {{<new>}}
   
-  Financial Times has some great coverage of the pandemic, with visualizations that illustrate how this is unfolding. The link above is probably paywalled, but you can get to it from the Twitter account of their [data visualization journalist](https://twitter.com/jburnmurdoch/status/1241091873621643266)
+  Financial Times has some great coverage of the pandemic, with visualizations that illustrate how this is unfolding. Their reporting is usually behind a paywall, but they've made this coverage free. Their charts are  concise and informative.
+
+  ### &raquo; [United States Coronavirus Totals](https://www.worldometers.info/coronavirus/country/us/)
+  
+  A more concise view than Johns Hopkins. Useful for getting a quick view of where the numbers are at.
 
 {{</linkgroup>}}
 
