@@ -14,11 +14,11 @@ Like a lot of people, I've been closely tracking the COVID-19 pandemic. There ar
 This is mostly for my own benefit, but I thought other people might find it useful as well. If you're aware of something that belongs on the list, tell me about it on [Twitter](https://twitter.com/larrywright) or email me (my Twitter username @ Google's email service). 
 
 {{<linkgroup title="News and miscellany">}}
-  ### &raquo; [Spirits Distilleries Around the US Now Producing Hand Sanitizer](https://kottke.org/20/03/spirits-distilleries-around-the-us-now-producing-hand-sanitizer) {{<new>}}
+  ### &raquo; [Spirits Distilleries Around the US Now Producing Hand Sanitizer](https://kottke.org/20/03/spirits-distilleries-around-the-us-now-producing-hand-sanitizer)
 
   This is nice to see. 
 
-  ### &raquo; [State of Illinois Stay-At-Home FAQs](https://www2.illinois.gov/sites/coronavirus/FAQ/Pages/Stay-At-Home-FAQS.aspx) {{<new>}}
+  ### &raquo; [State of Illinois Stay-At-Home FAQs](https://www2.illinois.gov/sites/coronavirus/FAQ/Pages/Stay-At-Home-FAQS.aspx) 
 
   The state issued a shelter in place order today in an effort to contain the outbreak. There's confusion about what exactly that entails, and this helps answer some of the questions.
 
@@ -47,16 +47,16 @@ This is mostly for my own benefit, but I thought other people might find it usef
 
   The State of Illinois has a site with the latest news and guidance for a variety of businesses on how to prevent the spread. If you live elsewhere, your state probably has something similar.
 
-  ### &raquo; [What We Know So Far About SARS-CoV-2 - The Atlantic](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/) {{<new>}}
+  ### &raquo; [What We Know So Far About SARS-CoV-2 - The Atlantic](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/) 
 
   Great piece by The Atlantic. 
 
-  ### &raquo; [The Sober Math Everyone Must Understand about the Pandemic](https://medium.com/@Jason_Scott_Warner/the-sober-math-everyone-must-understand-about-the-pandemic-2b0145881993) {{<new>}}
+  ### &raquo; [The Sober Math Everyone Must Understand about the Pandemic](https://medium.com/@Jason_Scott_Warner/the-sober-math-everyone-must-understand-about-the-pandemic-2b0145881993) 
 
   I can't add much to this that the title doesn't already tell you. I'll point out this bit though, which I've been saying for weeks:
   > Yes, the virus only kills a small percentage of those afflicted. Yes, the flu kills 10s of thousands of people annually. Yes, 80% of people will experience lightweight symptoms with COVID19. Yes the mortality rate of COVID19 is relatively low (1–2%). All of this true, but is immaterial. They are the wrong numbers to focus on…
 
-  ### &raquo; [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/) {{<new>}}
+  ### &raquo; [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/) 
   
   In situations like this, the people to pay attention to are the professionals. Doctors, scientists, infectious disease specialists. Larry Brilliant is a professional.
  
@@ -89,12 +89,12 @@ This is mostly for my own benefit, but I thought other people might find it usef
 
   An excellent visual to show why social distancing is important.
 
-  ### &raquo; [Predicting Coronavirus Cases](http://systrom.com/blog/predicting-coronavirus-cases/) {{<new>}}
+  ### &raquo; [Predicting Coronavirus Cases](http://systrom.com/blog/predicting-coronavirus-cases/)
 
   I don't actually understand all the math in this, but it was interesting nonetheless.
   
   
-  ### &raquo; [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441) {{<new>}}
+  ### &raquo; [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
   
   Financial Times has some great coverage of the pandemic, with visualizations that illustrate how this is unfolding. The link above is probably paywalled, but you can get to it from the Twitter account of their [data visualization journalist](https://twitter.com/jburnmurdoch/status/1241091873621643266)
 
