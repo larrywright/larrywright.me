@@ -37,7 +37,7 @@
       {{- range first 4 (where .Site.Pages "Section" "photo") }}
       {{- $url := .Permalink }}
       {{- $title := .Title }}
-      {{ $images := .Resources.ByType "image" }}
+      {{ $images := .Resources.Match "images/*" }}
       {{- if .Params.featured }}
         {{- $image := .Params.featured }}
         {{- $imageref := $images.GetMatch (printf "**%s*" $image) }}
