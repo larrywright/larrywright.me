@@ -4,7 +4,7 @@ environment_variables:
   plaintext:
     AWS_DEFAULT_REGION: "us-east-1"
     HUGO_VERSION: "0.117.0"
-    HUGO_SHA256: "5d136420680ce3ccd6b1f1824332f8e2c97a802890e7b25d14f7e5f343f724a9"
+    HUGO_SHA256: "bc46430926bd52d51d9732c51e8ed2a97831c9e0a9dec9836351ba37ba6f9543"
     BUCKET_NAME: "larrywright.me"
 
 phases:
