@@ -12,8 +12,8 @@
         <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end }}
 {{ with $original }}
-    {{ if gt $original.Width 1000 }}
-        {{ $image := .Resize "1000x" }}
+    {{ if gt $original.Width 600 }}
+        {{ $image := .Resize "600x" }}
         <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="figure-img img-fluid border rounded shadow"
         {{- if or ($alt) ($caption) }}
             alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption | markdownify| plainify }}{{ end }}"
