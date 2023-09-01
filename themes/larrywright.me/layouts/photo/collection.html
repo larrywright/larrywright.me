@@ -17,7 +17,7 @@
     {{ .Content }}
     {{- $images := .Resources.ByType "image" -}}
     {{- range $images }} 
-    {{- $image := .Resize "1000x" }}
+    {{- $image := .Resize "800x" }}
     <h3>{{$image.Title}}</h3>
     <figure class="figure figure-img pb-4">    
       <img src="{{ $image.Permalink }}" alt="" class="img-fluid"/>
