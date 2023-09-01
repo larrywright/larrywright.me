@@ -1,23 +1,23 @@
-
 {{ define "title" }}
-  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <article class="blog-post">
-    <h1 class="blog-post-title mb-2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-    {{ .Content }}
-    <h2>The Best Of</h2>
-    <p>If you're new here, this is a collection of my favorite things I've written. It's a great place to start.</p>
-    {{- range index .Site.Taxonomies.categories "best-of"}}
-    <div class="card mb-2">
+<article class="blog-post">
+  <h1 class="blog-post-title mb-2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  {{ .Content }}
+  <h2>The Best Of</h2>
+  <p>If you're new here, this is a collection of my favorite things I've written. It's a great place to start.</p>
+  {{- range index .Site.Taxonomies.categories "best-of"}}
+  <div class="card mb-2">
     <div class="card-header">
-        <strong><a href="{{.RelPermalink}}"><i class="fas fa-star mr-1" aria-hidden="true"></i>{{.Title | markdownify }}</a></strong>
+      <strong><a href="{{.RelPermalink}}"><i class="fas fa-star mr-1" aria-hidden="true"></i>{{.Title | markdownify
+          }}</a></strong>
     </div>
     <div class="blog-summary card-body">
-        <p>{{.Summary}}</p>
-        <a class="btn btn-primary" href="{{ .Permalink}}">Read the full article</a>
+      <p>{{.Summary}}</p>
+      <a class="btn btn-primary" href="{{ .Permalink}}">Read the full article</a>
     </div>
   </div>
-    {{ end }}  
-  </article>
+  {{ end }}
+</article>
 {{ end }}
