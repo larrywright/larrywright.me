@@ -1,10 +1,11 @@
-baseURL = "http://larrywright.me/"
+baseURL = "https://larrywright.me/"
 title = "Larry Wright"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "larrywright.me"
 pygmentsCodeFences = true
 googleAnalytics = "UA-100582-3"
+enableRobotsTXT = true
 
 [Author]
     name = "Larry Wright"
@@ -21,7 +22,7 @@ googleAnalytics = "UA-100582-3"
     truncate = true
     avatar = "larry.jpg"
 #    mainSections = ["post", "photo"]
-    mainSections = ["post","photo"]
+    mainSections = ["post","photo","til"]
 
  [taxonomies]
     # Optional. Use if you want tags and lists.
@@ -57,7 +58,53 @@ url = "/photo/"
 name = "Now"
 weight = 4
 identifier = "now"
-url = "/now"
+url = "/now/"
+
+[[menu.main]]
+name = "TIL"
+weight = 5
+identifier = "til"
+url = "/til/"
 
 [markup.goldmark.renderer] 
     unsafe= true
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "development"
+
+# S3; see https://gocloud.dev/howto/blob/#s3
+URL = "s3://draft.larrywright.me?region=us-east-1"
+
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+cloudFrontDistributionID = "EX64VQR8QFZIN"
+
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# See https://golang.org/pkg/regexp/syntax/ for pattern syntax.
+# Pattern searching is stopped on first match.
+
+# Samples:
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
