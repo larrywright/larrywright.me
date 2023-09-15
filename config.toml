@@ -9,7 +9,12 @@ enableRobotsTXT = true
 
 [Author]
     name = "Larry Wright"
-    
+
+[taxonomies]
+  category = "categories"
+  topic = "topics"
+  tag = "tags"
+
 [params]
     subtitle = "The Journal of a Curious Person" # Subtitle of your site
     defaultDescription = "Words and pictures by Larry Wright. A little bit of everything, mostly nerdy."
@@ -21,12 +26,8 @@ enableRobotsTXT = true
     home = "Home"
     truncate = true
     avatar = "larry.jpg"
-#    mainSections = ["post", "photo"]
     mainSections = ["post","photo","til"]
 
- [taxonomies]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
 
 [params.widgets]
     search = true 
