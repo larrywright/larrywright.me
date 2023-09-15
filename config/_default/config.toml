@@ -4,8 +4,6 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "larrywright.me"
 pygmentsCodeFences = true
-googleAnalytics = "UA-100582-3"
-enableRobotsTXT = true
 
 [Author]
     name = "Larry Wright"
@@ -74,7 +72,7 @@ url = "/til/"
 
 [[deployment.targets]]
 # An arbitrary name for this target.
-name = "development"
+name = "staging"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 URL = "s3://draft.larrywright.me?region=us-east-1"
