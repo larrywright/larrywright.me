@@ -1,0 +1,27 @@
+
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+
+  <article class="blog-post">
+    <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <p>{{.Description}}</p>
+    {{ .Content }}
+    <ul>
+      <!-- Ranges through content/posts/*.md -->
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .Permalink }}"> {{ .Title }}</a>
+          {{ if .Params.topics }}            
+          {{ range .Params.topics}}
+          <a href="{{ "/topics/" | relLangURL }}{{ . | urlize }}" class="badge badge-secondary">{{ . }}</a>
+          {{ end }}
+        {{ end }}
+
+        </li>
+      {{ end }}
+    </ul>
+  </article>
+  
+{{ end }}
