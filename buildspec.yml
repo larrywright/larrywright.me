@@ -3,8 +3,8 @@ version: 0.2
 environment_variables:
   plaintext:
     AWS_DEFAULT_REGION: "us-east-1"
-    HUGO_VERSION: "0.117.0"
-    HUGO_SHA256: "bc46430926bd52d51d9732c51e8ed2a97831c9e0a9dec9836351ba37ba6f9543"
+    HUGO_VERSION: "0.118.2"
+    HUGO_SHA256: "9c4c1a0ca76519a00742a9e75076648fe71480b302241fb941129ac647f01581"
     BUCKET_NAME: "larrywright.me"
 
 phases:
@@ -21,7 +21,7 @@ phases:
       - hugo version
   build:
     commands:
-      - hugo
+      - hugo --gc --minify
   post_build:
     commands:
-      - cd public && aws s3 sync --acl "public-read" --sse "AES256" --delete . s3://$BUCKET_NAME --exclude .DS_Store
+      - hugo deploy --target=production --maxDeletes -1
