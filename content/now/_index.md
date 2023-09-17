@@ -40,4 +40,4 @@ We have a new dog (for a total of two). She's a mini golden doodle named Mabel a
 
 * I've been working on posting more photos as well, check out my [Best of 2022](http://larrywright.me/photo/best-of-2022/) post to see some of my recent favorites.
 
-_Last updated Thursday August 31st, 2023_
+_Last updated September 16th, 2023_
