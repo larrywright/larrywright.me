@@ -11,7 +11,7 @@
         {{ $menuURL := .URL | absLangURL }}
         <li class="nav-item">
           <a class="nav-link{{ if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-        </li>
+        </li>        
         {{ end }}
       </ul>
     </div>

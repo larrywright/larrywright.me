@@ -9,12 +9,14 @@ body {
   margin-bottom: 2rem;
   max-width: 100% !important;
   overflow-x: hidden !important;
-  border-bottom: 1px solid #ccc;
+  /* border-bottom: 1px solid #ccc; */
   background: #fff;
 }
+
 pre {
-    padding: .75rem;
+  padding: .75rem;
 }
+
 .blog-post-title {
   margin-bottom: 0rem;
   font-size: 2.0rem;
@@ -112,6 +114,25 @@ blockquote {
   background-color: rgba(60, 60, 60, 0.8);
 }
 
+
+/* via https://chat.openai.com/share/0feb50f8-ffff-4494-a653-951664537859 */
+@media (min-width: 769px) {
+  .navbar-nav>li>a::after {
+    content: '•';
+    padding-left: 8px;
+  }
+}
+
+.navbar-nav>li:last-child>a::after {
+  content: none;
+}
+
+/* Hide the separator on screens 768px and narrower */
+@media (max-width: 768px) {
+  .navbar-nav>li>a::after {
+    content: none;
+  }
+}
 
 /* Uncomment these to show the grid objects - for debugging */
 /* .container {
