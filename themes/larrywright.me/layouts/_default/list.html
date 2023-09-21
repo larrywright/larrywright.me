@@ -8,7 +8,6 @@
 <main aria-role="main">
   {{ range .Paginator.Pages }}
   {{ .Render "summary" }}
-  <hr/>
   {{ end }}
   {{ template "_internal/pagination.html" . }}
 </main>
