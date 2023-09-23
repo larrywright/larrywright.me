@@ -1,16 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico:400,700&display=swap');
 body {
-  color: #1E1E1E;
-  background: #fefefe;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+  color: #333333;
+  background: #F7F7F7;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  /* font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif */
 }
-
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: 'Georgia', serif; */
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  /* Fallback fonts */
+  font-weight: 700; /* Bold font weight for headings (can be adjusted based on preference) */
+}
+.site-title {
+  font-family: 'Arial', sans-serif; /* Use a bold sans-serif font */
+  font-weight: 700; /* Bold font weight for added emphasis */
+  color: #333333; /* Text color for the title */
+  text-transform: uppercase; /* Convert the title text to uppercase for added emphasis */
+}
 .blog-post {
   padding-bottom: 2rem;
   margin-bottom: 2rem;
   max-width: 100% !important;
   overflow-x: hidden !important;
   /* border-bottom: 1px solid #ccc; */
-  background: #fff;
+  background: #F7F7F7;
 }
 
 pre {
@@ -28,11 +42,11 @@ pre {
 }
 
 a {
-  color: #1d4a70;
+  color: #0077B5;
 }
 
 a:hover {
-  color: #3684c6;
+  color: #00568D;
 }
 
 .blog-summary a {
@@ -47,11 +61,11 @@ a:hover {
 
 .navbar-brand {
   font-weight: bold;
-  color: #1E1E1E;
+  color: #333333;
 }
 
 .navbar-dark {
-  background: #212934;
+  background: #222222;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -61,11 +75,11 @@ a:hover {
 
 .navbar-dark .navbar-nav .nav-link:hover {
   color: #fff;
-  background: #212934;
+  background: #222222;
 }
 
 article a {
-  color: #2769a0;
+  color: #0077B5;
 }
 
 article h2 {
@@ -82,7 +96,7 @@ article h3 {
 } */
 
 .page-link {
-  color: #213d53;
+  color: #0077B5;
 }
 
 .page-item.active .page-link {
@@ -91,7 +105,7 @@ article h3 {
 }
 
 .page-link:hover {
-  color: #1E1E1E;
+  color: #00568D;
 }
 
 .figure-caption {
