@@ -7,5 +7,6 @@ tags = []
 thumbnail = ""
 +++
 
-***
 These are short posts, documenting things I've learned. You can read more about the idea behind it here: [Adding a Today I Learned Section to the Site]({{< ref "/post/adding-today-i-learned" >}}).
+
+---
