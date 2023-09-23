@@ -6,12 +6,18 @@ description: "A collection of links to COVID-19 resources"
 keywords: ["Larry Wright", "COVID-19", "Coronavirus"]
 categories: ["Links"]
 featured: "covid-19.jpeg"
+summary: "Like a lot of people, I've been closely tracking the COVID-19 pandemic. There are a lot of useful resources for keeping track of what’s happening with COVID-19, but there’s also a lot of misinformation. I wanted to put together a collection of the things that I’ve found to be useful, and more importantly accurate. 
+
+This is mostly for my own benefit, but I thought other people might find it useful as well."
 ---
 {{<figure src="/images/covid-19.jpeg" class="mb-1 float-left" width="100%">}}
 
 Like a lot of people, I've been closely tracking the COVID-19 pandemic. There are a lot of useful resources for keeping track of what’s happening with COVID-19, but there’s also a lot of misinformation. I wanted to put together a collection of the things that I’ve found to be useful, and more importantly accurate. 
 
+<!--more-->
+
 This is mostly for my own benefit, but I thought other people might find it useful as well. If you're aware of something that belongs on the list, tell me about it on [Twitter](https://twitter.com/larrywright) or email me (my Twitter username @ Google's email service). 
+
 
 {{<linkgroup title="News and miscellany">}}
   ### &raquo; [Spirits Distilleries Around the US Now Producing Hand Sanitizer](https://kottke.org/20/03/spirits-distilleries-around-the-us-now-producing-hand-sanitizer)

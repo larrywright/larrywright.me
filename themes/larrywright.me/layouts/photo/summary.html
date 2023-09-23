@@ -5,6 +5,13 @@
             <i class="fas fa-calendar mr-1" aria-hidden="true"></i>
             <time class="mr-1" datetime="{{ .Date.Format " 2006-01-02T15:04:05JST" }}">{{ .Date.Format (
                 .Site.Params.dateformat | default "Jan 2, 2006") }}</time>
+                {{ if .Params.categories }}
+                <i class="fas fa-bookmark" aria-hidden="true"></i>
+                {{ range .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+                {{ end }}
+          
         </small>
     </div>
     {{- $title := .Title }}
@@ -19,8 +26,10 @@
     </figure>
     {{- end }}
     {{ .Content }}
+    {{- if gt $imgcount 1}}
     <div>
         <a href="{{ .RelPermalink }}">Read More ({{$imgcount}} pictures)… </a><span></span>
-      </div>
+    </div>
+    {{- end}}
 </article>
 <hr />
